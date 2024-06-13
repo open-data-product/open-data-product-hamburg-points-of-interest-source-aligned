@@ -1,0 +1,16 @@
+---
+id: hamburg-points-of-interest
+name: Hamburg Points of Interest
+metadata:
+  - ownership:
+  - schema:
+description:
+input_ports:
+output_ports:
+metrics:
+  - quality:
+  - operational:
+classification:
+tags:
+  - hamburg
+  - places
