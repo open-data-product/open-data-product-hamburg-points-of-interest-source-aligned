@@ -2,6 +2,7 @@ import getopt
 import os
 import sys
 
+from lib.automation.manifest_updater import update_manifest
 from lib.extract.overpass_data_extractor import extract_overpass_data
 from lib.load.data_loader import load_data
 from lib.tracking_decorator import TrackingDecorator
@@ -61,6 +62,7 @@ def main(argv):
 
     load_data(source_path=workspace_path, results_path=data_path, clean=clean, quiet=quiet)
 
+    update_manifest(manifest_path=manifest_path, data_path=data_path)
 
 if __name__ == "__main__":
     main(sys.argv[1:])
