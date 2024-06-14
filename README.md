@@ -1,4 +1,5 @@
 [![Issues](https://img.shields.io/github/issues/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest)](https://github.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest/issues)
+[![Crawl content](https://github.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/actions/workflows/crawl-content.yaml/badge.svg)](https://github.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/actions/workflows/crawl-content.yaml)
 
 <br />
 <p align="center">
