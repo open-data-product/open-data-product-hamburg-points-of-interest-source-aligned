@@ -13,7 +13,7 @@ output_ports:
       author: Open Lifeworlds
       url: https://github.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/tree/main/data
       license: CC-BY-4.0
-      updated: '2024-06-14'
+      updated: '2024-07-01'
     files:
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-art-galleries-2024-06-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-bars-2024-06-details.csv
@@ -60,6 +60,50 @@ output_ports:
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-tram-stops-2024-06-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-ubahn-stops-2024-06-details.csv
       - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-universities-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-art-galleries-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-bars-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-beer-gardens-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-bicycle-rentals-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-bus-stops-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-cafes-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-car-sharing-stations-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-childcare-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-cinemas-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-clinics-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-community-centers-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-convenience-stores-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-coworking-spaces-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-doctors-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-fast-food-restaurants-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-fire-stations-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-fitness-centers-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-food-courts-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-forests-2024-07-details.json
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-grocery-stores-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-hospitals-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-ice-cream-parlours-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-kindergartens-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-libraries-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-marketplaces-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-museums-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-nightclubs-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-offices-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-parks-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-parks-2024-07-details.json
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-pharmacies-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-places-of-worship-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-playgrounds-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-police-stations-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-post-offices-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-pubs-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-restaurants-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-sbahn-stops-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-schools-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-sport-centers-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-supermarkets-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-theaters-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-ubahn-stops-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-lifeworlds/open-lifeworlds-data-product-hamburg-points-of-interest-source-aligned/main/data/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-universities-2024-07-details.csv
   - id: hamburg-points-of-interest-json
     metadata:
       name: Hamburg points-of-interest json

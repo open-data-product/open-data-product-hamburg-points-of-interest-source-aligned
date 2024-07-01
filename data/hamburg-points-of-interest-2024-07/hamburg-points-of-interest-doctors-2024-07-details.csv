@@ -1,0 +1,898 @@
+id,lat,lon,name,street,zip_code,city
+69450386,53.6481069,10.1629511,Ärztehaus,,,
+277307750,53.641073,10.0850339,Dr. med. Jürgen R. Laubsch,,,
+277790181,53.5974792,10.0423462,Silke Engelder,Fuhlsbüttler Straße 265,22307,Hamburg
+277790188,53.5967079,10.0428576,H. Keyany,Fuhlsbüttler Straße 257,22307,Hamburg
+277790189,53.5966557,10.0428861,Bernhard Nast,Fuhlsbüttler Straße 257,22307,Hamburg
+316973426,53.5882162,9.8490943,,,,
+316981937,53.5842656,9.8543904,Dr. med. Mirweys Sina,,,
+368308193,53.5141826,9.9869586,Praxis Haddad,,,
+369815366,53.5695571,10.1694348,Div. Ärzte,,,
+386872637,53.5349251,10.043114,Drobik,,,
+388469418,53.7297341,10.2638761,Dr. med. Ralf Rüttershoff,,,
+394941154,53.5750211,9.9582998,"Gemeinschaftspraxis Dr. Böttcher, Dr. Kschowak, Dr. Strobel",,,
+397617962,53.5728,9.9575694,Dr. Andrea Sörens,Schulweg 3,20259,Hamburg
+398193867,53.6091614,9.8400639,Praxis Teja H. Lensch,Lornsenstraße 124,22869,Schenefeld
+400696976,53.5986382,9.8617101,Niels Schlüter,Fahrenort 129,22547,Hamburg
+410213324,53.5338833,10.0389634,Praxis am Marktplatz,Rothenburgsorter Marktplatz 1,20539,Hamburg
+437355081,53.5659024,9.9819387,ICH Grindel,,,
+467064271,53.6552664,10.093689,,Heegbarg 36,22391,Hamburg
+559721169,53.4770661,10.1822371,Dr. Stüven,,,
+588652098,53.5773804,10.0453406,Dr. med. Caspar Gleiss,Wohldorfer Straße 44,22081,Hamburg
+605051977,53.6532261,10.1103362,Dr. phil.Sönke Jessen.Diehl,,,
+606980403,53.6493729,10.1043178,Naturheilpraxis Heinz-Peter Böttner,,,
+626143003,53.6616522,10.0854783,Hammersen,Moorhof 2D,22399,Hamburg
+666320451,53.641296,10.0800159,Allgemeinmedizin Saskia Sprenger,Wellingsbüttler Weg 115,22391,Hamburg
+674732081,53.6784984,10.0000466,Joachim Homann,Langenhorner Chaussee 657,22419,Hamburg
+674732082,53.6785776,10.0000261,Frauenärztin Silke Hantelmann,Langenhorner Chaussee 657,22419,Hamburg
+696858205,53.4247331,9.7876113,,,,
+761255985,53.6586793,9.742698,Dr. Arngold,Eekhoff 5,,
+845206191,53.4659525,9.9622552,Dr. med. Albrecht Leopold,,,
+845208299,53.4651922,9.9631522,Dr. med. Genc Shala,,,
+856778154,53.7365164,9.9029975,Ärztezentrum Quickborn,Ziegenweg 4,25451,Quickborn
+880392215,53.5793012,9.9334608,Die Praxis für Kinder und Jugendliche,,,
+888502466,53.5663151,10.0565086,Kinderarzt Kroschke und Klarczyk,Hammer Steindamm 44,22089,Hamburg
+900583022,53.6426129,10.0463261,Hausärztliche Gemeinschaftspraxis Hummelsbütteler Markt,Hummelsbütteler Markt 3,22339,Hamburg
+900583099,53.6433114,10.0464417,Nazeh Mahmoud,Hummelsbütteler Markt 15,22339,Hamburg
+905085608,53.6221296,9.9541536,Praxis für HNO-Heilkunde,Zum Markt 1a,22459,Hamburg
+905410530,53.5485031,9.9336469,Geburtshaus Hamburg,Am Felde 2,22765,Hamburg
+920072143,53.5535581,10.06258,Dr. Nina Augistin,Droopweg 25,20537,Hamburg
+932156568,53.5666761,10.0568499,Augenarzt Mahmoud Saadat,Hammer Steindamm 40,22089,Hamburg
+960098116,53.5637789,9.916052,Orthopädie Am Alten Gaswerk - Gemeinschaftspraxis,Paul-Dessau-Straße 1,,
+966074486,53.5800698,10.012961,docboom!,,,
+983452176,53.6813348,9.9974081,Kinderarzt,,,
+1062269503,53.6359949,10.0928513,Kinderchirurgie,,,
+1069192751,53.6261097,10.0857265,Dr. med Reimar Krüger,,,
+1071981503,53.6816562,9.9967036,Ärztehaus,,,
+1121446548,53.6564034,10.2601964,Hammerl,,,
+1133646744,53.6523946,10.1841989,Christoph Müller-Rahmel,,,
+1329349578,53.5551912,9.9266549,Bewegung ist LEBEN (Orthopädische Praxis),,,
+1330951188,53.5546926,10.240989,Naturheilpraxis Ebert,,,
+1337748669,53.6778497,10.1492711,Dr. med Jörg Nowrath,Georg-Sasse-Straße 16,22949,Ammersbek
+1345120455,53.6748315,10.0259412,Hausarztpraxis Dr. Axt,Holitzberg 288,22417,Hamburg
+1416886329,53.5984438,9.8487277,,,,
+1417506594,53.6532505,10.0916517,Julia Berger Psychiater,Heegbarg 17,22391,Hamburg
+1490263364,53.5521038,9.9918582,Neurologie Neuer Wall,,,
+1491747985,53.6789405,10.149412,Dr. med. Karin Weber,Hamburger Straße 97,22949,Ammersbek
+1491747986,53.6789749,10.1494972,Dr. med. Wolfgang Rust,Hamburger Straße 97,22949,Ammersbek
+1491747987,53.6789443,10.14955,Dr. med. dent. Bernd Dellwig,Hamburger Straße 97,22949,Ammersbek
+1491747988,53.6789065,10.1494723,Dr. med. dent. Manfred Kaufmann,Hamburger Straße 97,22949,Ammersbek
+1491747989,53.678904,10.1493239,Dörte Sefring,Hamburger Straße 97a,22949,Ammersbek
+1491748076,53.6788812,10.1492555,Susanne Koop,Hamburger Straße 97a,22949,Ammersbek
+1491748077,53.6789371,10.1494836,Werner Müller,Hamburger Straße 97,22949,Ammersbek
+1528173385,53.5577472,9.9896973,Urologie Dr. Friedrichs,,,
+1574464373,53.5529373,9.9314289,HNO Praxis im Mercado,Große Rainstraße 22,,
+1576522488,53.5883878,9.9530836,Hausarztpraxis Lokstedt,Vizelinstraße 8c,22529,Hamburg
+1576932382,53.6077564,10.1177386,Kinderarzt Dr. Petrick,August-Krogmann-Straße 14a,22159,Hamburg
+1636285301,53.6523162,10.0934155,HNO Rennert & Reitmeier & Pyttlik & Thalau,Heegbarg 2,22391,Hamburg
+1652765427,53.678958,10.1494556,Dr. med. Becker,Hamburger Straße 97,22949,Ammersbek
+1652773489,53.6008643,9.838325,Dr. Meyer-Hülsmann,Industriestraße 1,22869,Schenefeld
+1661256676,53.565849,10.0419666,Hamburger BetreuungsKreis,Hirschgraben 16,22089,Hamburg
+1672837453,53.5889299,10.1801605,Hausarztpraxis Dr. med. Stefanie Fix & Torsten Fix,Kielkoppelstraße 62,22149,Hamburg
+1767738688,53.6341658,9.94691,Hausärzte Niendorf,Gernroder Weg 16,22453,Hamburg
+1783925694,53.5946927,9.9984539,Internisten Winterhude,,,
+1861988043,53.6410523,9.947989,"Dr. Amirzada, Dr. Beier",Ernst-Mittelbach-Ring 80,22455,Hamburg
+1862001246,53.6405055,9.9483767,Gemeinschaftspraxis Nordalbingerweg,Nordalbingerweg 19,22455,Hamburg
+1923445798,53.5829486,9.8548776,Dr. med. Sabine Rath und Kathrin Gross,,,
+1923445801,53.5830123,9.8548561,Dr. Kay Steidtmann u. Dr. Andrea Paps,,,
+1923445803,53.5829774,9.8549741,Dr. med. Frank Scharlau,,,
+1923445813,53.5829137,9.8547649,Dr. R. Stühmer,,,
+1923445814,53.5828883,9.8548561,Dr. W-E Garbe,,,
+1934912948,53.5642076,9.813095,,,,
+1946676141,53.5927974,9.8730196,Ärztezentrum Hamburg West,Eckhoffplatz 28,22547,Hamburg
+1953410142,53.6058784,9.9911486,Neurologische Praxis am Israelitischen Krankenhaus,Orchideenstieg 14,22297,Hamburg
+1974994173,53.5601059,9.9267097,Sanna Rauhala-Parrey,Bahrenfelder Steindamm 37,22761,Hamburg
+1988222597,53.5596389,9.8892352,Praxisgemeinschaft Rosenhagen,,,
+1997009823,53.4717877,9.8536165,Haroske,,,
+2025441442,53.559807,9.959728,Praxis für Orthopädie + Chiropraktik,Bernstorffstraße 174,22767,Hamburg
+2074316938,53.6187812,10.0806355,Dr. Oeter,Bramfelder Chaussee 324,22177,Hamburg
+2079008480,53.5421387,9.9953631,Dr. Negin Pakravesh,,,
+2089639727,53.4481868,10.2307254,Hausarztpraxis Curslack,,,
+2119635967,53.5592503,10.1081363,Diabetes Centrum,Manshardtstraße 117a,22119,Hamburg
+2246200678,53.6505377,10.1622207,Dr. med. Carsten Reinhardt,,,
+2246200679,53.6505328,10.1622474,Dr. med. Tatjana Tafese,,,
+2301140870,53.4884237,10.2097402,,,,
+2301171929,53.4832997,10.1751532,,,,
+2301171930,53.4894115,10.1810364,"Medizinisches Versorgungszentrum H. Afzali, L. Punko, F. Sarwary",,,
+2318856809,53.541517,9.9878187,Ärzte Am Kaiserkai,Am Kaiserkai 46,20457,Hamburg
+2340133604,53.3963733,10.0422861,Dr. Heike Ramm,Schulstraße 44,21220,Seevetal
+2368658536,53.6723362,10.220996,Urologe Herr Dr. med. Salah Wanli,,,
+2433578027,53.6722914,10.2210198,Lungenfacharzt Dr.med. J.-P. Jacobsen,,,
+2493862126,53.4734778,9.879717,HNO-Praxis-Süderelbe,,,
+2507158763,53.7297562,10.2688148,Anne Seveke-Herbst,,,
+2507158766,53.7287164,10.2575158,Carola Richter,,,
+2507158771,53.7292053,10.2569513,Dr. Wulfram Höhn,,,
+2507158772,53.7287009,10.2575714,Dr. med. Andrea Völtzer,,,
+2507158773,53.7294855,10.2695842,Dr. med. Anke C. Westermann,,,
+2507158774,53.7285914,10.2580516,Dr. med. P. Pajouh,,,
+2507158775,53.7297496,10.2638746,Dr. med. Grit Jendral,,,
+2507158776,53.730363,10.2685622,Dr. med. Irmtraut Käfer,,,
+2507158777,53.7292044,10.2569292,Dr. med. Joachim Wismar,,,
+2507158778,53.7303343,10.268539,Dr. med. Johannes Wex,,,
+2507158779,53.730332,10.2685894,Dr. med. Nicolas Kotseronis,Rathausstraße 33a,22941,Bargteheide
+2507158780,53.7294807,10.2655734,Dr.med.Regina Rossmann,Rathausstraße 16,22941,Bargteheide
+2507158782,53.7297988,10.2695417,Dr. med. Karl Freyer,,,
+2507158784,53.7297568,10.2687876,Dr. med. Marianne Voigt,,,
+2507158788,53.7297675,10.2638728,Dr. med. N. P. Krause,,,
+2507158810,53.7297726,10.2688139,Eckhard Herbst,,,
+2507158821,53.7297714,10.2687869,Jens Thomä,,,
+2538358275,53.5344156,10.0421237,Hans-Werner Wozny,,,
+2540290982,53.4445692,10.1313049,Praxis Fünfhausen,Fersenweg 2,21037,Hamburg
+2554056974,53.508703,10.2526349,Onkologische Praxis Reinbek,,,
+2554071371,53.7097318,10.0002394,Hämato-onkologisches Zentrum Norderstedt,Langenharmer Weg 19,22844,Norderstedt
+2590389561,53.6897524,9.9828891,Reha-Zentrum Norderstedt - Tagesklinik für ambulante Rehabilitation,Stettiner Straße 16,22850,Norderstedt
+2645627073,53.5581017,9.9136913,Dr. med. Ruth Hauck,Friedensallee 253,22763,Hamburg
+2679423723,53.5421447,10.212555,Ärztin für Kinder- und Jugendmedizin,Markt 14,21509,Glinde
+2679423728,53.5421512,10.2126613,"Arzt für Hals-, Nasen- und Ohrenkrankheiten",Markt 14,21509,Glinde
+2694286362,53.6509541,10.2669221,Dr. med. Wolfgang Tiedke-Stern,,,
+2694292676,53.6529539,10.2627527,,,,
+2717325089,53.5216455,10.2808483,Gompf,Auf der Hude 1,21521,Wohltorf
+2717325098,53.5229361,10.2783555,Heilpraktiker,,,
+2779041708,53.4865732,10.2122988,Logopädische Praxis D. Schwiebert,Bergedorfer Straße 136,,
+2851829638,53.6833207,10.1550803,Gemeinschaftspraxis Ulrike Jost und Gesine Averdick-Robrahn,,,
+2857989814,53.672431,10.2414617,"Dr. Bues, Handchirurg",,,
+2857989815,53.6724803,10.2414617,"Dr. Keller, Fußchirurg",,,
+2909009111,53.5940587,9.9877033,Naturheilpraxis Kudritzki,,,
+2918515628,53.5924232,9.9863558,Osteopathiezentrum Kuhlmann,,,
+2926087001,53.5772852,9.9715366,Fachärzte für HNO,Bismarckstraße 115,20253,Hamburg
+2926097001,53.5828943,9.9752814,"Dr. med. Constanze. v. Trotha, Dr. med Silke Runge, Dr. med. Jennifer Schüßler",,,
+2983796561,53.6529834,10.2626923,Hausärztliche Gemeinschaftspraxis,Sieker Landstraße 122,22927,Großhansdorf
+2984618701,53.5906571,9.9723266,Dermatologie,Martinistraße 52,20251,Hamburg
+2984642710,53.5909483,9.9760849,Universitäres Cancer Center Hamburg (UCCH),Martinistraße 52,20251,Hamburg
+3050994466,53.569032,10.164149,Praxis Odinius,Hauptstraße 38i,22885,Barsbüttel
+3134708369,53.5780545,10.092158,gerlach+lucassen,Ahrensburger Straße 29,22041,Hamburg
+3164499270,53.5694114,10.0286025,Medizinzentrum Hammoniabad,,,
+3248392176,53.681845,9.9875826,"Mund-, Kiefer und Gesichtschirurgie Dr. med. Joachim Blümel",,,
+3264009578,53.6899348,9.9828243,Orthopädische Gemeinschaftspraxis,Stettiner Straße 16,22850,Norderstedt
+3264027273,53.6830374,9.9844493,Praxis Berliner Allee,Berliner Allee 15,22850,Norderstedt
+3264053170,53.6873355,9.9824329,Dr. med. Rainer Grosse,Garstedter Feldstraße 10,22850,Norderstedt
+3274312862,53.5815652,10.0117726,Praxisklinik Winterhude,Mühlenkamp 32,22303,Hamburg
+3295163794,53.7080096,9.9827585,Dr. med. Annegret Laporte & Annette Villwock,Rathausallee 83 F,22846,Norderstedt
+3404181500,53.5087849,10.2525926,Frauenarztpraxis,Sophienstraße 7,21465,Reinbek
+3429920267,53.6705375,10.2417432,Dr. U. Frenzel & C. Cames,,,
+3440671978,53.5102952,10.2339683,,,,
+3440671980,53.5103559,10.2316712,,,,
+3440671985,53.5105193,10.2358756,Dr. Birgit Gewiß,Am Ladenzentrum 8,21465,Reinbek
+3440671990,53.5106362,10.2342549,Dr. med. Arved von Haugwitz,Am Ladenzentrum 2,21465,Reinbek
+3476227275,53.5727631,10.0149845,Augenärzte im Hofweg,Hofweg 57,22085,Hamburg
+3506238371,53.5904974,9.9758294,"Hals-, Nasen- und Ohrenheilkunde",,,
+3506238372,53.5904071,9.9756196,"Mund-, Kiefer- und Gesichtschirurgie (MKG)",Martinistraße 52,20251,Hamburg
+3506239893,53.5905631,9.9759777,"Hör-, Stimm- und Sprachheilkunde",,,
+3506247335,53.5903435,9.9748537,Blutentnahme,,,
+3506247336,53.5905514,9.9748678,Narkoseaufklärung,Martinistraße 52,20251,Hamburg
+3506247337,53.5903427,9.9751172,Patientenaufnahme,Martinistraße 52,20251,Hamburg
+3506247338,53.5904608,9.9749749,Prämedikationsambulanz,Martinistraße 52,20251,Hamburg
+3506260117,53.5905936,9.9743811,AEP,,,
+3506260118,53.5902388,9.9745521,Adipositas-Zentrum,,,
+3506260119,53.5905912,9.9744975,EEG,,,
+3506260120,53.5906107,9.9744751,EMG,,,
+3506260121,53.590178,9.974623,Endokrinologie,,,
+3506260122,53.5906162,9.9743709,Funktionsdiagnostik,,,
+3506260123,53.5901376,9.9745315,Gynäkologie,,,
+3506260124,53.5903081,9.9743219,Hepatobiliäre Chirurgie,,,
+3506260125,53.5903535,9.9744124,Innere Medizin,,,
+3506260126,53.5906302,9.9744468,MEP,,,
+3506260127,53.5906128,9.9744171,NLG,,,
+3506260128,53.5905548,9.9744395,Neurologie,,,
+3506260129,53.590572,9.9744733,Neurosonografie,,,
+3506261759,53.5901964,9.9744609,Rheumatologie,,,
+3506261760,53.5905902,9.9744402,SEP,,,
+3506261762,53.5904037,9.9747386,Sozialdienst,,,
+3506261763,53.5905738,9.9744077,VEP,,,
+3506267967,53.5910231,9.973572,Chirurgie,,,
+3506267968,53.5908807,9.9744037,Lungenfunktionsambulanz,Martinistraße 52,20251,Hamburg
+3506267969,53.5909535,9.974318,Pneumologische Ambulanz,,,
+3506267970,53.5909545,9.9740131,Röntgen,,,
+3506267971,53.5908253,9.974169,Sonografie,,,
+3506267972,53.5910167,9.9739308,Urologie,,,
+3506270615,53.5906433,9.9740868,Neurochirurgie,,,
+3506270616,53.5905967,9.9739827,Neurologie,,,
+3506270617,53.5906571,9.9739012,Schmerzambulanz,,,
+3506270618,53.5907993,9.9738484,Urologie,,,
+3506270619,53.5907034,9.9740029,Wirbelsäule,,,
+3506270899,53.5911669,9.97331,Notaufnahme,,,
+3507574603,53.5898847,9.9732139,Carepoint Othopädietechnik,Martinistraße 64,20251,Hamburg
+3507574604,53.5900525,9.9731847,Clinical Trial Center,Martinistraße 64,20251,Hamburg
+3507574605,53.5897135,9.9732479,Deutsche Stimmklinik,Martinistraße 64,20251,Hamburg
+3507574606,53.5899908,9.9732513,Hanseaticum,Martinistraße 64,20251,Hamburg
+3507574607,53.5899492,9.9731415,Nord Service Projects,Martinistraße 64,20251,Hamburg
+3507574608,53.5896462,9.9733296,Preventive Care Center,Martinistraße 64,20251,Hamburg
+3507574609,53.5896865,9.9734406,RehaCentrum Hamburg,Martinistraße 64,20251,Hamburg
+3507574610,53.5897537,9.9733682,Schlaflabor im Spectrum,Martinistraße 64,20251,Hamburg
+3507574611,53.5899305,9.9733238,Zentrum Sehstärke,Martinistraße 64,20251,Hamburg
+3507574612,53.5898182,9.9732981,Zentrum für innovative Radiologie,Martinistraße 64,20251,Hamburg
+3530611493,53.561076,9.9153183,Dr. Hicks,Gasstraße 6,,Hamburg
+3556409305,53.4645513,9.9646786,Facharztteam Allgemeinmedizin Heimfeld,Alter Postweg 25,21075,Hamburg
+3610209693,53.5859223,10.0528914,Bauck & Wechselberger,Geierstraße 2,22305,Hamburg
+3672023959,53.5770999,9.9478589,Enddarm Zentrum,,,
+3672023964,53.5769899,9.9479697,Gemeinschaftspraxis für Nervenheilkunde,,,
+3672068810,53.5763671,9.9511139,Augenärzte Tornow,,,
+3672068822,53.5764741,9.9502157,HNO,,,
+3672073229,53.5766537,9.9493774,Kinderfacharztpraxis Dr. med. Sigrid Renz,,,
+3673306893,53.559811,9.9600093,Notfallpraxis Altona,,,
+3686659625,53.5810027,9.9737539,Dr. Kiran Paulsen / Dr. Joachim Harnack,Hoheluftchaussee 54-56,20253,Hamburg
+3688386322,53.5768954,9.9515818,Dr. med. Lukas Schmitt,,,
+3688386323,53.576871,9.9514851,Dr. med. Petra Klaus,,,
+3688387125,53.5769066,9.9516429,Fachärzte für Urologie und Andrologie,,,
+3688387126,53.5768299,9.9515582,Frauenarztpraxis Heussweg,,,
+3688387127,53.5768568,9.9516462,Hausärzte,,,
+3688387128,53.5767482,9.9515317,Hausärztliche Praxisgemeinschaft Heussweg,,,
+3688387137,53.5767918,9.9516217,Lungenarzt,,,
+3688387155,53.5769354,9.9515058,Ärzte für Frauenheilkunde und Geburtshilfe,,,
+3688450446,53.5764775,9.9524509,Chirurgische Gemeinschaftspraxis Osterstraße,Osterstraße 116,20259,Hamburg
+3688450448,53.5770672,9.9514445,MKG-Eimsbüttel,,,
+3688450451,53.5765006,9.952581,bauchforum,,20259,
+3699146025,53.5769254,9.9490412,Dr. med. Bianca Falkenberg,,,
+3706389825,53.5144171,9.9876681,"Dr. Abdülkadir Güler, prakt. Arzt",,,
+3746458789,53.5504973,9.9539703,Nobis Bene,,,
+3750409240,53.5732024,9.9882036,Augen-Tagesklinik,Rothenbaumchaussee 123,20149,Hamburg
+3750448950,53.580674,9.999817,Knie-Hand-Fuss-Praxis,Leinpfad 1,22301,Hamburg
+3761048990,53.5911169,9.9757565,Neuroradiologie,Martinistraße 52,20251,Hamburg
+3761048995,53.5911387,9.9758546,Röntgen,Martinistraße 52,20251,Hamburg
+3761054905,53.5912678,9.9760936,Dialyse,Martinistraße 52,20251,Hamburg
+3761057359,53.5909153,9.9751745,MRT,Martinistraße 52,20251,Hamburg
+3761057360,53.5908355,9.9752121,Mammographie,Martinistraße 52,20251,Hamburg
+3761057361,53.5910296,9.9751527,Nuklearmedizin,Martinistraße 52,20251,Hamburg
+3761057363,53.5912965,9.9753783,Strahlentherapie,Martinistraße 52,20251,Hamburg
+3761057530,53.5921787,9.9756013,Universitäres Herz- und Gefäßzentrum UKE Hamburg,,,
+3761057532,53.5919291,9.975139,Herzkatheter Labor,,,
+3761060446,53.5907575,9.9767667,Infektiologie und Tropenmedizin,,,
+3761067424,53.5925685,9.9787305,Ambulanzzentrum für Sport- und Bewegungsmedizin,Martinistraße 52,20251,Hamburg
+3761075444,53.5925316,9.9786461,Ambulanzzentrum Allgemeine Medizin,Martinistraße 52,20251,Hamburg
+3761075445,53.5913379,9.9782279,Children for Tomorrow,Martinistraße 52,20251,Hamburg
+3761075446,53.5912991,9.9781296,Flüchtlingsambulanz,Martinistraße 52,20251,Hamburg
+3761075452,53.5906184,9.9773179,Klinik für Anästhesiologie,,,
+3761075453,53.5904729,9.9769428,Poliklinik für Psychosomatik und Psychotherapie,,,
+3761077094,53.592467,9.9791977,Epidemiologisches Studienzentrum,Martinistraße 52,20251,Hamburg
+3763222858,53.5931623,9.975168,Betriebsärztlicher Dienst UKE,,,
+3763225556,53.5912882,9.9794777,Kinderklinik Krankengymnastik,,,
+3763231758,53.5916229,9.9717996,MediGate,,,
+3763238294,53.5913442,9.9794004,Pädiatrische Hämatologie und Onkologie,,,
+3763238295,53.5912774,9.9796976,Pädiatrische Radiologie,,,
+3763243729,53.5923986,9.9719877,Institut für Neuroanatomie,Martinistraße 52,20251,Hamburg
+3763243737,53.5910809,9.9758341,Radiologie,Martinistraße 52,20251,Hamburg
+3763249364,53.5937963,9.9758286,Biomagnetometer,,,
+3763249365,53.5933958,9.9778123,Humangenetik-Diagnostik,,,
+3763249366,53.5935101,9.977671,Labore Pathologie,,,
+3763837437,53.4297267,10.2738414,Dr. med. M. Lux,,,
+3771238745,53.5884409,9.9718044,Andrologie,,,
+3771238746,53.5883005,9.9719509,Institut für Forensische Psychiatrie,,,
+3771238748,53.5882383,9.9720301,Männergesundheit,,,
+3771252799,53.5883825,9.9727614,Anästhesie Zentrum Hamburg,,,
+3771252800,53.588205,9.9722885,"Dermato-Onkologie, Ästhetik",,,
+3771252801,53.5884479,9.972926,Die Anaesthesie,,,
+3771857694,53.5878165,9.9710365,Ambulantes Augen OP-Zentrum,,,
+3771857698,53.5877669,9.9708979,Augen-Diagnostik-Centrum,,,
+3771857699,53.588153,9.9709183,CareVision Augenlaserkorrekturen,,,
+3771857700,53.5897656,9.971155,Drogenambulanz,,,
+3771857708,53.5895877,9.9713973,Institut für Medizinische Psychologie,,,
+3771857710,53.5879302,9.9707251,Ple- und Orthoptik,,,
+3771857711,53.5879733,9.9708469,Poliklinik für Augenheilkunde,,,
+3771872348,53.590936,9.9713626,AG Toxikologie,,,
+3771872350,53.5900898,9.9720919,Deutsches Zentrum für Suchtfragen des Kindes- und Jugendalters DZSKJ,,,
+3771872353,53.5908744,9.9710801,Gefäßmedizin Forschung,,,
+3771898757,53.591029,9.9713335,Kinderchirurgie Forschung,,,
+3771898759,53.5909706,9.9710528,Molekulare Andrologie,,,
+3771898761,53.5900228,9.9719424,Poliklinik für Kinder- und Jugendpsychomatik Ambulanz und Forschungsabteilung,,,
+3771904536,53.5903873,9.9726307,Neuroradiologie,Martinistraße 52,20251,Hamburg
+3771904537,53.5902879,9.9727515,"Plastische, Rekonstruktive und Ästhetische Chirurgie",Martinistraße 52,20251,Hamburg
+3771943886,53.5896193,9.9706843,Ambulanz für seelisch erkrankte Kinder und Jugendliche,,,
+3771943887,53.5895329,9.9707845,Jugend-Suchtstation,,,
+3771943888,53.5894489,9.9708959,Suchttagesklinik für Jugendliche,,,
+3771948703,53.5884084,9.9720151,Ambulanzzentrum Dermatologie,,,
+3771948704,53.588762,9.9747104,Clinical Trial Center North,,,
+3771948707,53.5887207,9.9746031,Institut für Allgemeinmedizin,,,
+3771948709,53.5886241,9.974382,Institut für Medizinische Biometrie und Epidemiologie,,,
+3771948711,53.5886719,9.9744964,Institut für syst. Neurowissenschaften,,,
+3771948712,53.5884901,9.9719348,Interdisziplinäres Kompetenzzentrum für Sexuelle Gesundheit,,,
+3771948713,53.5883405,9.9720959,Klinik für Interdisziplinäre Endoskopie,,,
+3771948717,53.5888062,9.9748099,Multiple Sklerose Tagesklinik,,,
+3771948718,53.5885729,9.9742596,Neurologie Wissenschaftliche Labore,,,
+3771948719,53.5890289,9.9743876,Neurowissenschaftliches MRT,,,
+3771948995,53.5882719,9.9721671,Zentrum für Stoßwellentherapie,,,
+3888959920,53.5889124,10.0756063,Mariola Wenta-Bralla,,,
+3888959921,53.5734627,10.0706603,Augenarzt Frau D. Papst,Wandsbeker Marktstraße 141,22041,Hamburg
+3888959923,53.5706245,10.065584,Frauenarzt Dr. Runge,Schloßstraße 8c,22041,Hamburg
+3888959924,53.5723037,10.0670924,Dr. Kölln,Wandsbeker Marktstraße 85,22041,Hamburg
+3888959925,53.5734683,10.0706139,Frauenarzt Frau Dr.Knittlmayer,Wandsbeker Marktstraße 141,22041,Hamburg
+3888959926,53.5718501,10.0646513,Dr. Rejmanowski,Wandsbeker Königstraße 6,22041,Hamburg
+3888959929,53.5734706,10.0706953,Hautarzt Dr. Köser,Wandsbeker Marktstraße 141,22041,Hamburg
+3888959932,53.5734768,10.0706593,Internist Dr. med. Brandt,Wandsbeker Marktstraße 141,22041,Hamburg
+3888959934,53.5644993,10.0345372,Kinderarzt Dr. Blaschke-Zimmermann,Wandsbeker Chaussee 1,22089,Hamburg
+3888959938,53.5645368,10.0345319,Orthopäde Dr. Backhaus,Wandsbeker Chaussee 1,22089,Hamburg
+3888959939,53.5711947,10.0678061,Orthopäde Dr. Schmidt,Schloßstraße 14,22041,Hamburg
+3888959940,53.574004,10.0696927,Orthopäde Dr. med. Voss,Wandsbeker Allee 68,22041,Hamburg
+3893896057,53.5778844,10.0871144,Dr. med. Holger Haupt,Ahrensburger Straße 2,22041,Hamburg
+3893896058,53.5717723,10.0614751,Dr. med. Marie-Elisabeth Krieg,,,
+3893896059,53.5706433,10.1370008,Dr. Said,Barsbütteler Straße 8,22043,Hamburg
+3893896060,53.6055502,10.1184899,Arzt Dr. Preyss,Berner Heerweg 175,22159,Hamburg
+3893896062,53.61732,10.0773706,Dr. Anna Segnitz,Bramfelder Chaussee 291,22177,Hamburg
+3893896064,53.5849438,10.1441353,Augenarzt Dr. Greven und Remmecke,Dahlemer Ring 9,22045,Hamburg
+3893896065,53.6055423,10.1186421,Chirurg Dr. Glinka und Ohm,Berner Heerweg 173-175,22159,Hamburg
+3893896067,53.6116009,10.0768497,Chirurg Dr. Weber,Herthastraße 12,22179,Hamburg
+3893896068,53.6217862,10.0823849,Dr. Horwitz,Bramfelder Chaussee 377,22175,Hamburg
+3893896069,53.5399739,10.105517,Gynäkologin Golubeva,Billstedter Platz 17,22111,Hamburg
+3893896070,53.6116527,10.076918,HNO-Arzt Dr. Beyer-Niesen,Herthastraße 12,22179,Hamburg
+3893896071,53.5793391,10.0414044,HNO-Arzt Dr. Georgi,Dehnhaide 2,22081,Hamburg
+3893896072,53.57098,10.06407,HNO Praxis Hairi,,,
+3893896073,53.6054812,10.118431,HNO-Arzt Dr. Haunert,Berner Heerweg 175,22159,Hamburg
+3893896074,53.6116026,10.0769044,HNO-Arzt Dr. Weidenfeld,Herthastraße 12,22179,Hamburg
+3893896075,53.6116285,10.0769038,HNO-Arzt Hr. Rieder,Herthastraße 12,22179,Hamburg
+3893896076,53.5983717,10.0929263,Neurologe / Psychiater Dr. Elias und Gerhard,Bengelsdorfstraße 5,22179,Hamburg
+3893896077,53.6116251,10.0768677,Orthopäde Dr. Reinecke,Herthastraße 12,22179,Hamburg
+3893896078,53.5952018,10.167549,Dr. Schaefer,Brockdorffstraße 90,22149,Hamburg
+3893896079,53.6116501,10.0768783,Urologe Dr. med Klingenberger,Herthastraße 12,22179,Hamburg
+3893896080,53.6116226,10.0768192,Urologe Dr. med Neubauer,Herthastraße 12,22179,Hamburg
+3893896081,53.6116448,10.0768173,Ärztin Dr. Ley,Herthastraße 12,22179,Hamburg
+3893982167,53.5716112,10.1340104,Hausarztpraxis Jenfeld,Grabkeweg 16,22043,Hamburg
+3893982168,53.5758404,10.0833669,Dr. Eva Irene Handtke,,,
+3893982169,53.5877363,10.0876856,Augenarzt Dr. Rohrschneider,Friedrich-Ebert-Damm 93g,22047,Hamburg
+3893982171,53.6033804,10.0399527,Chirurg Dr. Möller,Fuhlsbüttler Straße 405,22309,Hamburg
+3893982172,53.5835703,10.0203646,Facharztzentrum an der Kampnagelfabrik,Jarrestraße 2-6,22303,Hamburg
+3893982173,53.5495175,10.0799085,Gynäkologin Dr. Belzer,Horner Landstraße 200,22111,Hamburg
+3893982174,53.5723206,10.1370165,Gynäkologin Hojjaty,Görlitzer Straße 2,22045,Hamburg
+3893982175,53.590297,10.1799603,Kinderärztin Anna Halat,Hegeneck 3,22149,Hamburg
+3893982176,53.5759392,10.0374467,Neurologe / Psychiater Dr. Emrich und Müller-Habich und Vogt,Hamburger Straße 146,22083,Hamburg
+3893982177,53.5492966,10.0805089,Dr. Hamer,Horner Landstraße 206,22111,Hamburg
+3893982178,53.5718273,10.0276807,Orthopäde Dr. Horstmeyer und Liebig und Siebert,Humboldtstraße 9,22083,Hamburg
+3893982179,53.6251921,10.1397402,Urologe Dr. Hauschild,Hermann-Balk-Straße 127a,22147,Hamburg
+3893982180,53.5937317,10.044598,Urologe Dr. Schönfelder und Straßer,Fuhlsbüttler Straße 182,22307,Hamburg
+3893997983,53.5646987,10.0915724,Dr. Griem-Schlicht,Kielmannseggstraße 102,22043,Hamburg
+3896957807,53.5871306,10.0477457,"Swiridoff, Röhrs, Malligsen",,,
+3897266955,53.6570473,10.084613,Urologische Privatpraxis Alstertal,,,
+3897727049,53.5719053,10.0761294,Kridde,Schloßstraße 112,22041,Hamburg
+3897727051,53.5719924,10.0724467,Gemeinschaftspraxis für Nervenheilkunde,,,
+3897833756,53.5715024,10.069529,Lattke,Schloßstraße 44,22041,Hamburg
+3897838457,53.5712616,10.0684536,Knoop / Schütze,Schloßstraße 38,22041,Hamburg
+3897838458,53.5715245,10.0695104,Soldan,Schloßstraße 44,22041,Hamburg
+3897838459,53.5714759,10.0695551,Razai,Schloßstraße 44,22041,Hamburg
+3897838460,53.5712284,10.0684368,Urologisches Zentrum Wandsbek,Schloßstraße 38,22041,Hamburg
+3944469763,53.6217908,9.7946613,Dr. Thorsten Zimmermann,Behrensallee 19,25421,Pinneberg
+3946397939,53.5787203,10.0156215,Dr. Sylwia Martensen,Grillparzerstraße 6,22085,
+3948209803,53.5790558,10.0141992,Dr. med. Gisela Praetorius,Hans-Henny-Jahnn-Weg 4,22085,Hamburg
+3948291350,53.5790498,10.014196,Jörg-Rüdiger Kröhn,Hans-Henny-Jahnn-Weg 4,22085,Hamburg
+3984383850,53.5906798,10.0027705,Tibor Schmoller / Martin Ehlers,Dorotheenstraße 174,22299,Hamburg
+3999515167,53.5724613,9.8469114,Birgit Blüthmann,Langelohstraße 158,22549,Hamburg
+3999515168,53.5724515,9.8469121,orthoGroup,Langelohstraße 158,22549,Hamburg
+3999515169,53.5724702,9.8469111,Dr. med. Daniela Kasche,Langelohstraße 158,22549,Hamburg
+3999515170,53.57244,9.8469131,"Robert Heinz Koch, Praktischer Arzt",Langelohstraße 158,22549,Hamburg
+4007586095,53.6836459,9.9983195,Institut für Epithetik,Ulzburger Straße 8b,,
+4020407280,53.6542732,9.7910899,,Heinrich-Boschen-Straße 7,,
+4026614208,53.5501088,9.9984122,Radiologische Allianz Speersort,,,
+4028882719,53.5809308,10.0625462,Azar / Dr. Steinke,Straßburger Straße 28,22049,Hamburg
+4028973329,53.5819759,10.0675283,Jürgen Klug,,,
+4028988151,53.581905,10.0631811,Praxis Tsiaprazis,,,
+4039178794,53.5839009,10.0671568,Sedef Yilmaz,,,
+4060442670,53.6855763,9.9872297,Akupressurpraxis Wang,Europaallee 32,,
+4071695391,53.5626448,10.1203869,Graciana Martha Bork,Schiffbeker Weg 230b,22119,Hamburg
+4072408940,53.6539024,9.811827,Onkologische Praxis Pinneberg,,,
+4092142654,53.5592391,10.1070437,Dr.med. Rudolf Biergiesser,,,
+4100010965,53.5892941,10.0422842,Victoria Yar,,,
+4103059626,53.5818788,10.0640834,Lichte & Kalugina,,,
+4103543017,53.6530233,10.2621671,,,,
+4134326350,53.5748433,9.8472668,MVZ Elbe West,Rugenbarg 20,22549,Hamburg
+4144366156,53.4566581,9.9859736,Dr. Vosghanian-Pekajeky,Moorstraße 2,21073,Hamburg
+4168183875,53.4653011,9.9888134,Augenzentrum Harburg,,,
+4168183877,53.4567656,9.9864555,Dr. Silvia Darida,Moorstraße 4,21073,Hamburg
+4168183879,53.4567349,9.9862493,Hallmann Filiale Linse Phoenix,Moorstraße 4,21073,Hamburg
+4168200194,53.4568907,9.9872308,Radiologische Allianz,Moorstraße 6,21073,Hamburg
+4200053205,53.584589,10.0414823,Klaus Togler,,,
+4208552589,53.6343883,9.8401025,Dr. med. Joachim Rathjens,Friedrichstraße 1,25469,Halstenbek
+4219426911,53.648266,10.2718949,Elahe Shakeri,Sieker Landstraße 188,,
+4239152637,53.5768638,9.9776579,Barbara Kirschbaum,Grindelberg 77,,
+4239152641,53.5770361,9.9775721,"Gemeinschaftspraxis Walbaum, Mohrmann",Grindelberg 79,,
+4258959410,53.5744993,9.9768808,Praxis am Grindel,Helene-Lange-Straße 2,,
+4258968638,53.5744676,9.9768809,Doc Brock,Helene-Lange-Straße 2,,
+4259409020,53.5744198,9.976944,UHC am Grindel,Helene-Lange-Straße 2,,
+4259429066,53.5744814,9.976938,Ergotherapie am Grindel,Helene-Lange-Straße 2,,
+4259432377,53.5744534,9.97694,Praxis für Physiotherapie,Helene-Lange-Straße 2,,
+4271854560,53.5738123,9.9765761,Kinderarzt Dr. Uhlig & Kollegen,Grindelberg 15A,20144,Hamburg
+4290959970,53.606411,10.0015447,Dr. med. Rüdiger Thieseman,Alsterdorfer Straße 201,22297,Hamburg
+4316267091,53.6724588,10.1227839,Stanislaw Nawka,Rodenbeker Straße 8,,
+4325264751,53.6661661,10.2900539,Dr.med. Gerlinde Liebich,,,
+4327351140,53.5736581,10.0202096,Osteopathie Baranowsky & Klöckner,Kanalstraße 38,22085,Hamburg
+4351264608,53.6720132,10.2387234,Dr.Hoyer Augenarzt,,,
+4362103499,53.6247723,10.1149187,"funktio training, Praxis für Prävention, Bewegung und Gesundheit",Pezolddamm 156,,
+4367738553,53.5888483,9.9923818,Dr. med. Anja-Maria Nietfeld,Goernestraße 32,20249,Hamburg
+4377983768,53.6477575,10.015758,Augenärzte Langenhorn,,,
+4414725546,53.6438667,9.8131631,,,,
+4440828817,53.5728975,9.9851591,Sinologicum,,,
+4450166927,53.6830778,9.9842362,Frauenarztpraxis Dr. med. Rudolf Buck,Berliner Allee 17,22850,Norderstedt
+4455282452,53.6050179,10.1555577,Arthro-Clinic,Rahlstedter Bahnhofstraße 7a,22143,Hamburg
+4456959590,53.5512323,9.9999594,Praxis Forster & Team,Spitalerstraße 32,20095,Hamburg
+4483849937,53.5843663,10.0191881,Dr. med. Bahmann Moazami-Benab,Barmbeker Straße 22,22303,Hamburg
+4490737081,53.5910143,10.0443096,Abdul Ghafoor Bawar,,,
+4524954504,53.5419642,10.003682,Dr. Si Fu,Yokohamastraße 2,20457,Hamburg
+4535036166,53.653369,10.0913032,Augenärzte Tange Herkel Ashayer,Heegbarg 21,22391,Hamburg
+4535036167,53.6531952,10.0920654,Kinder- und Jugendmediziner Dr. Drunkenmölle,Heegbarg 9,22391,Hamburg
+4548596578,53.510618,10.2358449,Nierenzentrum Reinbek,Am Ladenzentrum 8,21465,Reinbek
+4548669815,53.5724665,9.8461336,Dr. med. Jörg Müller-Scholtz,,,
+4549763015,53.5577668,10.05104,M.D. Abdullah Roon,,,
+4608334149,53.5932017,10.05025,Hausarztpraxis Barmbek,,,
+4633636865,53.6078431,10.137705,Arztpraxis Dr. Ebert,,,
+4643432146,53.5232142,10.0175707,Poliklinik Veddel 1,,,
+4647180446,53.6689682,10.2540273,Dr.med Bettina Rippel,,,
+4669700267,53.5655157,9.9653332,Hausarztpraxis Maas/Raut/van der Kamp,Weidenallee 1,20357,Hamburg
+4703491038,53.4062146,10.1760133,Allgemeinarzt,,,
+4706293289,53.5519884,9.9314182,Dr. med. Michael Hoff,,,
+4707981500,53.5937446,9.8286161,"Dr. med. Günter Kroll, Augenarzt",,,
+4742648432,53.653927,9.828659,Gemeinschaftspraxis Dres. Johanning und Rädisch,Hauptstraße 82,25462,Rellingen
+4814017922,53.5945264,10.0007418,Haut- und Venenpraxis Winterhude,Winterhuder Marktplatz 7,22299,Hamburg
+4829088832,53.6505193,10.1624251,Radiologie Walddörfer,Farmsener Landstraße 193,,
+4854233187,53.6485122,10.1634423,Augentagesklinik,,,
+4875903509,53.6634378,10.2540623,Dr.Magener,,,
+4896344986,53.6898925,9.9828252,"Dres. Ruemmler, Drieschner. Maaß u Hutteger",,,
+4964205230,53.6466251,10.1685187,Dr. Eva Nast - ganzheitliche Frauenheilkunde,Holthusenstraße 36,22359,Hamburg
+4987749350,53.5567062,9.9285726,Dermatologie in Ottensen,Bahrenfelder Straße 242,,
+5005795488,53.5912828,10.0457362,Nikolaus Behr,,,
+5036951921,53.5873314,10.0496276,Gemeinschaftspraxis Dr. med. Jantke & Bettina Kany,Steilshooper Straße 54,22305,Hamburg
+5057044921,53.5876077,9.9856335,Urologische Praxis Eppendorf,,,
+5107419800,53.6054088,10.158125,Cardiologicum,,,
+5115529795,53.5212166,9.8113422,Dr. med. Bettina Marks,Hasselwerder Straße 96b,21129,Hamburg
+5119907921,53.4855468,10.2373917,Zentrum für Diabetologie Bergedorf,,,
+5139204044,53.5574015,9.8544306,MVZ Elbe-West,,,
+5168626620,53.6405778,10.0824132,Dr. med. K. von Alt-Stutterheim,Rolfinckstraße 8a,22391,Hamburg
+5185320721,53.684207,9.998359,Lungenpraxis Norderstedt,Ulzburger Straße 12,22850,Norderstedt
+5219843101,53.5774177,10.0391133,Diabetespraxis Barmbek,Wohldorfer Straße 1,22081,Hamburg
+5247494310,53.489632,10.2077851,HNO Bergedorf am City-Center,,,
+5248120755,53.4566798,9.9862619,Dr. Thalmann,Moorstraße 4,21073,Hamburg
+5248120758,53.4569823,9.988083,HNO-Praxis Phoenixcenter,Hannoversche Straße 86,21079,Hamburg
+5248648435,53.5911179,9.9799654,Notaufnahme Kinder-UKE,,,
+5323676447,53.5395499,10.1067105,Dr. med. Jens W. Stadtmüller,Möllner Landstraße 29,22111,Hamburg
+5323676448,53.539538,10.1067025,Dr. med. Werner Frank,Möllner Landstraße 29,22111,Hamburg
+5323683180,53.5395448,10.1067125,Orthopädische Zentrum Billstedt,Möllner Landstraße 29,22111,Hamburg
+5325730972,53.5951589,9.946496,Augenärztliche Praxisklinik am Tierpark,Hugh-Greene-Weg 2,22529,Hamburg
+5351377345,53.5765174,9.9453417,Praxis Elena Kohl,,,
+5360706366,53.6619747,10.2585,Kinderwunschzentrum,,,
+5372835481,53.6620041,10.2585959,Prof. Dr.med. Jörg Braun,,,
+5373210102,53.584434,10.0586747,Dr. med. Ahmet Kayacik,Alter Teichweg 67,22049,Hamburg
+5408588821,53.6612679,9.7972546,Dr. med. G. Itschert,,,
+5413741049,53.5819479,9.9541571,Gemeinschaftspraxis für Frauenheilkunde und Geburtshilfe und Ernährungsberatung,Eidelstedter Weg 24,20255,Hamburg
+5418083469,53.6688965,10.2444774,Kieferothopädische Gemeinschaftspraxis,Manhagener Allee 49,,
+5466544661,53.4898307,10.209537,Gynäkologikum Bergedorf,Alte Holstenstraße 65-67,21029,Hamburg
+5468759018,53.6673607,10.2267573,Dres. Irmer und Nötzold,Theodor-Storm-Straße 39,22926,Ahrensburg
+5549839117,53.6486369,10.1638317,Dr. med. Jan Wiegand-Dreßler,Claus-Ferck-Straße 1,22359,Hamburg
+5588294233,53.4664529,9.7991495,Gemeinschaftspraxis Knudsen & Finger,Schifferstraße 17,21629,Neu Wulmstorf
+5589201005,53.5723708,9.8634834,Hausärztliche Gemeinschaftspraxis Flurkamp,Flurkamp 11,,
+5616985413,53.6531931,10.0933122,Orthopäden im Alstertal,Heegbarg 8,22391,Hamburg
+5625129721,53.7074299,10.1092182,Dr. Kurtze,Duvenstedter Damm 47,22397,Hamburg
+5626557021,53.6403483,10.0181814,Hausärztin Fuhlsbüttel,Flughafenstraße 75,22415,Hamburg
+5643470580,53.6604147,9.7927339,Gynäkologische Praxis Dr. Jens Nissen,Rübekamp 25,25421,Pinneberg
+5646713560,53.5666985,10.1647568,Rehaaktiv Barsbüttel Praxis für Physiotherapie,Am AKKU 9,22885,Barsbüttel
+5646713562,53.5666404,10.1640004,Kinderärzte Barsbüttel-Dres. Biebl & Feydt-Schmidt,Am AKKU 9,22885,Barsbüttel
+5646713564,53.5666149,10.1640031,Hausarztzentrum Barsbüttel,Am AKKU 9,22885,Barsbüttel
+5651804937,53.5666401,10.1640343,Facharzt für Urologie Dr. med. Modar Jundi,Am AKKU 9,22885,Barsbüttel
+5653374522,53.4644588,9.7999486,Hillenbrand und Heilscher,Hauptstraße 30,21629,Neu Wulmstorf
+5658629023,53.4616278,9.9830515,Schmerz und Palliativzentrum Hamburg-Harburg,,,
+5693488338,53.4874723,10.2151927,Kieferchirurg Dr. Zieron,,,
+5726047967,53.54943,10.0797603,Miamedes - Hausarztpraxis Horn,Horner Landstraße 200,22111,Hamburg
+5732426519,53.4661834,9.7937228,Medizinisches Versorgungszentrum Neu Wulmstorf,,,
+5744179475,53.5419192,10.1065666,Qassem Mohammad,Billstedter Platz 7,22111,Hamburg
+5744226232,53.5419124,10.1066025,Dr. med.Violeta Doci,Billstedter Platz 7,22111,Hamburg
+5744244379,53.5923286,10.0761254,Dr. med. Violeta Doci,Lesserstraße 158,22049,Hamburg
+5748359151,53.5817988,9.9544157,,Eidelstedter Weg 22,20255,Hamburg
+5755891403,53.6646471,9.9055589,Dr. med. Markus Bergmeyer,Am Markt 2,25474,Bönningstedt
+5757125859,53.4610129,9.981592,Dr Lossow,Hölertwiete 2,21073,Hamburg
+5760380963,53.4607171,9.9812486,Dermatologische Praxis am Harburger Ring,,,
+5762361785,53.4630923,9.9821619,Dr. med. Mouin Kidess,,,
+5768224680,53.6278005,10.0054727,Arbeitsmedizinische Praxis Hamburg Airport,,,
+5769925906,53.6496238,10.1669797,Hausarztpraxis Volksdorf,,,
+5771658340,53.5518532,9.960489,Hausarztpraxis St. Pauli,Talstraße 64,20359,Hamburg
+5774034076,53.4659643,9.7938455,Praxis für Familienmedizin,Bahnhofstraße 24,21629,Neu Wulmstorf
+5774039402,53.4659901,9.8024407,Martina Welp,Birkenweg 3,21629,Neu Wulmstorf
+5774763359,53.4626088,9.9820659,Harburger Schwerpunktpraxis,,,
+5775537455,53.4672762,9.7929658,Dr. med. Thorsten Wolff,,,
+5794205862,53.4673772,9.7930031,Dr. med. H. Christian Riese,,,
+5794303013,53.4673561,9.79299,Sabine Riese,,,
+5846351785,53.5710705,10.0671009,Cardiologicum Hamburg,Schloßstraße 12,22041,Hamburg
+5885097966,53.5747492,10.0137087,Dr.med. Stephan Bünz,,,
+5893377371,53.4657397,9.7940799,Urologische Gemeinschaftspraxis,Bahnhofstraße 22,21629,Neu Wulmstorf
+5893520955,53.4656601,9.7941489,Chirurgische Praxis,,,
+5893616196,53.4641186,9.7942463,Dr. med. Bernd Ceyrowski,,,
+5914733910,53.4782425,9.8888865,Gemeinschaftspraxis Kirsten Wismann GbR,,,
+5939502133,53.4639106,9.7999499,A. Schokor Kohser,Hauptstraße 35,21629,Neu Wulmstorf
+5948824159,53.6417087,10.0805514,Kinderärzte im Alstertal,Wellingsbüttler Weg 119,22391,Hamburg
+6008040142,53.5701927,9.8586698,Praxis Dr Alexiev Dr Schinkel & Partner,Julius-Brecht-Straße 11,22609,Hamburg
+6014797530,53.4615237,9.9822113,Miamedes Hausarztpraxis Harburg,,,
+6036542141,53.5741789,10.068641,Hausarztpraxis Wandsbek,,,
+6037867025,53.5876477,9.9856723,Andreas Fritz;Dr. med. York v. Rehren,,,
+6037867027,53.5876196,9.9856458,M. Mumm-Malbranc;Dr. med. C. Zunker,,,
+6077292954,53.6157502,10.0375962,"Dr. med. Heinrich Cordes, Kim Rese",Ilandkoppel 21,22337,Hamburg
+6094954088,53.5572241,9.9097174,Orthopädie Othmarschen,Friesenweg 4 Haus 21,22763,Hamburg
+6126320752,53.5919751,10.0766737,Hausarztpraxis Wiegand,,,
+6171790112,53.6251345,10.1397438,Augenfachärzte Hamburg-Berne,Hermann-Balk-Straße 127a,,
+6229043785,53.6327819,9.9116945,Praxisgemeinschaft Oldesloer Straße,,,
+6246796612,53.6771501,10.2394268,"Dr.med. Carsten Steinfatt, Frauenarzt",,,
+6246796613,53.6771867,10.2394026,"Stephan Rüpke,Hautarzt",,,
+6246796614,53.6772216,10.2393812,"Uta Kilian, Frauenärztin",,,
+6303124208,53.648754,10.1679371,Hausarztpraxis,Wiesenhöfen 3,22359,Hamburg
+6311017824,53.5830725,9.9353486,Die Allgemeinärzte Hamburg,,,
+6312724550,53.5832451,9.9469045,Dr. Med Axel Sommer,,,
+6312724551,53.5833111,9.9468884,Hans Günter Plückelmann,,,
+6312724552,53.5832988,9.946741,Praxis für Physiotherapie,,,
+6312724553,53.5832341,9.9467594,Praxis für Osteopathie,,,
+6320707751,53.4719694,9.8530963,Dr. med. J. Preuss,,,
+6320707753,53.4719842,9.8529589,Arzu Allzadeh & Ghalla Thaher,,,
+6323148885,53.559274,9.9494559,Substitutionsambulanz Altona,,,
+6330990998,53.5877125,10.0456585,"Heinze, Malessa, Mänz-Siebje",Krüsistraße 15,22305,Hamburg
+6331000430,53.5877341,10.0456462,"Grützmacher, ten Hoff",Krüsistraße 15,22305,
+6343084298,53.6278889,10.0243245,Dr. med. Dietmar Nixdorf,Erdkampsweg 27,22335,Hamburg
+6343084299,53.6278388,10.0243265,Dr. med. Nicole Hoenike,Erdkampsweg 27,22335,Hamburg
+6420519116,53.6196083,9.9518005,Praxis Dr. med. Christoph Dittrich,Tibarg 32b,22459,Hamburg
+6421333611,53.5771783,10.0589818,Dr. med. Mohsen Ghasemi Conjani,,,
+6454010468,53.4637314,9.9537272,Dr. med. Mathias Gerlach & Kollegen,,,
+6461327359,53.4564689,9.99024,Dr. med. Petra Koch,,,
+6461328027,53.4582467,9.9808961,"Ina Breimeier-Heckmann, Prof. Dr. med. M. Münzel",,,
+6461328029,53.4582284,9.9808485,Dr. med. Björn Christian Förster,,,
+6461328030,53.4582497,9.9808608,Bianca Düring,,,
+6465310426,53.6330459,9.9553005,Hausarztpraxis Herrero Schmidt,Krähenweg 9,22459,Hamburg
+6495432863,53.5790859,9.7968711,Dr. med. Frauke Mantey-Stiers,,,
+6515458031,53.5839067,9.9786189,Dr. med. Dipl.-Psych. Dirk Zeichner,Eppendorfer Weg 264,20251,Hamburg
+6515458033,53.5839278,9.9784705,EppenDocs,Eppendorfer Weg 264,20251,Hamburg
+6518753766,53.4880476,10.2131071,Dr. Hamdi Yurtseven,,,
+6518781117,53.4879965,10.2119826,Dr. med. Irene Stiltz,,,
+6548546873,53.6809245,10.001142,Dr. med. Lars dHedouville,,,
+6573306139,53.4581355,9.9666529,"Dr. med. Ali Osman Öncü, Sevgi Öncü",,,
+6575323130,53.5498296,10.0258729,Pima Health & Safety GmbH,Gotenstraße 21,20097,Hamburg
+6596606743,53.6023833,10.1495191,Praxisgemeinsch. Rahlstedt/ Neurologie Psychiatrie,Heestweg 12a,,
+6653939685,53.5324781,9.8806156,,,,
+6659883979,53.6175951,10.0779782,Wolfgang Tiedke-Stern,,,
+6676159538,53.4894867,10.1590286,Dr. Andrea Heinenberg / Antje Bolli-Trostdorf,Fleetplatz 3,21035,Hamburg
+6680567966,53.553128,9.9303719,Praxis für Psychotherapie,,,
+6683232811,53.553785,10.0857295,"Praxisgemeinschaft Frauenärztinnen Horner Rennbahn
+Elke Damerov & Pia-Marie Widenka",Rennbahnstraße 28,22111,Hamburg
+6683232812,53.5537508,10.0857282,Dr. M. Gol-Mohammadi,,,
+6698831629,53.5726225,9.9778606,Praxis für Orthopädie & Unfallchirurgie,Grindelberg 3,20144,Hamburg
+6698961886,53.6246683,9.9514963,Lungenpraxis,Paul-Sorge-Straße 22,22459,Hamburg
+6711980582,53.6208163,9.951505,Kardiologie am Tibarg,Tibarg 21,22459,Hamburg
+6745675967,53.5998498,9.9616262,Urologie-Lokstedt,,,
+6745675969,53.5917294,9.9285672,Dr. med. Ariane Deu & Karin Janetzki - Praxis für ganzheitliche Medizin,,,
+6759045057,53.5648211,9.9631017,Gynaekologicum Hamburg,Altonaer Straße 59,20357,Hamburg
+6782795003,53.4574261,9.984835,Dr. med. Bernhard Dobrinski und Partner,,,
+6788629193,53.5748443,10.0139464,Dr.med. Hasso H. Thalmann,,,
+6793804212,53.5649085,9.9633905,Kinderärzte Weidenallee,Altonaer Straße 61,20357,Hamburg
+6812492391,53.5951291,9.946396,Internisten am Tierpark,Hugh-Greene-Weg 2,22529,Hamburg
+6841273240,53.6535076,10.1140343,Manuela Langner,Waldweg 1,22393,Hamburg
+6841273242,53.6534734,10.1138654,"Orthopädie Waldweg - Hock, Demming",Waldweg 1,22393,Hamburg
+6841273245,53.6520957,10.1153705,Ulf Bartels Orthopäde,Berner Weg 13,22393,Hamburg
+6848414007,53.5566707,9.9285775,Frauenaerztinnen Bahrenfelder Straße,Bahrenfelder Straße 242,,Hamburg
+6848414009,53.5569357,9.9284772,Ortho Altona,Bahrenfelder Straße 244,22765,Hamburg
+6886216107,53.5918845,10.043903,Dres. Papageorgiou & Hübner,Fuhlsbüttler Straße 151,22305,Hamburg
+6919772008,53.5810181,10.0912718,Dr.med. Birgit Remmecke und Stefanie Greven,Walddörferstraße 203,,
+6960560197,53.6849765,9.9852231,Hausarztpraxis am Herold Center,Berliner Allee 40 c,22850,Norderstedt
+6976685418,53.5966662,10.0428788,Dr. med. Christian Tiemann,Fuhlsbüttler Straße 257,,
+6983226767,53.6055608,9.9906827,Kardiologische Praxis Orchideenstieg,,,
+6991105222,53.5813225,10.0110092,MVZ Orthopädie Mühlenkamp,,,
+7005255740,53.6824057,10.0116477,Dr. med. Susanne Dutzki,,,
+7011783959,53.5794903,9.9760143,Radiologie Hoheluft,,,
+7029272591,53.6538413,10.2348402,Physiotherapie Laub,,,
+7034670405,53.5907734,9.986959,Kernspinzentrum Hamburg-Eppendorf,,,
+7066082116,53.5758425,10.0362451,Kallistik Aesthetik,Hamburger Straße 123,22083,Hamburg
+7084414249,53.6495319,10.0129361,Drs. Hohenschild / Schwarting,,,
+7084672046,53.6496393,10.0132079,Osteopathie Langenhorn,,,
+7084672047,53.64968,10.0131555,Renate Gizewski,,,
+7090370501,53.6718584,10.0000678,Gemeinschaftspraxis Meyer,Käkenflur 14 b,22419,Hamburg
+7098417812,53.5886449,9.9919692,Praxis Dr. Huchtemann,,,
+7120723121,53.5714657,9.8608956,Hausärzte im Elbe,Osdorfer Landstraße 137,22609,Hamburg
+7125083885,53.6624786,9.7962421,Visiorad GbR MRT,,,
+7190120574,53.5423738,10.0032627,Urologie in der HafenCity,Shanghaiallee 17,20457,Hamburg
+7223135166,53.5546813,9.9898472,Hautarztpraxis am Jungfernstieg,,,
+7229781401,53.6091338,9.9052199,Dr. med. Hans-Ulrich Knödler,Holsteiner Chaussee 10,22523,Hamburg
+7245193196,53.5558533,9.9858404,EuroEyes,,,
+7247988317,53.5510268,9.9800479,Dr. med. Tom Straessle,,,
+7299772383,53.4587492,9.9803639,Tip Dr./Univ. Ist. Tamer Kurumlu;Maren Baak,,,
+7299772384,53.4587705,9.9803558,Dr. med. Britta Kaack;Dr. med. Volker Kleinfeld;Michael Reitmaier,,,
+7299774685,53.4605564,9.9782101,Dr. med. Claudia Polay-Hehn,Am Centrumshaus 7,21073,
+7300319061,53.5707721,9.9648667,Kardiologie Hohe Weide,,,
+7302343357,53.456749,9.9790728,Dr. med. Michael Böse,Bremer Straße 27-29,21073,Hamburg
+7302343362,53.4546081,9.9766602,Praxis Öncü Harmsstraße,,,
+7302440731,53.4614186,9.9822231,Dr. med. Michael Rothe,,,
+7302440732,53.4613615,9.9822633,Özay Arslan,,,
+7302440738,53.4589034,9.9816504,Dr. med. Michael Funke,,,
+7302440740,53.4588962,9.9816243,Dr. med. Torsten Dittmer;Kay Christophersen;Dr. med. Julia Hellwinkel,,,
+7302440742,53.4591956,9.9813674,Dr. Sina Holzhütter;Dr. Rainer Holzhüter,,,
+7302440743,53.4592112,9.9813554,Prof. Dr. Siegmund Otte;Dr. Jan-F. Begemann,,,
+7308992809,53.591664,9.9289314,Dr. med. Renate Roßnagel-Tullenaar,Kieler Straße 413,22525,Hamburg
+7368589538,53.6433284,10.0443036,Die Hamburger Orthopäden,Hummelsbüttler Dorfstraße 9,22339,Hamburg
+7368639470,53.6543094,10.0609025,Dr. med. Christoph von Sethe,Norbert-Schmid-Platz 4,22399,Hamburg
+7368695698,53.6419184,10.0393201,Jessica Pommer,,,
+7368735667,53.6543789,10.0600441,Dr. med. Alexandra Fontaine,Johannes-Büll-Weg 1,22399,Hamburg
+7453734867,53.5749696,9.9584923,Praxis Dr. Riedewald,Osterstraße 36,20259,Hamburg
+7459364027,53.4917263,10.0169443,Dr. med. Olaf Settgast,,,
+7500067385,53.5696162,9.9644845,LungeVital,Schäferkampsallee 56-58,20357,
+7508312777,53.5821696,10.0104167,Dr. med. G. Bandomer,Mühlenkamp 43,22303,Hamburg
+7518593283,53.6484967,10.1637248,HNO in den Walddörfern,,,
+7532818409,53.4203976,10.0210785,Praxis Michael Fitzner,Glüsinger Straße 20,21217,Seevetal
+7560662057,53.6849518,9.9852218,Priv.-Doz. Dr. med C. Gutgesell,Berliner Allee 40 c,22850,Norderstedt
+7635520729,53.5686104,10.0210116,Dr. med. Antje Blettgen-Weisbach,Uhlenhorster Weg 30,22085,Hamburg
+7649438800,53.4710068,9.8251422,Norbert Eckhardt,,,
+7649438810,53.4714558,9.8259026,Erwin R. Ottahal,,,
+7649774861,53.5452585,10.025759,Hanseatisches Zentrum für Arbeitsmedizin,,,
+7833276730,53.4245396,9.9792879,PHV-Dialysezentrum Hamburg-Sinstorf,,,
+7836449386,53.5591776,9.8115582,Frauenarztpraxis Loeck,Blankeneser Bahnhofstraße 5,22587,Hamburg
+7836595989,53.5939324,9.9951337,G&S Gesundheit und Sicherheit für Betriebe,,,
+7840441162,53.4621011,9.9790427,Nephrologie und Urologie Harburg,,,
+7845575976,53.5592867,9.879217,Dr. Kunde Kinderarzt,Waitzstraße 33,22607,Hamburg
+7848679822,53.7046206,10.1025364,Dr. med. Norbert Nehlsen,Poppenbütteler Chaussee 36,,
+7848729635,53.7045856,10.1025619,H. & W. Pendrak,,,
+7853179610,53.5515332,9.9398054,Gemeinschaftspraxis Hojabri & Meierling,Neue Große Bergstraße 20,22767,Hamburg
+7853633813,53.5521487,9.9329707,Arztpraxis Peter Zamory,Ottenser Hauptstraße 1a,22765,Hamburg
+7878957475,53.6475371,10.0155106,Aswin Khuankhunsathid,,,
+7922220879,53.4095782,9.9919513,Dr. med. Gerhard Schmidt,,,
+7990002826,53.631863,9.920266,HNO Schnelsen,Wählingsallee 6,22459,Hamburg-Schnelsen
+7997399717,53.4792893,10.2052188,Strahlentherapie Bergedorf,Am Schilfpark 20,21029,Hamburg
+8000485090,53.6212544,10.0821219,Georg und Valentina Kon,,,
+8019229781,53.5826836,9.9889107,Internisten am Klosterstern - Dr. med. Felix Thuneke und Dr. med. Simone Henne,Oderfelder Straße 6,,
+8042533735,53.5749966,9.9562583,Orthopädie Osterstraße,Osterstraße 59-61,20259,Hamburg
+8044148625,53.5520099,9.9422548,Dr. med. Birgit Gräfin von Schwerin,,,
+8062867378,53.6048901,10.0406806,Dr. med. Martin Baehr,Elligersweg 4,22307,Hamburg
+8120448087,53.44612,9.9941321,Dr. med. Klaus Ivens,,,
+8130764001,53.4711626,9.8528882,Dr. med. Kerstin Övermann,,,
+8185245968,53.5522613,9.9913275,Orthopädie-Zentrum Hamburg,,,
+8206876376,53.6079284,9.9030947,Kernspinzentrum Hamburg-Nordwest,,,
+8212501658,53.5492306,9.9436352,Radiologische Allianz,,,
+8215179967,53.55207,9.94126,Hausarztpraxis Ayfer Karatas,,,
+8215190631,53.5654781,9.9035863,Arztpraxis Dr. Sevinç Çağlar​,Von-Sauer-Straße 42a,22761,Hamburg
+8289343410,53.6529663,10.1106358,Hausarztpraxis am Saseler Markt,Kunaustraße 1,22393,Hamburg
+8290059566,53.5744458,9.9621812,Gynäkologinnen Eppendorfer Weg,Eppendorfer Weg 92-96,,
+8292566673,53.5748851,9.9598879,Dipl.-Med. Bettina Tsialtsudis Praxis für Kinder- und Jugendpsychiatrie und -psychotherapie,Schulweg 48,,
+8312550211,53.6749544,10.0287862,Radiologie Heidberg,,,
+8322212538,53.5518684,9.9293496,Praxisgemeinschaft Ottensen,Ottenser Hauptstraße 35,,
+8342208575,53.4496883,9.9378385,"Praxis Dr. Boulanger, Buchholz, Dr. Wede",Hainholzweg 67,21077,Hamburg
+8342208576,53.4496891,9.9378303,Arbeitsmedizin Harburg,Hainholzweg 67,21077,Hamburg
+8371235227,53.6525333,10.0908774,Praxis für Rheumatologie Dr. Med. Hauke E. Heintz,Kritenbarg 7,22391,Hamburg
+8394444661,53.6050324,10.1551813,,,,
+8423657776,53.6822551,9.9876292,augen-norderstedt,Europaallee 4,22850,Norderstedt
+8445580710,53.5779205,10.0153081,Dr. med Sophie Warther,Winterhuder Weg 87,22085,Hamburg
+8446106434,53.4473708,9.9906573,Jens Prager;Dr. Markus Weber,,,
+8533189864,53.6161338,10.1133403,Dr. med. Ahmad Mureed Muzamil,,,
+8533208444,53.6158813,10.1135864,"Dr. med. Dagmar Hinnekeuser, Martina Rüllmann",,,
+8564282210,53.6639567,9.9022406,Praxis im alten Amtsgebäude,Kieler Straße 20,25474,Bönningstedt
+8566819190,53.5528263,10.2463648,Praxis Dr. Remmele,Lindenallee 42,21465,Reinbek
+8607599908,53.4898171,10.2098702,Dr. med. Jörg Tiemann,,,
+8612395733,53.7365686,9.9030169,Kleine Eulen Quickborn,Ziegenweg 4,25451,Quickborn
+8623299603,53.5969307,10.0591586,Hausarztpraxis Hellbrook,Hellbrookkamp 31-33,22177,Hamburg
+8626828897,53.4453197,9.967389,Internisten an der Aussenmühle,,,
+8655987457,53.5669431,9.958081,Praxisgemeinschaft Eimsbütteler Chaussee,Eimsbütteler Chaussee 28,20259,Hamburg
+8663066142,53.5668121,9.9581831,"Sebastian Ebel, Dr. med. Katja Behrens",Eimsbütteler Chaussee 28,20259,Hamburg
+8671683473,53.5236874,10.01581,Poliklinik Veddel 2,,,
+8674363736,53.5251883,10.0203185,Poliklinik Veddel 3,,,
+8688492373,53.6187478,10.0796574,Cornelia Hebell-Sievers,Bramfelder Chaussee 325,,
+8691420385,53.6588992,10.0030705,STRAHLENZENTRUM HAMBURG -MVZ- Medizinisches Versorgungszentrum GmbH,Langenhorner Chaussee 369,22419,Hamburg
+8704726777,53.6165672,10.0726295,"Haeberle, Raabe",Fabriciusstraße 276,22177,Hamburg
+8726143375,53.5886475,9.9744506,Competenzzentrum Dermatologische Forschung,Martinistraße 52,,
+8754611770,53.5871926,10.0471777,Dr. med. F. Seyedin,Pestalozzistraße 20,,
+8792375742,53.6053495,10.1606803,Dr. med. Burkhard Falk,Schweriner Straße 23,22143,Hamburg
+8820484141,53.5267577,10.1506488,Dr. med. Akbar Barialai,Kandinskyallee 14-18,22115,Hamburg
+8866084200,53.5636011,10.0197629,Gemeinschaftspraxis Graumannsweg,Graumannsweg 25,22087,Hamburg
+8878518724,53.7364617,9.9033386,Gesundheitszentrum Quickborn,Ziegenweg 4,25451,Quickborn
+8893199160,53.5570674,9.9888251,Dr. med. Rosemarie Neumann,Dammtorstraße 27,20354,Hamburg
+8902358589,53.5791618,9.933703,HNO Praxis+,,,
+8902358590,53.5792174,9.9337128,Hausarztpraxis Mike Richter,,,
+8902358591,53.5791724,9.9335794,Dr. med. Oliver Meyran,,,
+8902358592,53.5792243,9.933588,"Dr. med. Andrea Buck, Dr. med. Claudia Nawroth",,,
+8909758658,53.5104036,9.9852513,Psychiatrische Institutsambulanz Wilhelmsburg,Neuhöfer Straße 23,,
+8911974797,53.563134,9.8112784,Dr. Andersen;Dr. Schönbeck,,,
+8911974803,53.5631356,9.8112118,Dr. Kleinhaus,,,
+8934019068,53.5484344,9.9878204,Reinhard Köller,,,
+8952093046,53.7317618,9.8994181,ÜBAG Hausarztpraxis Quickborn-Tornesch,Am Freibad 4a,25451,Quickborn
+8952093049,53.7316833,9.8995036,Hausarztpraxis Am Freibad,,,
+8956296220,53.5645538,9.8167786,Olaf Eggers,,,
+8976048082,53.5155177,9.9935948,Philip Maass;Dr. Michael Meyer,,,
+8984200493,53.6334213,10.0538371,Dr. med. Jürgen Rehder,Stübeheide 155,22337,Hamburg
+8984200507,53.634645,10.0513592,Dr. med. Marianne Kamps,Kornweg 2,22337,Hamburg
+8988636875,53.5760961,9.9499303,Möwenzahn,,,
+8988636877,53.5761182,9.949815,"Dr. Marcus Wolf, Dr. Regina Lemke-Wolf",,,
+8992223157,53.5595573,9.9098387,Kinderärzte im Friesenweg,Friesenweg 2,22763,Hamburg
+8993681040,53.6643067,9.9073874,Hausarztpraxis Bönningstedt Dr. Swantje Riethdorf,Bahnhofstraße 9,25474,Bönningstedt
+9013393062,53.5874693,9.9853815,Facharztzentrum Eppendorf,Eppendorfer Landstraße 42,20249,Hamburg
+9045521564,53.5550538,9.8894072,Hausarztpraxis Dr. Christiane Mangold,Olshausenstraße 5,22605,Hamburg
+9072996217,53.569798,9.9643413,Kinderkardiologie und Kardiologie für Menschen mit angeborenen Herzfehler,,,
+9082327040,53.6496425,10.1673092,Dr. Sabina Birkner,,,
+9087613514,53.5875032,9.9853573,Physiotherapie Zentrum Eppendorf,,,
+9087613515,53.5874998,9.9853616,Praxis für Psychotherapie,,,
+9087613516,53.5875005,9.9853542,Dr. Christine Lohr Osteopathie,,,
+9087700817,53.5874971,9.9853565,Nervenärztliche Praxis Eppendorf,,,
+9087700818,53.5874971,9.9853616,Praxis für Sprachtherapie,,,
+9087700819,53.5874975,9.9853523,HNO in Eppendorf,,,
+9087700820,53.5874959,9.9853569,Magen-Darm-Zentrum Eppendorf,,,
+9092747185,53.5912734,9.9788424,Univ.-Prof. Dr. med. Ania C. Muntau,,,
+9102036253,53.5803124,9.9743138,Medizin-Hoheluft (Akutpraxis Allgemeinmedizin),Hoheluftchaussee 36,20253,Hamburg
+9165257414,53.465661,9.9882463,Dr. med. Edna Flügel,Veritaskai 6,21079,Hamburg
+9202729886,53.6525367,10.0908163,"Kieferchirurg, Mundchirurg, Gesichtschirurg Dr. Flinzberg, Dr. Lénard",Kritenbarg 7,22391,Hamburg
+9223583538,53.5144991,9.9870076,Dr. med. Dörthe Hunte,Veringstraße 43,,
+9223583539,53.5145157,9.9870067,Dr. med. Tugrul Karaman,Veringstraße 43,,
+9238063657,53.5592741,9.9645025,Lungenpraxis Hamburg,Neuer Pferdemarkt 12,20359,Hamburg
+9274484051,53.5676949,9.9689918,Radiologische Allianz Schäferkampsallee,Schäferkampsallee 5-7,20357,Hamburg
+9348768708,53.6820371,9.9962977,Dr. med. Reinhard Schütze,Ochsenzoller Straße 217,22848,Norderstedt
+9349289161,53.6875717,9.9979723,Dr. med. Kevser Eroglu,,,
+9373954457,53.559334,9.8815394,Augenzentrum Othmarschen,,,
+9387848377,53.5153548,9.9922289,Dr. med. Murat Korkmaz,Fährstraße 12,21107,Hamburg
+9422774459,53.6203137,9.8867393,Dres. Jacob und Schäfer,,,
+9472114081,53.4483153,9.9410644,Dr. med. Andrea Wulf-Oeverdieck,Strucksbarg 27,21077,Hamburg
+9490470519,53.658624,9.7991752,HNO Praxis Dr. med. Edgar Terlunen / Birga Terlunen-Traboldt,Moltkestraße 2,25421,Pinneberg
+9495714151,53.5476873,9.9270743,Praxis für Chinesische Medizin,Holländische Reihe 49,22765,Hamburg
+9505205400,53.6118239,10.0539262,Praxis Dr. Rahimzei & Dr. Zimmermann,Fritz-Flinte-Ring 71,22309,Hamburg
+9556515164,53.650395,10.1224349,Dr. med. Ines Machnik,,,
+9558930424,53.4975189,10.0109069,Betriebsarzt Service,,,
+9558930425,53.4975209,10.0108182,Dr. Gross;Dr Magner & Partner,,,
+9558930426,53.4975228,10.0107295,Diabetes-Zentrum Wilhelmsburg,,,
+9558930427,53.4975247,10.0106408,Dr. Heide Lueb;Dr. Peter Witzel,,,
+9558930428,53.4975557,10.0109091,Dr. med. Jörg Spey;Dr. med. Anja Wolters,,,
+9558930430,53.4975595,10.0107322,TIP Dr. Burhan Babahan,,,
+9558930431,53.4975615,10.0106431,Dr. med. Mesut Erdogan;Reyyan Tolgay,,,
+9610538288,53.491718,10.0170358,Dr. Christina Siemen,Neuenfelder Straße 116,21109,Hamburg
+9645206729,53.6536395,10.0928913,Orthopädische Praxis Dr. med. Georgi,Heegbarg 12,22391,Hamburg
+9648851021,53.5546594,9.9898834,Dr. med. Anett Wywiol,,,
+9686778398,53.612801,10.0768534,MVZ Hamburg-Nord,,,
+9686778399,53.6129517,10.0767709,Afshin Moheb,,,
+9686778400,53.612912,10.0769309,Enno Wrage.Brors,,,
+9686778401,53.6128875,10.0768145,"Ludik, Niemann, Schulz",,,
+9695027182,53.4598196,9.9811306,Kernspinzentrum Hamburg-Süd,Harburger Rathausstraße 29,21073,Hamburg
+9779278524,53.5921433,9.8724024,Nicolas Mol,Eckhoffplatz 34,22547,Hamburg
+9817738183,53.6081125,9.9042854,Dr. med. Jwan Amara,Eidelstedter Platz 6a,,
+9820126259,53.5491265,9.9435474,Hämatologisch-Onkologische Praxis Altona (HOPA),Mörkenstraße 47,22767,Hamburg
+9853573355,53.6534188,10.0929909,Röntgenpraxis,Heegbarg 10,22391,Hamburg
+9883967129,53.6534916,10.0932967,MVZ Alstermed Internistisch neurologische Praxis Drs. Bökmann Eysel Wächter-Müller,Heegbarg 10,22391,Hamburg
+9883967130,53.6534641,10.0931974,Frauenarztpraxis Dr.Lesny Nachtigäller,Heegbarg 10,22391,Hamburg
+9916954629,53.559691,9.9174441,Demmel & Oestmann,Lilly Giordano Stieg 3 3,22763,Hamburg
+9979683817,53.5755874,9.815312,Dr. Eipper und Partner Hausärztliche Praxis,Heidrehmen 10,22589,
+9980659020,53.5423818,10.0033377,Dr. med. M. Rusznak,Shanghaiallee 17,20457,Hamburg
+9983941669,53.4715121,9.8498426,MVZ Neugraben,,,
+9988911395,53.5569266,10.0103808,Praxisgemeinschaft Dres. Christoph Bernhardt und Khai-Qui Vi,Lange Reihe 39,20099,Hamburg
+10032558177,53.681828,9.9922874,Dr. Kerstin Schulze,,,
+10047757013,53.6816799,9.9966264,Hausarztpraxis Ohechaussee,,,
+10049289908,53.550823,9.9964641,Dr. Dubiel & Dr. Meyborg und Kollegen,,,
+10063141360,53.4592781,9.9847361,Praxisklinik für Ästhetisch-Plastische und Handchirurgie in Hamburg-Harburg,Harburger Ring 8–10,21073,Hamburg
+10068274972,53.5087787,10.2524777,Augenärzte Sophienstraße,Sophienstraße 7,21465,Reinbek
+10068274991,53.5087187,10.2527439,Praxis für Podologie,Sophienstraße 7,21465,Reinbek
+10084981238,53.612424,10.0250234,Praxis für Kinder- und Jugendlichenpsychotherapie,Alsterdorfer Markt 6,22297,Hamburg
+10084981240,53.6127316,10.0257047,Fachabteilung Psychiatrie und Psychotherapie,Alsterdorfer Markt 8,22297,Hamburg
+10084981241,53.6127207,10.0256646,Orthopädikum Neuer Wall Nord,Alsterdorfer Markt 8,22297,Hamburg
+10084981242,53.6127068,10.0256153,Zentrum Kinderschmerztherapie,Alsterdorfer Markt 8,22297,Hamburg
+10084981246,53.6126725,10.025712,Psychiatrisch-Psychotherapeutische Ambulanz,Alsterdorfer Markt 8,22297,Hamburg
+10084981248,53.6126356,10.0256847,"Dr. med. Sabine Bettendorf Fachärztin für Innere Medizin, Hausärztin",Alsterdorfer Markt 8,22297,Hamburg
+10084981251,53.6126307,10.0258062,Frauenarztpraxis Alsterdorfer Markt,Alsterdorfer Markt 8,22297,Hamburg
+10110810200,53.5887174,10.0461398,Miamedes Hausarztpraxis Barmbek,Fuhlsbüttler Straße 108,22305,Hamburg
+10147482305,53.6849613,9.9848329,HNO Gemeinschaftspraxis Norderstedt,Berliner Allee 40 b,22850,Norderstedt
+10147942266,53.5621036,9.886489,Privatärztliche Praxis Integrative und präventive Medizin,,,
+10152461045,53.5867967,10.0177069,Praxis Tokdemir,Barmbeker Straße 40,22303,Hamburg
+10173385883,53.555542,9.9231412,Frauenheilkunde Friedensallee,Friedensallee 43,22765,Hamburg
+10185581973,53.6612419,9.7975146,Kardiologische Gemeinschaftspraxis Dres. Weber/Mittendorf,Dingstätte 20,25421,Pinneberg
+10199282545,53.5604179,9.9540049,Dr. med. Holger Reinke,,,
+10210321223,53.5540988,10.0904038,Orthopädie Zentrum Hamburg Ost,,,
+10218268169,53.554038,10.0903852,Dr. med. Stephan Schoof,,,
+10223834453,53.5847063,9.9648274,Praxis Schnoor,Troplowitzstraße 7,22529,Hamburg
+10245462467,53.6538468,10.1614684,Orthopädie in den Walddörfern,Halenreie 44,22359,Hamburg
+10245462468,53.6535583,10.1614805,Asklepios Gesundheitszentrum Volksdorf,Halenreie 42,22359,Hamburg
+10282431242,53.601594,9.887602,"Dr. med. K. Nierhaus, Dr. med. K. Sweers",,,
+10282453888,53.6018821,9.8895603,"Heiko Hundius, Dr. med Monika Volkenstein, Dr. med. Elena Mintert, Karin Hinkel",,,
+10282475363,53.6013141,9.887981,Ortho-Chirurgie Hamburg,,,
+10282484250,53.6018852,9.8894895,Dr. Yury Astashov,,,
+10282488509,53.601934,9.8894907,Dr. Martin Eichenlaub,,,
+10304570174,53.5754928,9.8324559,Dr. R. Bergmann,,,
+10567013515,53.6132038,10.0366343,Praxis Muzamil,,,
+10630024805,53.5844659,9.9935835,Frauenarztpraxis Heilwigstraße,,,
+10743717376,53.5568996,10.0357415,Farideh Mirzaei,,,
+10745111268,53.6609576,9.7951888,Dr. med. Frank Kügler,,,
+10745136437,53.66128,9.7958304,Dr. med. Dirk Hildebrand,,,
+10745142304,53.6612154,9.7956707,Dr. med.Hanna Akpalo,,,
+10754335836,53.5705534,10.0171664,Herr Dr. med. Bahram Tehrani,Hofweg 26,22085,Hamburg
+10758338653,53.5806308,9.7964922,Kona Orthopädie,,,
+10764023385,53.6184527,9.9502792,Sichtwerk,,,
+10764082202,53.6207112,9.9507872,Dr. Flamm & Böker und Kollegen,,,
+10764082204,53.6200141,9.9519801,Orthopädische Praxis Niendorf,,,
+10764087200,53.6195888,9.9505352,Medizinicum Niendorf,,,
+10764101352,53.6208525,9.9516436,"Dr. J. Gronemeyer, Dr. S. Kichigina",,,
+10764107380,53.6193716,9.9508075,Dermatologie am Tibarg,,,
+10764116999,53.6207934,9.9516153,prokto docs Hamburg Niendorf,,,
+10764119860,53.6209946,9.9515827,Frauenärztinnen Niendorf,,,
+10764119861,53.6194162,9.9509277,Fachärzte für Allgemeinmedizin,,,
+10764122491,53.6187182,9.9505352,Op de Wisch,,,
+10764125016,53.6184762,9.950434,Dr. med. Andreas Krumbiegel,,,
+10764127342,53.6189284,9.9515258,Hansegynäkologikum,,,
+10764133044,53.6209594,9.9516885,Mahin Jurgeit,,,
+10764133045,53.6193573,9.9509066,Urologie am Tibarg,,,
+10764134742,53.6208829,9.9515324,Kinderärzte in Niendorf,,,
+10764136528,53.6198023,9.9507405,Hamburger Kinder- und Jugendhilfe e.V.,,,
+10764138505,53.6209366,9.951554,Hausarztpraxis,,,
+10766671194,53.6219719,9.9537377,Dres. med. Kremer & Krollner,,,
+10766674117,53.6208653,9.952359,"Dr. med. Christine Kuttner, Britt Joachim-Birwe, Dr. med. Demet Ciftlik",,,
+10766675244,53.6220676,9.9538697,Matthias Zuhn,,,
+10766676200,53.6230426,9.9539782,Dr. med. Peter Ortwein,,,
+10766679455,53.6220679,9.9537368,Michaela Nimz,,,
+10766686442,53.6214743,9.9525002,Praxis Michael Nielson,,,
+10769084543,53.6185048,9.9502247,Diabetes Zentrum,,,
+10775165869,53.5508742,9.9551033,MVZ arGon,,,
+10775175822,53.5508233,9.955086,Hanse Chirugie,,,
+10775175823,53.5507765,9.9550702,Dr. med. Christian Lott,,,
+10775175824,53.5507277,9.9550536,Dr. med. Christian Steiding,,,
+10775175825,53.5506735,9.9550352,Radiologische Allianz - Dr. med. Till Wiese,,,
+10778202600,53.5679951,9.9798355,Dr. med. Marc Fiddike,,,
+10778202601,53.5679336,9.9798826,Dr. med. Fabian Blobel,,,
+10787492290,53.5513439,9.9356546,Orthopädie Zentrum Altona,Paul-Nevermann-Platz 5,,
+10806942058,53.5392188,10.0150897,Praxis für Psychotherapie und Psychoanalyse,Versmannstraße 52,20457,Hamburg
+10819042289,53.5848673,9.9813293,Dr. med. Britta Branczyk,Lehmweg 45,20251,Hamburg
+10821730626,53.4733501,9.7878374,Hausarztpraxis An der Bahn,An der Bahn 4,21629,Neu Wulmstorf
+10824941982,53.6616703,9.7970125,Oswald,,,
+10845764480,53.6405163,9.9484184,Praxis für Kinder- und Jugendmedizin,Nordalbingerweg 19,22455,Hamburg
+10845764481,53.6404964,9.9483325,MKG Hamburg Nord,Nordalbingerweg 19,22455,Hamburg
+10948808085,53.5509048,9.9877672,Hanse Aesthetic,Neuer Wall 72,20354,Hamburg
+10948812229,53.6565714,9.8701349,Hanse Aesthetic,Kellerstraße 5,,
+11002924736,53.4584882,9.9788797,Dr. med. K. M. Mausch,,,
+11002924737,53.4584862,9.9788569,"Dr. med. H.-E, Mausch",,,
+11010973505,53.5630031,9.9168199,Zentrum für Gefäßmedizin,Paul-Dessau-Straße 3e,22761,
+11021761405,53.6344202,9.9188407,Hautärzte Hamburg,,,
+11025380628,53.5475494,9.9576473,Praxis St. Pauli,Hein-Köllisch-Platz 1,20359,Hamburg
+11060290181,53.5572944,10.0345182,Dr. med. Anke Rauhut,,,
+11063581737,53.5676475,10.0444205,Orthopedikum Hamburg,,,
+11078410549,53.4097566,10.1715039,Hausarztpraxis Kirchwerder,,,
+11086114186,53.5538215,10.086863,"Gemeinschaftspraxis Dr. med. Dirk Heinrich, Dr. med. Claudia Reeh, Dr. med. Oliver Reinecke",,,
+11086123490,53.5538244,10.0868209,Faizurrahman Ahrari,,,
+11092878964,53.6234148,9.8222512,"Privatpraxis für Akupunktur, Sport- und Ernährungsmedizin",Heidkampstwiete 13a,25469,Halstenbek
+11093039211,53.5872929,10.0364428,Beatriz Helena Cañas de Sandberger,Burmesterstraße 2,22305,Hamburg
+11111140599,53.5874029,10.0496638,Dr. med. Erika Höhne,Steilshooper Straße 54,22305,Hamburg
+11117857805,53.5706761,10.0672883,Praxis Julia Horstmann,,22041,
+11142042182,53.4679777,9.8142323,Dipl.-Päd. Eva Weth,,,
+11142042185,53.4678946,9.8143047,Physiotherapie Johanna Beckmann,,,
+11142064287,53.6208821,9.9527351,Dr. med. Peter Burchardt,,,
+11165507988,53.5787586,10.0187526,Dr. med. C. Zoras / Dr. med. K. Votsch,,,
+11174758584,53.6614562,9.7936939,MKG-Praxis Dr. Dr. Tschakaloff,,,
+11174758585,53.6614828,9.7937114,Augenärztin Dr. Tschakaloff,,,
+11200525998,53.6531609,10.0933081,T.A.Walter,Heegbarg 8,22391,Hamburg
+11203567262,53.555119,10.0529313,Avicenna Ärztezentrum,Hammer Landstraße 84,20537,Hamburg
+11207009197,53.6346689,9.8411555,Orthopädie im Zentrum - Dr. Reza Takeh,Gustavstraße 11,,
+11219439561,53.5718857,9.9860782,Dr. Jamila Rose,Hallerplatz 10,,
+11222931077,53.498625,10.0095998,HNO-Fachärzte,,,
+11222931078,53.498594,10.0095969,Kristine Aghabekyan & Larisa Arefieva,,,
+11231039940,53.5547061,9.8444069,Dr. Malte Buchholz,Nienstedtener Straße 9,22609,Hamburg
+11246873722,53.5597882,9.8845597,Elbinternisten,,,
+11246873724,53.5602744,9.8841397,Dr. Frieling-Ries,,,
+11273077546,53.5593139,9.884289,HNO Othmarschen,,,
+11273077552,53.5593667,9.8821428,ElbUrologie,,,
+11289051933,53.5519118,9.9295606,Frauenarztpraxis Ottensen,,,
+11303551913,53.6525544,10.0932705,Hautarztpraxis Mensing,Heegbarg 4,22391,Hamburg
+11322098565,53.5589422,10.0178421,"Medizinisches Versorgungszentrum Prof. Mathey, Prof. Schofer",Lohmühlenstraße 5,20099,Hamburg
+11389894533,53.5518732,9.9386904,Praxis für Schmerztherapie,Neue Große Bergstraße 9,,
+11389894536,53.5518967,9.9387667,Praxis Sabine Schwenke,Neue Große Bergstraße 9,,
+11389894537,53.5519269,9.9386232,M1 Med Beauty Altona,Neue Große Bergstraße 9,,
+11389894538,53.5519536,9.9386257,Avi Medical Altona,Neue Große Bergstraße 9,,
+11403780367,53.46274,9.9821011,Dr. med. M. Kidess,,,
+11425782066,53.5595456,9.8866794,Dr. med. Michael Kebschull,,,
+11425808670,53.5595471,9.8866416,Christiane Opitz,,,
+11434400869,53.5580944,10.009902,,Gurlittstraße 31-33,20099,
+11483581193,53.6021869,10.1538144,Kinderaerzte Rahlstedt,Rahlstedter Bahnhofstraße 22,22143,Hamburg
+11483602873,53.606148,10.1533176,Kinderarztpraxis Grubesallee,Grubesallee 18,22143,Hamburg
+11565314002,53.599202,9.9298601,Hausarztpraxis Stellingen,Wördemanns Weg 23a,22527,Hamburg
+11584501817,53.4597219,9.9811545,"Gemeinschaftspraxis Krohn, Schünemann und Kamerahl",Harburger Rathausstraße 29,21073,Hamburg
+11590922389,53.6530014,10.1100816,Dr. Bianka Kemper,Kunaustraße 4b,,
+11599010724,53.4865743,10.2143264,Hautarztpraxis Bergedorf,Hinterm Graben 37,21029,Hamburg
+11683832556,53.6538275,10.0929773,Apama Haskan,Heegbarg 14,22391,Hamburg
+11691559869,53.5698432,10.0177034,Praxis Uhlenhorst an der Alster,,22085,
+11755931253,53.550316,9.9857471,Radiologie am Fleet,,,
+11787051669,53.6321819,9.9137844,Dr. C. Kiffmeyer,Kriegerdankweg 31,,
+11792409148,53.6128849,10.075685,Arne Elsen,Bramfelder Chaussee 238;240;242,22177,Hamburg
+11799669501,53.5643494,10.0207961,Orthopädische Praxis Najeb Bahia,Papenhuder Straße 8,22087,Hamburg
+11801428722,53.5586246,9.9135484,Dr.med. Cordula Sohst-Brennenstuhl,,,
+11832705508,53.6197263,9.95264,Lungenpraxis am Tibarg,Tibarg 32a,22459,Hamburg
+11835299912,53.5145108,9.9869725,Prof. Uni Hesham Ahmed,Veringstraße 43,,
+11835510850,53.5677705,10.0208979,A. Böhner,Erlenkamp 12,,
+11838798899,53.5145853,9.9874016,Hausarztpraxis Devrim Thormählen,,,
+11877125769,53.571671,9.9950386,Hautarztpraxis Mittelweg Dr. med. Sabine Harder,,20148,
+11911610896,53.7277394,9.996692,Hausarztpraxis Norderstedt,Erlengang 2-10,22844,Norderstedt
+11915682965,53.5423852,10.1396075,Stefan Bernhardt,,,
+11930609853,53.5161581,9.9859667,KJP Elbinsel,,,
+11930614479,53.5161495,9.9860035,Praxis für systemische Eltern-Kleinkindtherapie,,,
+11933310749,53.5389753,10.1199525,Dr. med. Gabriele Bönig,,,
+11933310750,53.5389684,10.1200716,Michael Sauerbaum,,,
+11945127552,53.5521129,9.9325341,"Praxis für Gastroenterologie, Dr. Hämling, Dr. Wirtz",,,
+11945189689,53.5521224,9.9327426,Heiko Marn,,,
+11955832368,53.6079249,10.0099115,MKG Alsterdorf,,,
+11958994916,53.7335747,9.9160323,Schmerzzentrum Quickborn,Jahnstraße 6,25451,Quickborn
+11962556410,53.5943033,10.0009631,Hausarzt Forum Winterhude,Winterhuder Marktplatz 6-7a,22299,Hamburg
+11980689169,53.5958323,10.0432257,Dr. med. Tomas Clement,Fuhlsbüttler Straße 225,,
+11987190604,53.5519464,9.94321,Allgemeinmedizin Dr. med. Chr. Salomon & Team,,,
+11987229468,53.5519322,9.9433247,Dr. med. Nima Forouher &  Team,,,
+12014582030,53.5747805,9.957155,Internistische Hausarztpraxis Osterstraße,Osterstraße 45,20259,Hamburg
+12020248858,53.5762462,9.9686714,Praxis Munt,Bismarckstraße 80,,
+12022231302,53.4908359,10.2517954,Punktgenau,,,
