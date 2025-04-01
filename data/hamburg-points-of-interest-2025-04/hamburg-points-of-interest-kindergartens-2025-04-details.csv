@@ -1,0 +1,475 @@
+id,lat,lon,name,street,zip_code,city
+296162432,53.4686371,9.7849494,Stieglitzweg,,,
+297492683,53.5862936,10.1285017,Kita Tonndorfer Schulstraße,,,
+299977319,53.5648493,9.9571466,Türkisch - deutscher Kindergarten,Eimsbütteler Straße 39,22769,Hamburg
+299977982,53.575739,9.9623022,Kinderladen 100 Blumen,Eppendorfer Weg 121,20259,Hamburg
+309831869,53.5411634,10.1710366,Ev. Kindergarten,,,
+314895774,53.5574782,10.016458,Evangelisches Kindertagesheim,Stiftstraße 15,20099,Hamburg
+318363477,53.7037894,10.1065189,,,,
+319503219,53.5946206,9.9441011,Kita Antje,,,
+322136461,53.5617533,10.2086715,KiTa Piratenschiff,Am Sportplatz 18,22885,Barsbüttel
+355251064,53.5504041,9.9292219,Kita Eulenstraße,Eulenstraße 31,22765,Hamburg
+366994067,53.5979982,9.8618241,Kindergarten Teddybär,,,
+377688094,53.5800425,9.7628059,Kindergarten der Johannes-Kirche,,,
+425583211,53.5755364,10.0234449,Kinderladen Pirateninsel,Humboldtstraße 77,22083,
+425592054,53.5842259,10.0410976,Ev. Kindertageseinrichtung (Kita) Alt-Barmbek,Maurienstraße 19a,22083,Hamburg
+425601838,53.5796864,10.0221684,Kita Feuerwache e.V.,,,
+443005184,53.4943874,9.9279743,Kinderland Moorburg,,,
+445342310,53.4891196,10.2842302,Flohzirkus,,,
+445342341,53.4731848,10.2760954,Waldkindergarten,,,
+446008325,53.5728435,9.9843738,Strubbelkinder e.V.,Parkallee 2,20144,Hamburg
+456352940,53.5715017,9.9967626,Alsterzwerge,,,
+458869731,53.6005528,10.2748087,,,,
+472167746,53.5974378,9.8816993,Krippe,,,
+477335608,53.5465781,9.9618197,Kita Lelka Birnbaum,St. Pauli Hafenstraße 100,20359,Hamburg
+556010425,53.6617008,9.8014427,Wabe e.V. Kita,Bismarckstraße 12,25421,Pinneberg
+558626752,53.5743453,9.9482315,Kinderhaus Fledermaus,,,
+568399156,53.5630404,10.0228408,Das Krippenhaus,Ifflandstraße 69,22087,Hamburg
+568444875,53.5809725,10.0545826,Kita Pinelsweg,Pinelsweg 11,22081,Hamburg
+590004002,53.5660778,10.0565622,Kindertagesstätte Luisito,,,
+596467010,53.5816612,9.9780119,Gänseblümchen,,,
+623257143,53.5829055,10.0338957,Murmeltier,,,
+642261830,53.6197574,9.9463551,IPICAPE,Friedrich-Ebert-Straße 14,22459,Hamburg
+663891961,53.5729809,9.975661,Evangelischer Kindergarten St. Andreas,Bogenstraße 26,20144,Hamburg
+685068913,53.5812966,9.9699292,Kita Die Strolche,Eppendorfer Weg 205,20253,Hamburg
+691699542,53.6668169,9.9946587,Kindergarten Spatzennest im Valvo-Park,,,
+693551421,53.584015,10.0219556,Kita Hölderlinsallee,Jarrestraße 10,22303,Hamburg
+697084201,53.5869083,10.0264249,Kindertagesstätte Wabe,,,
+701724170,53.554287,10.0496687,Kinderschlupf,Luisenweg 12,20537,Hamburg
+737164496,53.5501507,9.9973447,Kita St. Petri,,,
+794209706,53.5809484,10.0252152,Kita Flohkiste,Weidestraße 126,,
+823643469,53.609872,9.8550356,Kindertagesstätte der Paulskirche,Bogenstraße 93-95,22869,Schenefeld
+837264967,53.5895058,9.9324827,Bunte Erdmännchen,Kieler Straße 366,22525,Hamburg
+875843632,53.5174482,10.1690785,KITA Das Spielnetz,Bockhorster Weg 1-3,21031,Hamburg
+882342578,53.5561014,10.0556424,Evangelisches Familienzentrum Hamburg Hamm,Bei der Hammer Kirche 16-18,20535,Hamburg
+915304813,53.556096,10.0557208,KiTa Dreifaltigkeit,,,
+919813440,53.5728231,9.8924513,KJSH e.V. KITA alte druckerei,,,
+996797193,53.560881,10.0588723,Kita Hammer Strolche,Sievekingsallee 77,20535,Hamburg
+1069649575,53.624784,10.0916228,KiTa Hohnerkamp,Hohnerkamp 67,22175,Hamburg
+1075515776,53.5409248,10.2157562,Kindergarten Kinderland,Oher Weg 3,21509,Glinde
+1108826446,53.5686976,9.9558204,Lek så in i Norden,Eimsbütteler Chaussee 86,20259,Hamburg
+1111567736,53.5628077,9.9674043,Musikkindergarten,Lagerstraße 34 A,20357,Hamburg
+1123136245,53.5669868,9.9580363,Wurzelkinder e.V.,,,
+1186001642,53.6311799,9.9511649,Kinderhaus Fliewatuut,Paul-Sorge-Straße 108-110,22459,Hamburg
+1204948617,53.6194767,10.0322772,Deutsch-Spanischer Kindergarten,,,
+1226137273,53.60155,9.954987,Le petit monde,Grelckstraße 30,22529,Hamburg
+1240111502,53.5674806,10.0439064,Paula und Max,Wandsbeker Chaussee 105,22089,Hamburg
+1276392537,53.5315493,10.2606947,Kindergarten Schönningstedt,Oher Straße 18,21465,Reinbek
+1291681194,53.5773229,10.0428155,Kirchengemeinde Alt-Barmbek,,,
+1308192679,53.5807381,10.0484485,Villa Regenbogen,Gerstenkamp 19,22081,Hamburg
+1313408590,53.5499373,10.2459958,Ev.Kita Reinbek-Neuschönnigstedt,Kirchenstieg 3,21465,Reinbek
+1317305677,53.5738581,10.0399958,Kita Marschnerstraße,Marschnerstraße 42,,
+1334359106,53.581138,9.7541561,Kindergarten Zaubermäuse,Rissener Dorfstraße 51,22559,
+1338591534,53.6183964,10.0276208,Flachsland Elementarbereich,,,
+1343921386,53.6024754,10.1547768,Kita Rahlstedter Bahnhofstraße,,,
+1345080659,53.6753711,10.023886,Dschungelkinder,,,
+1349142825,53.586044,10.0226601,Pfützenracker,,,
+1456334383,53.5387515,10.2272303,"Evangelischer Integrationskindergarten ""Wilde Wiese""",Schönhorst 84,21509,Glinde
+1456337145,53.5491725,10.2179678,"Kindergarten ""Wurzelzwerge""",Am Sportplatz 100,21509,Glinde
+1464557691,53.558528,10.0447842,KiTa-Aktiv-Hamm,,,
+1488301666,53.5724608,9.8687564,KITA Bugenhagen,Bei der Flottbeker Mühle 28,22607,Hamburg
+1498471102,53.5547134,10.0206459,Die Stifte,,,
+1506825585,53.5482112,10.056909,Kita in der Schule Osterbrook,Osterbrook 17-19,20537,Hamburg
+1507602146,53.5684023,9.9566271,Schmuddelkinder,Eppendorfer Weg 4-6,20259,Hamburg
+1565970640,53.6379418,9.9454221,Ev. Kindergarten im Immanuel-Haus,Vielohweg 136,22455,Hamburg
+1573885526,53.6014965,9.9886333,Kita Deelbögenkamp,Deelbögenkamp 4a,22297,Hamburg
+1578174845,53.5915688,10.040719,Monster AG,Hellbrookstraße 17,22305,
+1583907252,53.7278359,10.2610033,DRK Kindergarten,Am Markt 4,22941,Bargteheide
+1596062258,53.6029346,9.9556512,Kinderladen Papelucho,Rütersbarg 22,22529,Hamburg
+1600859206,53.561743,9.8231546,Kindergarten Maria Grün,Schenefelder Landstraße 3,22587,Hamburg
+1600859763,53.5634075,9.8262423,Waldorf Kindergarten,,,
+1606810849,53.4355437,9.9053689,,,,
+1649446505,53.5470069,10.0851139,Kita Sunshine,,,
+1650806153,53.6148159,10.0094171,Kita Alsterberg,Maienweg 66b,22297,Hamburg
+1686178717,53.607738,9.9772483,Evangelischer Kindergarten St. Peter,Borsteler Chaussee 139a,22453,Hamburg
+1699385992,53.5710323,10.108559,Lieblings-Kita,Rodigallee 111,,
+1701618944,53.6150718,10.116685,Wabe-Kindertagesstätte Farmsen,August-Krogmann-Straße 100,22159,
+1708240577,53.6334667,10.1298099,Naturkindergarten Kokopelli,,,
+1712782906,53.5540256,9.9547147,"Praxisausbildungsstätte der Staatlichen Fachschule für Sozialpädagogik, Kindertagesheim",Gerritstraße 9,22767,Hamburg
+1719900349,53.5705872,10.0889553,Kita Lummerland,,,
+1732823934,53.3978583,10.1591134,Kindergarten Hoopte,,,
+1768962443,53.607483,9.9098088,Ev. Kindergarten Elisabethkirche Eidelstedt,,,
+1809077142,53.5788824,10.0309548,BarmbeKids - Kindertagespflege,,,
+1823900755,53.6338702,10.0194194,Kindergarten St. Lukas,,,
+1832981644,53.5491497,10.1006948,Kita Kattensteert,Legienstraße 70,22111,Hamburg
+1841605271,53.592428,9.952923,Natur-Kita Lohbekpark,Lohkoppelweg 35b,22529,Hamburg
+1843036024,53.5789501,9.8098096,Kita Iserbrooker Weg,,,
+1843036025,53.5819058,9.8158496,Kinderhaus Blümchen,,,
+1843036026,53.5829902,9.8151657,Kindergarten Sapperweg,,,
+1853063246,53.6343301,9.8417848,Kindertagesstätte Erlöserkirche,Gustavstraße 10,25469,Halstenbek
+1859845794,53.588025,10.2332742,Kindergarten,,,
+1867275140,53.491915,10.3152203,Sonnenblume,,,
+1896506329,53.5610058,10.0321295,Kita Elisenstraße,Elisenstraße 6,22087,Hamburg
+1911269418,53.5614753,10.0606028,Kindergarten Pauluskirche,,,
+1912131352,53.5532507,9.9802911,Kita Kohlhöfen,Kohlhöfen 22,20355,Hamburg
+1933400830,53.5751775,9.8472851,Haus Mignon,Rugenbarg 22,22549,
+1968378712,53.5609837,9.9254949,Mien Lüttjenwelt,Bahrenfelder Steindamm 52,22761,Hamburg
+1969399423,53.5630682,10.0219707,Bilingualer Kindergarten,Ifflandstraße 69,22087,Hamburg
+1970213104,53.6152223,10.0634072,Kita Erich-Ziegel-Ring,Erich-Ziegel-Ring 28,22309,
+1983595857,53.5472618,9.9825835,Kita Fleetpiraten,,,
+1990736554,53.5469727,10.1697293,,,,
+2043611494,53.5470857,10.106183,Kita Schmusebacke,Schiffbeker Weg 83,22119,Hamburg
+2046238628,53.5466156,10.0986719,Kita Glückliche Kids,Steinfeldtstraße 2,22119,Hamburg
+2050335254,53.5565249,10.0785219,Kita - Kleine Wissenschaftler,Sievekingsallee 186,22111,Hamburg
+2055560517,53.4658779,9.9864891,Kinderhaus Fleethaus,Schellerdamm 2,21079,Hamburg
+2079158048,53.5475072,10.0269339,Bilinguale Kindertagesstätte PhorMiniS,,,
+2092693378,53.5553,9.94557,Kinderclub Chamäleon,Chemnitzstraße 82,,
+2127656087,53.6399093,10.1194892,Die Wilde 13,,,
+2127656190,53.6393687,10.1183574,Kinderstube,,,
+2129780003,53.5616187,9.9132034,Elbpiraten Hamburg,,,
+2149809527,53.5284509,10.1467926,Kindergarten St. Stephanus,Oskar-Schlemmer-Straße 6a,22115,Hamburg
+2159110606,53.5591532,10.1045831,Kita Arche Noah der Kirchengemeinde Philippus und Rimbert,Manshardtstraße 105f,22119,Hamburg
+2161700274,53.5608856,9.8334521,Ev. Kindertagesstätte Blankenese im Bereich d. Führungsakademie,,,
+2164565019,53.5685997,9.8998646,kita nordvind,,,
+2166578440,53.5697077,9.9809689,KiTa Bornstraße,Bornstraße 2,20146,Hamburg
+2178840208,53.5540337,9.9304947,Kita Kleine Rainstraße,,,
+2180937959,53.5711708,9.945829,Regenbogenkind,,,
+2203511141,53.542498,10.1107225,Kindergarten Falkennest,Öjendorfer Weg 32,,Hamburg
+2218638266,53.4863882,10.2147871,WABE-Kita Neuer Mohnhof,Hinterm Graben 37,21029,Hamburg
+2222111292,53.6184477,9.9493506,Wurzelzwerge,Niendorfer Marktplatz 18-24,22459,Hamburg
+2262102700,53.5722752,9.95048,Kita Früchtchen,,,
+2265800472,53.5671972,9.9562668,Villa Wackelzahn,,,
+2268141912,53.5550517,10.0181309,CampusKinder,,,
+2295903676,53.6899048,9.8133254,Johanniter-Kindergarten Pusteblume,Quickborner Straße 99,25494,Borstel-Hohenraden
+2296353270,53.4251661,10.024841,Kindergarten Große Wiesen,Große Wiesen 17,21217,Seevetal
+2324866924,53.5790541,9.9449903,Bengel & Engel,Methfesselstraße 49,20257,Hamburg
+2357438316,53.5337129,9.865744,KiTa Finkenwerder Norderdeich,Finkenwerder Norderdeich 14,21129,Hamburg
+2381646628,53.5420778,10.0990092,Kita,,,
+2398256425,53.5762733,10.0456978,Kindergarten BarUhle 1,,,
+2429444889,53.6007186,9.9635127,KITA Kleine Entdecker,,,
+2446734567,53.5951864,10.1495778,"KiTa ""Räuberhöhle""",Rahlstedter Straße 64,22149,Hamburg
+2461980863,53.468919,9.9855114,KITA Schlossinsel,,,
+2468095460,53.6861622,10.0257459,Kindergarten am Böhmerwald,Segeberger Chaussee 147,,Norderstedt
+2499733590,53.5817318,9.9330043,Kita Nubeluz,,,
+2518352577,53.5572637,9.9159953,Zwergennest,,,
+2535498403,53.5263607,10.1457239,Kita Franz-Marc-Straße,Franz-Marc-Straße 10,22115,Hamburg
+2535709761,53.5420247,10.1278528,Kita Öjendorfer Höhe,Öjendorfer Höhe 2,22117,Hamburg
+2536085164,53.5326461,10.1452836,Kita Mondrianweg,Mondrianweg 4,22115,Hamburg
+2562518288,53.4882292,10.1532531,Zauberkasten,,,
+2563436620,53.6131153,10.049123,Ev. Kindertagesstätte Martin-Luther-King,,,
+2571327587,53.4848037,10.160346,Kinderhaus Springmaus,,,
+2606826688,53.5444127,10.0208129,Kinderzimmer City Süd,Amsinckstraße 61,20097,Hamburg
+2626887362,53.5108594,10.2105557,Kita Regenbogen,,,
+2652364380,53.5505606,9.9335442,Fröbel-Kindergarten,Winterstraße 2a,22765,Hamburg
+2659519370,53.4889537,10.1584727,Kindertagesstätte Schmusebacke,Fleetplatz 7,21035,Hamburg
+2665885193,53.4290609,10.2700716,Ev. Kita St. Nicolai Altengamme,,,
+2671481447,53.5601478,10.1063449,Frosch Kita,Graßmannweg 6,22119,Hamburg
+2711212885,53.4489249,10.2283906,Kita Curslacker Deich,,,
+2719747179,53.4647614,9.987961,Kinderstadt Kita Hafencampus,Theodor-Yorck-Straße 23a,21079,Hamburg
+2719939298,53.4739035,10.2385213,Kita Schmusebacke,Curslacker Heerweg 263,21039,Hamburg
+2732766967,53.5821632,9.9479091,Kita Kinderkönigreich,Eidelstedter Weg 75,20255,Hamburg
+2732913089,53.4442351,10.1735106,Kindergarten Grashüpfer,,,
+2754599369,53.5754593,9.951107,Kita Heußweg,,,
+2771955710,53.4395592,9.9920196,,Schneverdinger Weg 1b,21079,Hamburg
+2793252489,53.558901,9.9022794,Kita im Othmarschen Park,Jürgen-Töpfer-Straße 17,22763,Hamburg
+2893350300,53.687346,9.7786385,Die Miniforscher,,,
+2938516330,53.5665853,9.8746497,Kita Seestraße,,,
+2942420825,53.5575243,9.9489031,Paula& Max,Holstenstraße 108,22767,Hamburg
+2942468260,53.5690073,10.0441248,Paula & Max,Eilbeker Weg 39,22089,Hamburg
+2942468295,53.5829783,9.9703584,Kita Paula & Max - Hoheluftchaussee,Hoheluftchaussee 115,20253,Hamburg
+2942475709,53.5619334,9.9542404,Paula & Max,Oelkersallee 3,22769,Hamburg
+2945667069,53.6050524,10.120266,KiTa Berner Heerweg,Berner Heerweg 162,22159,
+3017127971,53.6528508,10.008719,Evangelische Kita Ansgar Langenhorn,Wördenmoorweg 22,22415,Hamburg
+3035925823,53.551083,10.1015311,KITA Kinderparadies Billstedt,Legienstraße 165,22119,Hamburg
+3046736575,53.6200735,10.0820561,Kita Anderheitsallee,Anderheitsallee 22,22175,Hamburg
+3073457015,53.5510325,9.9245995,Katholische Kindertagesstätte St. Marien,,,
+3073493647,53.6203899,9.9501371,Katholischer Kindergarten St. Ansgar,Niendorfer Kirchenweg 18,22459,Hamburg
+3074433542,53.6169406,9.9503498,Ev.-Luth. Kindertagesstätte Regenbogen Niendorf,Kollaustraße 241,22453,Hamburg
+3075953186,53.598868,9.9965082,Katholischer Kindergarten St. Antonius,,,
+3077174955,53.5363846,10.1092561,Kita Billstedter Hauptstraße,,,
+3078967520,53.6108955,10.0635592,Katholische Kindertagesstätte St. Johannis,,,
+3096116404,53.5817951,9.9439136,Kinderhaus 4 Zeiten - Elementarhaus,Lutterothstraße 98,20255,Hamburg
+3121764106,53.5442757,10.02904,Die City-Süd Rabauken,,,
+3121764107,53.5437247,10.0295578,Die Zipfelmützen,,,
+3127437429,53.6041569,10.0393731,Kita Fuhlinge,Fuhlsbüttler Straße 405,22309,Hamburg
+3136936091,53.419282,10.2721667,Kindergarten Drennhausen,,,
+3152686722,53.5956057,9.8905956,Kita Moorwisch,Moorwisch 2,22547,
+3163930232,53.6352461,10.0514545,Natur Kinderladen Pinocchio,Wellingsbütteler Landstraße 223,22337,Hamburg
+3190745568,53.6171783,9.9988738,Kita Himmelsstürmer,Heselstücken 24,22453,Hamburg
+3203071761,53.6018539,9.8730458,Ev.-Luth. Kita Emmaus,Kleiberweg 115,22547,Hamburg
+3256354875,53.6352011,9.9573638,Ev. Kindergarten Verheißungskirche,Sachsenweg 2,22455,Hamburg
+3295145261,53.5649146,9.9135986,Kita ZwergenAufstand,Bahrenfelder Chaussee 45,22761,Hamburg
+3367461793,53.5433985,10.1447204,Kita Möllner Landstraße,Möllner Landstraße 266,22117,Hamburg
+3421253903,53.53163,10.1494587,Kita Kandinskyallee,Kandinskyallee 25,22115,Hamburg
+3421254906,53.5308687,10.1469173,Kinderhaus St. Nicolaus,Mümmelmannsberg 73,22115,Hamburg
+3436597249,53.6467071,9.9104658,Vorschulakademie Käptn Kaninchen,Walter-Jungleib-Straße 8,22457,Hamburg
+3468212761,53.5446278,9.9806982,Kinderzimmer Stubbenhuk,,,
+3503823432,53.5541983,9.9844728,Wolkenzwerge,,,
+3524733883,53.472951,10.2298702,Montessori Kinderhaus Vierlanden,Achterschlag 2,21039,Hamburg
+3579618474,53.5629917,9.8145411,Strollers Kinderhaus,,,
+3590832811,53.5415999,9.9946781,Kita St. Katharinen,,,
+3625175177,53.569074,10.0443089,Kindertagesstätte Eilbeker Weg,Eilbeker Weg 51-53,22089,Hamburg
+3647946932,53.5812704,10.0616136,Evangelische Kita Dulsberg,,,
+3664754341,53.5788677,9.9408387,Deutsch-Spanischer Kindergarten Lokomotive,,,
+3664754342,53.5793655,9.9403926,LaDa 18,Langenfelder Damm 18,,
+3668931448,53.5800623,9.9388142,Krippe Minimeter,Langenfelder Damm 41,20257,Hamburg
+3685489621,53.5473091,9.9656746,Kinderzimmer Astraturm,,,
+3696097584,53.5777609,9.9517732,Kinderladen Hoppetosse,,,
+3710502980,53.579594,9.9533704,Hamburg International Kids,,,
+3710502982,53.5794265,9.9530814,Kita Telemannstraße,,,
+3768569699,53.5517077,9.9671857,Kinderladen Mafalda,Budapester Straße 13,,
+3791977352,53.6001264,10.1328182,Kita Regenbogen in Hamburg,,,
+3794239839,53.5874048,10.0675736,Kita Nimmerland,Alter Teichweg 141C,22049,Hamburg
+3799389452,53.5688346,9.9910756,Kita Feldbrunnenstraße,,,
+3808286230,53.5827354,9.8303676,Montessori Kinderhaus Iserbrook,,,
+3813638857,53.3990498,10.0419059,DRK Kita,Carl-Benz-Straße 26,21220,Seevetal
+3815168489,53.5871962,10.1696955,Kita Kielkoppelstraße,,,
+3830363900,53.5654618,9.992981,Kindergarten Schneewittchen,,,
+3854993308,53.5859541,10.0176266,Kita Käptn Kaninchen,,,
+3858346757,53.6934662,9.9846179,Kita Hummelhausen,,,
+3888959942,53.5816458,10.080599,Windelliga,Holzmühlenstraße 53,22041,Hamburg
+3957653228,53.6119057,10.0258447,Kindertagesstätte am Werner Otto Institut,Paul-Stritter-Weg 5a,22297,Hamburg
+3968025676,53.5900608,9.9638956,Kita Mobi,Grandweg 95a-d,22529,Hamburg
+3984342353,53.5420116,10.0480515,Kita Sonnenschein,,,
+3984763491,53.5628242,9.9242375,Apoidea e.V. Kita Celsiusweg,Celsiusweg 9,22761,Hamburg
+3992228495,53.5911245,9.8749556,elbkinder Kita Lüttkamp,,,
+3992869081,53.5794363,10.0635879,Bildungskindergarten „Probsteier“,Probsteier Straße 35,22049,Hamburg
+3997622826,53.5783504,10.0600776,Meine Kita,,,
+4037273390,53.5825635,10.0081305,Kinderhaus Dorotheenstraße,,,
+4040137439,53.5602318,9.9849575,Kindertagesstätte an der Bucerius Law School,,,
+4053483232,53.5539932,9.9646013,Evangelische Kita St. Pauli,,,
+4062086536,53.5886059,10.0720905,Kinderhaus Alter Teichweg,,,
+4065568863,53.5727888,9.9589831,Die halben Meter,,,
+4075565990,53.5468204,9.9314781,Kinderhaus Mottenlos,,,
+4099002189,53.6948547,10.0509519,Die Wittmoor-Streifenenten,Bürgermeister-Bombeck-Straße 1,22851,Norderstedt
+4130732489,53.5662027,9.9060275,bunte töne,Haydnstraße 1,22761,Hamburg
+4170876691,53.5523859,9.927072,Kurz&Klein,,,
+4184225908,53.5962032,10.0023662,Stadtpark Knirpse,Ohlsdorfer Straße 30,22299,Hamburg
+4196783914,53.6377813,9.921693,Kita Königskinder,,,
+4221634810,53.6937962,9.7944434,St. Martin,Langenbargen 4a,25495,Kummerfeld
+4232476521,53.5783693,9.9455627,Kinderladen Rombergstraße e.V.,,,
+4242015385,53.6176788,9.9894029,Wichtel-Kindergarten,,,
+4271858918,53.5735199,9.976798,Kindergarten Grindelberg,Grindelberg 13A,20144,Hamburg
+4324787248,53.549971,10.2473574,AWO Kindertagesstätte Querweg,Querweg 4,21465,Reinbek
+4385625753,53.5589262,10.047476,Kita Kleine Füchse,,,
+4398050019,53.5765859,10.0414888,Pfützenspringer,,,
+4403404289,53.5501814,9.9482487,Kita Taka-Tuka-Land,,,
+4425695134,53.59368,10.0010505,Apoidea favo bambini,,,
+4436605008,53.5721652,9.9813345,Bilinguale Krippe Cocorí,,,
+4456336151,53.566846,9.9977034,Waldorfkindergarten Hamburg Mitte,,,
+4459064735,53.5759353,10.0298345,Finkis,,,
+4475020118,53.5736188,9.735544,Fröbel Wasserstrolche,Von-Linné-Straße 14,22880,Wedel
+4514296974,53.6229802,10.0265306,Kindergarten Maienweg,,,
+4514299861,53.6235918,10.0257212,Kita Kleine Füchse,,,
+4524915747,53.5601933,9.9750766,Kita Karolinenstraße,Karolinenstraße 35,20357,Hamburg
+4539274092,53.5482837,9.9334525,Panini Kinderladen,Am Felde 2,22765,
+4586857539,53.5745186,9.9564799,Kinderhaus Monaddrei,,,
+4730248340,53.6740861,10.2414626,"Krippe ""Die Königskinder""",,,
+4764512949,53.6002612,10.0051945,Evangelische Kita Paul-Gerhardt Winterhude,,,
+4785230757,53.5814275,10.0822276,Kita Hänsel und Gretel,Auf dem Königslande 79,22047,Hamburg
+4858273382,53.5967627,10.0022235,Kinderladen Himmelstraße,,,
+4864620859,53.5528283,9.9283041,Filefant,Nöltingstraße 31,22765,
+4947283482,53.5218297,10.317236,Montessori-Kinderhaus,Ernst-Anton-Straße 27a,21521,Aumühle
+5020850210,53.5428809,10.0040085,KiTa am Lohsepark,,,
+5060337230,53.5605152,10.0431469,Evangelische Integrationskita Simeon,Sievekingsallee 12a,20535,Hamburg
+5075723145,53.5820385,10.1092362,Die Hörnchen,Ahrensburger Straße 162,22045,Hamburg
+5081330362,53.5638543,9.8806192,Kinderzimmer Villa Flottbek,Beselerstraße 19,22607,Hamburg
+5088973425,53.5682421,9.9677237,Montessori-Kinderhaus monaddrei,Schäferkampsallee 27,20357,Hamburg
+5097638868,53.5740381,9.9915545,Kiga Sterntaler e.V.,,,
+5097638878,53.5723143,9.9843267,KiTa Hallerstraße,,,
+5097638879,53.5684997,9.9835831,Joseph-Carlebach-Kindertagesstätte,,,
+5098158895,53.5425583,10.2343594,Kita Oher Weg,Oher Weg 31,21509,Glinde
+5098542745,53.5753369,9.9468608,Ev. Kita Apostelkirche,,,
+5098542746,53.5820595,9.9438071,Kinderhaus 4 Zeiten - Krippenhaus,Eidelstedter Weg 107,,
+5105515543,53.5423235,10.1104002,Palaststrolche,,,
+5118292096,53.6001724,9.9969335,Drachenkinderland,Efeuweg 1,22299,Hamburg
+5123958277,53.5690024,10.1026828,Kindergarten Marienkäfer,,,
+5137266285,53.575343,10.0281736,Barmbeker Lachmöwen,,,
+5143191206,53.5487368,10.1679218,Kindertagesstätte Meessen,Meessen 32b,22113,Oststeinbek
+5318878673,53.6173914,10.1424083,bunte töne,Greifenberger Straße 81,22147,Hamburg
+5643770778,53.4627377,9.9703727,Campus-Nest,,,
+5747014859,53.6317139,10.0204129,"Kita „Lütte Sternenkieker""",Erdkampsweg 80-84,22335,Hamburg
+5771828531,53.4686179,9.7901343,KITA am See,Ernst-Moritz-Arndt-Straße 14,21629,Neu Wulmstorf
+5863620498,53.5927264,9.9296243,Die Kusimansen,Sportplatzring 47,22527,Hamburg
+5888449356,53.6009914,10.0289133,Villa Luna Hamburg,Kapstadtring 4,22297,Hamburg
+5891396508,53.4723252,9.8841766,Don Bosco,,,
+5891666231,53.471546,9.8351547,Kita Sonnenschein,,,
+5899382759,53.5990972,9.9608574,Kita Käptn Kaninchen,Vogt-Wells-Straße 15b,22529,Hamburg
+5908907765,53.5769732,9.9428549,Kind & Kunst,Lappenbergsallee 34,20257,Hamburg
+5918482435,53.5680909,9.8883759,Villa Vivendi,,,
+6019695861,53.5963607,9.9812806,Kita Momo,,,
+6032707709,53.6350602,9.7574311,Kita Heideweg,Heideweg 1b,,
+6055903498,53.6883772,10.0445498,Kita an der Thomaskirche,,,
+6073387335,53.4912401,10.2063686,Kindertagesstätte Leuchtkäfer,,,
+6149940360,53.6079764,10.0393903,,Fuhlsbüttler Straße 490,22309,Hamburg
+6166993193,53.6695616,10.0857736,Kindertagesstätte Jim Knopf,,,
+6171627681,53.68509,10.2450903,Die Wurzel Zwerge,Langeneßweg 3,,
+6239939952,53.5990532,9.9642905,Kita Käptn Kaninchen,,,
+6255702064,53.4012083,9.7475425,Kindergarten Appel,Am Kinderspielplatz 1,21279,Appel
+6258704463,53.5790475,10.0675414,Kita Piggeldy,Walddörferstraße 27,22041,Hamburg
+6293479512,53.5624683,9.9166458,kidspace Bahrenpark,Paul-Dessau-Straße 3g,22761,Hamburg
+6306416801,53.5667367,9.9753325,Kita Flohzirkus e.V.,Laufgraben 27,20146,Hamburg
+6357848161,53.6306304,10.0217455,Kita Erdkampsweg,Erdkampsweg 64,22335,Hamburg
+6357871688,53.6312175,10.0203776,Carmas Minihanseaten,Erdkampsweg 79,22335,Hamburg
+6370496985,53.6400409,10.0215943,MaNi Kids,,,
+6413762430,53.5712814,10.0476449,Kita Auenstraße,,,
+6448114384,53.6520801,10.2614252,,,,
+6462504098,53.5526253,9.8559498,Nienstedtener Waldwichtel,,,
+6515216153,53.6189225,10.0127022,Kinderladen Buddelkiste,Alsterberg 22,22335,Hamburg
+6534854791,53.5512906,10.0857594,KITA Rasselbande Horn,,,
+6619072754,53.5364804,10.1213414,Kita Druckerstraße,Druckerstraße 19,22117,Hamburg
+6635054117,53.6910411,9.7914731,KITA St. Martin Außenstelle,Bundesstraße 72,,
+6639648382,53.540471,9.9954479,Kinderwelt Hamburg,,,
+6649482374,53.468337,9.96332,Kita Nobleestraße,Nobléestraße 38,21075,Hamburg
+6651740320,53.4679275,9.9637864,elbkinder,,,
+6665933600,53.5551677,9.931941,Kindertagesstätte an der Osterkirche,,,
+6689544671,53.573998,9.8912649,Kindertagesstätte Albert-Einstein-Ring,,,
+6699482269,53.6350343,9.9664078,Kinderstube,Garstedter Weg 187,22455,Hamburg
+6792816057,53.5558043,10.0716957,Kindertagesstätte Horner Weg,,,
+6964119490,53.652704,10.0076569,Kita Wolkenflieger,,,
+6965622303,53.5788884,9.7976494,Evangelische Kindertagesstätte Sülldorf,,,
+6976275506,53.6712999,9.9875647,Kita Spielhaus Kunterbunt,Rugenbarg 43,22848,Norderstedt
+7042108980,53.5938003,10.0598593,Kinderkrippe LaLeLu,,,
+7042264018,53.6541307,10.2348327,Kinderbetreuung Kleiner Zaunkönig,,,Ahrensburg
+7063911952,53.5827383,9.9747848,Kind & Kegel,Eppendorfer Weg 234,20251,Hamburg
+7080923644,53.7324346,9.9098718,Freie Kita Quickborn,Feldbehnstraße 55,25451,Quickborn
+7123387541,53.5889263,9.8557509,Kita Sonnengarten,Bornheide 76d,22549,Hamburg
+7176690320,53.687005,10.0926813,AWO Krippe Am Tannenhof,Huulkamp 10,22397,Hamburg
+7185318404,53.6053163,9.9739524,KiTa Inselkids e.V.,Brödermannsweg 49,22453,Hamburg
+7198954404,53.6851432,10.248561,Krippe Niebüllweg,Niebüllweg 6,22926,Ahrensburg
+7199238469,53.5682172,9.9677082,KiTa Montessori Kinderhaus monaddrei,,,
+7204925818,53.5515303,10.0788484,KiTa Kleine Füchse,Beim Rauhen Hause 55,22111,Hamburg
+7207415218,53.5981169,9.9828048,Elementarbereich KIta Baumhaus,,,
+7207415219,53.6006334,9.9809701,Anschar-Krümel,,,
+7216369571,53.4954249,10.2499958,Evangelischer Kindergarten,Am Burgberg 4,21465,Wentorf bei Hamburg
+7222347599,53.4948074,10.1325135,Frosch-Kita - Haus Gelb,Am Gleisdreieck 19a,21033,Hamburg
+7222347606,53.4956771,10.1331948,KiTa Am Gleisdreieck,Am Gleisdreieck 16a,,
+7222347638,53.4935492,10.1350537,Kinderhaus MiLa,Am Gleisdreieck 7a,,
+7222347653,53.4942002,10.1319718,Frosch-Kita - Haus Rot,Am Gleisdreieck 4a,,
+7222616060,53.5855619,9.9754853,KiGa Kleine Engel,Husumer Straße 2,20251,Hamburg
+7228985887,53.5504894,9.9481104,KiTa der Rudolf Steiner Schule Altona,,,
+7236719295,53.6004654,10.1177953,JUL-Kita Berner Heerweg,Berner Heerweg 115,,
+7238682081,53.6210211,9.900244,Kita für Alle,Oliver-Lißy-Straße 44,22523,Hamburg
+7258416485,53.5597691,9.9394358,Kita Mitte Altona,,,
+7328155064,53.6472335,9.9073413,Kita am Dänenstein,Am Dänenstein 4,22457,Hamburg
+7366757030,53.4608163,9.9504397,Kita Kunterbunt,,,
+7366878547,53.461373,9.945108,Kita Kinderwaldschlösschen,Hans-Dewitz-Ring 2c,21075,Hamburg
+7385973093,53.5594165,10.0200846,Kita Lohmühlenstrolche,,,
+7531864143,53.5794703,10.1308402,Kita Kelloggstraße,Kelloggstraße 35,22045,Hamburg
+7581339089,53.729131,9.7764507,Die kleinen Kobolde,Dorfstraße 5,25373,Ellerhoop
+7627132718,53.4527869,9.9738955,Lilliput,,,
+7683649285,53.6043214,9.9606606,Kita Mucklas,Kollaustraße 67,,
+7791958010,53.7237221,10.0035681,Kita Albert Schweitzer,,,
+7846035718,53.5483809,9.9224018,Kita Kinderland Federleicht,Arnoldstraße 76-78,22763,Hamburg
+7973770020,53.6447393,10.0859367,Die Alsterknirpse,Wellingsbüttler Weg 188,22391,Hamburg
+7997593105,53.4790239,10.2058988,Kita Schilfparkkinder,,,
+8069003619,53.4767235,9.8563981,Kindertagesstätte Baumhuus,,,
+8069054141,53.477289,9.8495748,Kindertagesstätte Neunmalklug,,,
+8192310110,53.568344,9.9535529,Deutsch-Chinesischer Kindergarten Hamburg,Doormannsweg 41-43,20259,Hamburg
+8286121093,53.6047578,10.0233056,Zentrum für Kindesentwicklung,Mexikoring 35,22297,Hamburg
+8412982255,53.4653236,9.8131809,kinderzimmer Heidbrook,Im Fischbeker Heidbrook 5,21149,Hamburg
+8412982260,53.4682998,9.8139802,FRÖBEL-Kindergarten Fischbeker Höfe,Im Fischbeker Heidbrook 24,21149,Hamburg
+8517138591,53.5329,10.3104978,Sachsenwaldkinder,,,
+8661013739,53.5675435,9.9593842,Krippe am Lindenpark,Lindenallee 35,20259,Hamburg
+8673038347,53.4958994,9.9944552,Kindergarten Tigerente,Schlöperstieg 1a,21107,
+8786837218,53.5835324,9.8564194,Kita Barlsheide,,,
+8813767336,53.5812421,9.8225816,Villa Schief,,,
+8840194503,53.5987,10.0336995,Kita Feldahornweg,Feldahornweg 71,22303,Hamburg
+8888478426,53.5662474,9.9640425,Kinderhaus,,,
+8888478430,53.568158,9.9640906,Kita Fliegenpilze,Weidenallee 59,,
+8903883810,53.4765532,9.8467389,KiTa Kinderzimmer Vogelkamp,Merlingasse 1-5,21147,Hamburg
+8971673147,53.6183062,10.0339457,kinderzimmer Oolsdörp,,,
+8979181919,53.5957746,9.9710122,Kinderzimmer Süderfeldpark,Heinrich-Kock-Weg 25,22529,Hamburg
+9081969385,53.6285526,10.1251089,Waldkindergarten Berne,Lienaustraße 32,22159,Hamburg
+9197416642,53.6359896,9.9183527,Vorschulakademie Käptn Kaninchen,Frohmestraße 5,22457,Hamburg
+9211960661,53.5479078,10.0171317,Kita im Sonninquartier,Sonninstraße 1-5,20097,Hamburg
+9221973723,53.6046452,10.0229379,City Kinder,,,
+9224780397,53.6048489,10.0263466,kinderzimmer Rübenkamp,Überseering 10a,22297,Hamburg
+9261388332,53.6028474,10.0307716,Kita Winterlindenweg,Winterlindenweg 4,22297,Hamburg
+9403796980,53.6242479,10.1247739,Die Waldkinder Hamburg,,,
+9429703650,53.6869072,10.0055261,Evangelische Kindertagesstätte Vicelin,,,
+9501555958,53.7273903,9.9242753,DRK Kita Quickborn Hainbuchenstieg,,,
+9762255053,53.4735316,9.7884884,AWO Kindertagesstätte Wulmstorfer Wiesen,Bahnhofstraße 77,21629,Neu Wulmstorf
+10214377459,53.5564199,9.9236318,Sternipark Kinderhaus Planckstraße,Planckstraße 11,22765,Hamburg
+10303519423,53.6758489,10.1437256,Waldkindergarten Bergstedt,,,
+10566985780,53.6145356,10.0361426,Evangelische Kita Ohlsdorf,,,
+10580002291,53.683316,10.0310173,Krippe Ministerne,Tangstedter Landstraße 557,22851,Norderstedt
+10584349668,53.6195333,10.0336365,,,,
+10680774907,53.6333745,9.9204447,Kita Muggelkinder,,,
+10680798605,53.6465835,9.9094151,"Kita ""die Mütze""",,,
+10680812005,53.6473539,9.9092756,Kita Käptn Kaninchen Erlebnis Kita,,,
+10807048891,53.6302394,10.1673442,Die Hüpfzwerge,,,
+10873824337,53.5922951,9.987547,Flitzepiepen,,,
+10896175423,53.613404,9.9100041,Kita Reemstückenkamp,Reemstückenkamp 5,22523,Hamburg
+10897000729,53.5750709,9.9452562,Kita Sonnen-Kinder,,,
+10914178828,53.5850984,10.0266151,KiTa Trompitas,Jarrestraße 52-54,22303,Hamburg
+10925463692,53.6007255,9.9995434,Kinderladen Raupe Nimmersatt,Hainbuchenweg 5b,22299,Hamburg
+10939301938,53.4968126,10.2775209,Waldkindergarten Wentorf,An der Lohe 6,21465,Wentorf bei Hamburg
+10957958938,53.5835287,10.0518697,Krippenbereich der Kita Pinelsweg,Lämmersieth 14,22305,Hamburg
+10958958858,53.5602927,9.9733943,Kita Flora-Neumann-Straße,Flora-Neumann-Straße 3,20357,Hamburg
+11019901007,53.6746969,10.026456,"Naturkindergarten ""Die Schlaufüchse""",,,
+11031741287,53.5677041,10.0626183,Kindertagesstätte Luisito II,Hammer Straße 36,22041,Hamburg
+11031840865,53.5939597,10.1052026,WABE-Kita Trabrennbahn,Max-Herz-Ring 9,,
+11031867025,53.5991144,10.1151677,Kita in der schule Eckerkoppel,Berner Heerweg 99,22159,Hamburg
+11034011706,53.566572,9.9572169,WurzelKinder,,,
+11037172383,53.5713892,9.9605454,Tobekatzen,Weidenstieg 17,,
+11037181991,53.5671891,9.9646585,Kinderhaus Bambino,,,
+11039713488,53.5684276,9.9610729,Schöne kleine Welt,Bellealliancestraße 47,,
+11045954781,53.5952147,9.8889884,Kita Morgenröte,Langbargheide 15,22547,Hamburg
+11050472407,53.654952,10.0989838,Kath. Kita St. Bernard,Langenstücken 40,22393,Hamburg
+11052835385,53.5687366,9.9568186,Zauberzeit,,,
+11061843658,53.644531,10.0531393,Integrative Kindertagesstätte Theodor-Wenzel-Haus,Hummelsbütteler Weg 82,22339,Hamburg
+11061843668,53.644054,10.0527826,Ev. Kita Christophorus,Poppenbüttler Stieg 25,22339,Hamburg
+11083183313,53.6007865,9.9431945,Ballin Kita im Amsinckpark,Beim Amsinckpark 18,22529,Hamburg
+11097565678,53.617167,10.0958897,Don Chamäleon Kindergarten Bramfeld,,,
+11174726528,53.5890848,9.9202023,Kita Käptn Kaninchen,Försterweg 167a,22525,Hamburg
+11180601645,53.5668934,9.9072547,Mendelssohn KiTa,,,
+11222931051,53.4979797,10.0074032,Lunakids,Wilhelm-Strauß-Weg 6,,
+11272697113,53.5638382,9.8862949,Kita St. Paulus Augustinus,,,
+11291128421,53.6008564,10.051178,Die Kleinen Strolche,Steilshooper Straße 242a,22307,Hamburg
+11302338939,53.7042763,10.0051912,KiTa Flügge Aadlers,,,
+11346668854,53.5761632,9.9467607,Kita Sillem,,,
+11415338595,53.5644532,10.0646021,Kita Hammer Straße,,,
+11449390447,53.5680137,9.9558662,Zauberzeit,,,
+11602474803,53.5507469,9.9773806,Kita Zimtschnecke,,,
+11691279673,53.5836839,9.8529306,Bunte Biene Elementar (Osdorf),,,
+11708909003,53.5139015,9.9880216,Fantasie Kinderhaus Weimarer Straße 15,,,
+11739472287,53.5932204,9.8525762,Kita am Spielhafen,,,
+11751832142,53.5939276,10.0588642,KiKu Kinderland,Bramfelder Chaussee 1-3,22177,
+11758614615,53.5662025,9.9826056,,,,
+11758738722,53.5581369,9.9162212,Käptn Kaninchen,Antonia-Kozlova-Straße 6,22763,Hamburg
+11775147600,53.5773964,9.9903774,Enfantine Kinderclub Elementar,,,
+11778553641,53.5485239,9.9375614,Kita Mini-Kratzbürsten,Schillerstraße 11,22767,Hamburg
+11780581885,53.5505666,9.9653768,Kita Zapperlot,,,
+11799566920,53.5889785,9.9514124,,,,
+11799628785,53.5873692,9.9795921,Der Kindergarten Eppendorf,,,
+11799631530,53.5855215,10.0217808,Abraxas,,,
+11799780538,53.5673988,10.0293522,Ev. Kita St. Gertrud,,,
+11804569125,53.5870002,10.1250195,KiTa Kuschelpanda,Tonndorfer Hauptstraße 71,22045,Hamburg
+11804589095,53.588971,10.1294915,Kita Küperstieg,Küperstieg 20,22045,Hamburg
+11811659356,53.5845289,10.0201708,Kinderhaus Knickweg,Lorenzengasse 6,,
+11811711316,53.6036936,10.0169334,Mucklas,Überseering 30f,,
+11815759592,53.6134833,10.0759783,Kita Stadtinsel,Bramfelder Chaussee 248;250,22177,Hamburg
+11850383107,53.5466181,10.2734053,Kindertageseinrichtung Ohe,,,
+11869957297,53.5552625,9.9845169,Kita kinderzimmer Valentinshof,Caffamacherreihe 8,20355,Hamburg
+11872046567,53.6671963,10.0217397,Kindertagespflege plietsche plüschmors,Laukamp 23,,
+11878307793,53.5647558,9.8808737,Kidspace,,,
+11910262107,53.5596875,9.9484362,Villa Vinendi,,,
+11926002679,53.5058022,9.9927931,Fantasie Kinderhaus,,,
+11927777172,53.7293322,10.0031443,Kinderhaus Leege,Mühlenweg 37,22844,Norderstedt
+11935029021,53.5575096,9.958415,,,,
+11954671404,53.6190388,9.9021178,Kita Hörgi,,,
+11960994622,53.5551517,9.9622043,Kita Friedenskirche,,,
+11960994625,53.5574653,9.961405,Kita Schilleroper,,,
+12011623884,53.6573587,10.2862316,"AWO Waldkindergarten, Gruppe Buntspechte",,,
+12047506524,53.5591486,9.9483547,Kita Küstenkinder,,,
+12060137831,53.6150934,10.0522609,Kita Hof Bullerbü,Fritz-Flinte-Ring 41a,22309,Hamburg
+12114293985,53.5740758,9.960375,Schmusebacke,,,
+12115653520,53.5525109,9.9397562,SterniPark KITA21,Goethestraße 25,22767,Hamburg
+12145557701,53.4589431,9.9749482,Kindergarten Unizwerge e.V,Kroosweg 7a/9a,21073,Hamburg
+12235940801,53.6284199,10.1711697,Kindergarten im BiM (KimBim),,,
+12235940901,53.6356777,10.1625649,Waldorfkindergarten Meiendorf,,,
+12253266509,53.4979536,10.0006937,kinderzimmer,,,
+12253297521,53.4964438,10.0041268,AWO Kita Am Inselpark,Neuenfelder Straße 33b,,
+12253298908,53.4985268,10.001079,DRK Kita Wilma,,,
+12287740585,53.5289923,9.7746951,Kita EsteRacker,Estebogen 3,21129,Hamburg
+12307769685,53.5549569,9.9487717,,,,
+12312900617,53.5548218,10.0558507,Wunderkabinett,Hammer Landstraße 124,,
+12326678407,53.6009222,10.1319695,Kita Rahlstedter Höhe,Ahrenshooper Straße 5,22147,Hamburg
+12459806985,53.4223183,10.0155441,AWO Kindertagesstätte Meckelfeld,,,
+12463766121,53.6603319,10.0164404,Akademie für Kinder Kita Diekmoorweg,Diekmoorweg 48,,
+12546576916,53.5510935,9.9225096,Fuchs & Dachs,,,
+12546659055,53.553945,9.9217669,Elfenkinder,,,
+12551295189,53.5528743,10.0513747,Kita RAPSI,,,
+12707177898,53.6024576,10.1802144,Kita Kleine Sterne,Stapelfelder Straße 120,22143,Hamburg
+12715915019,53.4707605,9.8157194,Kita & Krippe Ohrnsweg,Ohrnsweg 52d,21149,Hamburg
