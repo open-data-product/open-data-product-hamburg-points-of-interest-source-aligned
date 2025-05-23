@@ -1,0 +1,697 @@
+---
+id: hamburg-points-of-interest
+metadata:
+  name: Hamburg Points of Interest
+  owner: Open Data Product
+  description: This data product provides Hamburg points-of-interest data
+  url:
+  license:
+  updated: 2025-06-21
+  schema:
+input_ports:
+transformation_steps: []
+output_ports:
+  - id: hamburg-points-of-interest-2024-06
+    metadata:
+      name: Hamburg Points Of Interest 2024 06
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/02-silver/hamburg-points-of-interest-2024-06
+      license:
+      updated: 2025-06-21
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-art-galleries-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-bars-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-beer-gardens-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-bicycle-rentals-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-bus-stops-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-cafes-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-car-sharing-stations-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-childcare-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-cinemas-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-clinics-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-community-centers-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-convenience-stores-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-coworking-spaces-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-doctors-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-fast-food-restaurants-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-fire-stations-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-fitness-centers-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-food-courts-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-grocery-stores-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-hospitals-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-ice-cream-parlours-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-kindergartens-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-libraries-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-marketplaces-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-museums-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-nightclubs-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-offices-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-parks-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-pharmacies-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-places-of-worship-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-playgrounds-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-police-stations-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-post-offices-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-pubs-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-restaurants-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-sbahn-stops-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-schools-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-sport-centers-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-supermarkets-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-theaters-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-ubahn-stops-2024-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-06/hamburg-points-of-interest-universities-2024-06-details.csv
+  - id: hamburg-points-of-interest-2024-07
+    metadata:
+      name: Hamburg Points Of Interest 2024 07
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/02-silver/hamburg-points-of-interest-2024-07
+      license:
+      updated: 2025-06-21
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-art-galleries-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-bars-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-beer-gardens-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-bicycle-rentals-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-bus-stops-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-cafes-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-car-sharing-stations-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-childcare-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-cinemas-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-clinics-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-community-centers-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-convenience-stores-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-coworking-spaces-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-doctors-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-fast-food-restaurants-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-fire-stations-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-fitness-centers-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-food-courts-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-grocery-stores-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-hospitals-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-ice-cream-parlours-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-kindergartens-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-libraries-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-marketplaces-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-museums-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-nightclubs-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-offices-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-parks-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-pharmacies-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-places-of-worship-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-playgrounds-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-police-stations-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-post-offices-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-pubs-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-restaurants-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-sbahn-stops-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-schools-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-sport-centers-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-supermarkets-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-theaters-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-ubahn-stops-2024-07-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-07/hamburg-points-of-interest-universities-2024-07-details.csv
+  - id: hamburg-points-of-interest-2024-08
+    metadata:
+      name: Hamburg Points Of Interest 2024 08
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/02-silver/hamburg-points-of-interest-2024-08
+      license:
+      updated: 2025-06-21
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-art-galleries-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-bars-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-beer-gardens-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-bicycle-rentals-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-bus-stops-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-cafes-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-car-sharing-stations-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-childcare-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-cinemas-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-clinics-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-community-centers-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-convenience-stores-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-coworking-spaces-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-doctors-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-fast-food-restaurants-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-fire-stations-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-fitness-centers-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-food-courts-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-grocery-stores-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-hospitals-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-ice-cream-parlours-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-kindergartens-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-libraries-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-marketplaces-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-museums-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-nightclubs-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-offices-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-parks-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-pharmacies-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-places-of-worship-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-playgrounds-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-police-stations-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-post-offices-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-pubs-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-restaurants-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-sbahn-stops-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-schools-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-sport-centers-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-supermarkets-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-theaters-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-ubahn-stops-2024-08-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-08/hamburg-points-of-interest-universities-2024-08-details.csv
+  - id: hamburg-points-of-interest-2024-09
+    metadata:
+      name: Hamburg Points Of Interest 2024 09
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/02-silver/hamburg-points-of-interest-2024-09
+      license:
+      updated: 2025-06-21
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-art-galleries-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-bars-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-beer-gardens-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-bicycle-rentals-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-bus-stops-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-cafes-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-car-sharing-stations-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-childcare-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-cinemas-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-clinics-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-community-centers-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-convenience-stores-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-coworking-spaces-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-doctors-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-fast-food-restaurants-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-fire-stations-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-fitness-centers-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-food-courts-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-grocery-stores-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-hospitals-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-ice-cream-parlours-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-kindergartens-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-libraries-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-marketplaces-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-museums-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-nightclubs-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-offices-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-parks-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-pharmacies-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-places-of-worship-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-playgrounds-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-police-stations-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-post-offices-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-pubs-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-restaurants-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-sbahn-stops-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-schools-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-sport-centers-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-supermarkets-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-theaters-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-ubahn-stops-2024-09-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-09/hamburg-points-of-interest-universities-2024-09-details.csv
+  - id: hamburg-points-of-interest-2024-10
+    metadata:
+      name: Hamburg Points Of Interest 2024 10
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/02-silver/hamburg-points-of-interest-2024-10
+      license:
+      updated: 2025-06-21
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-art-galleries-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-bars-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-beer-gardens-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-bicycle-rentals-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-bus-stops-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-cafes-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-car-sharing-stations-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-childcare-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-cinemas-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-clinics-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-community-centers-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-convenience-stores-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-coworking-spaces-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-doctors-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-fast-food-restaurants-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-fire-stations-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-fitness-centers-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-food-courts-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-grocery-stores-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-hospitals-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-ice-cream-parlours-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-kindergartens-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-libraries-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-marketplaces-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-museums-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-nightclubs-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-offices-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-parks-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-pharmacies-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-places-of-worship-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-playgrounds-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-police-stations-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-post-offices-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-pubs-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-restaurants-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-sbahn-stops-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-schools-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-sport-centers-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-supermarkets-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-theaters-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-ubahn-stops-2024-10-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-10/hamburg-points-of-interest-universities-2024-10-details.csv
+  - id: hamburg-points-of-interest-2024-11
+    metadata:
+      name: Hamburg Points Of Interest 2024 11
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/02-silver/hamburg-points-of-interest-2024-11
+      license:
+      updated: 2025-06-21
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-art-galleries-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-bars-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-beer-gardens-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-bicycle-rentals-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-bus-stops-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-cafes-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-car-sharing-stations-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-childcare-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-cinemas-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-clinics-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-community-centers-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-convenience-stores-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-coworking-spaces-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-doctors-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-fast-food-restaurants-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-fire-stations-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-fitness-centers-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-food-courts-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-grocery-stores-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-hospitals-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-ice-cream-parlours-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-kindergartens-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-libraries-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-marketplaces-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-museums-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-nightclubs-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-offices-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-parks-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-pharmacies-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-places-of-worship-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-playgrounds-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-police-stations-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-post-offices-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-pubs-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-restaurants-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-sbahn-stops-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-schools-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-sport-centers-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-supermarkets-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-theaters-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-ubahn-stops-2024-11-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-11/hamburg-points-of-interest-universities-2024-11-details.csv
+  - id: hamburg-points-of-interest-2024-12
+    metadata:
+      name: Hamburg Points Of Interest 2024 12
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/02-silver/hamburg-points-of-interest-2024-12
+      license:
+      updated: 2025-06-21
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-art-galleries-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-bars-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-beer-gardens-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-bicycle-rentals-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-bus-stops-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-cafes-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-car-sharing-stations-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-childcare-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-cinemas-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-clinics-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-community-centers-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-convenience-stores-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-coworking-spaces-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-doctors-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-fast-food-restaurants-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-fire-stations-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-fitness-centers-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-food-courts-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-grocery-stores-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-hospitals-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-ice-cream-parlours-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-kindergartens-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-libraries-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-marketplaces-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-museums-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-nightclubs-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-offices-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-parks-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-pharmacies-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-places-of-worship-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-playgrounds-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-police-stations-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-post-offices-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-pubs-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-restaurants-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-sbahn-stops-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-schools-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-sport-centers-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-supermarkets-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-theaters-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-ubahn-stops-2024-12-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2024-12/hamburg-points-of-interest-universities-2024-12-details.csv
+  - id: hamburg-points-of-interest-2025-01
+    metadata:
+      name: Hamburg Points Of Interest 2025 01
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/02-silver/hamburg-points-of-interest-2025-01
+      license:
+      updated: 2025-06-21
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-art-galleries-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-bars-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-beer-gardens-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-bicycle-rentals-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-bus-stops-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-cafes-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-car-sharing-stations-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-childcare-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-cinemas-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-clinics-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-community-centers-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-convenience-stores-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-coworking-spaces-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-doctors-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-fast-food-restaurants-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-fire-stations-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-fitness-centers-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-food-courts-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-grocery-stores-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-hospitals-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-ice-cream-parlours-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-kindergartens-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-libraries-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-marketplaces-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-museums-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-nightclubs-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-offices-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-parks-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-pharmacies-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-places-of-worship-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-playgrounds-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-police-stations-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-post-offices-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-pubs-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-restaurants-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-sbahn-stops-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-schools-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-sport-centers-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-supermarkets-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-theaters-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-ubahn-stops-2025-01-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-01/hamburg-points-of-interest-universities-2025-01-details.csv
+  - id: hamburg-points-of-interest-2025-02
+    metadata:
+      name: Hamburg Points Of Interest 2025 02
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/02-silver/hamburg-points-of-interest-2025-02
+      license:
+      updated: 2025-06-21
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-art-galleries-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-bars-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-beer-gardens-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-bicycle-rentals-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-bus-stops-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-cafes-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-car-sharing-stations-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-childcare-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-cinemas-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-clinics-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-community-centers-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-convenience-stores-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-coworking-spaces-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-doctors-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-fast-food-restaurants-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-fire-stations-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-fitness-centers-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-food-courts-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-grocery-stores-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-hospitals-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-ice-cream-parlours-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-kindergartens-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-libraries-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-marketplaces-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-museums-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-nightclubs-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-offices-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-parks-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-pharmacies-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-places-of-worship-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-playgrounds-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-police-stations-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-post-offices-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-pubs-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-restaurants-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-sbahn-stops-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-schools-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-sport-centers-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-supermarkets-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-theaters-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-ubahn-stops-2025-02-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-02/hamburg-points-of-interest-universities-2025-02-details.csv
+  - id: hamburg-points-of-interest-2025-03
+    metadata:
+      name: Hamburg Points Of Interest 2025 03
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/02-silver/hamburg-points-of-interest-2025-03
+      license:
+      updated: 2025-06-21
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-art-galleries-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-bars-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-beer-gardens-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-bicycle-rentals-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-bus-stops-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-cafes-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-car-sharing-stations-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-childcare-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-cinemas-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-clinics-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-community-centers-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-convenience-stores-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-coworking-spaces-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-doctors-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-fast-food-restaurants-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-fire-stations-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-fitness-centers-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-food-courts-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-grocery-stores-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-hospitals-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-ice-cream-parlours-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-kindergartens-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-libraries-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-marketplaces-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-museums-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-nightclubs-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-offices-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-parks-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-pharmacies-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-places-of-worship-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-playgrounds-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-police-stations-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-post-offices-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-pubs-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-restaurants-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-sbahn-stops-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-schools-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-sport-centers-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-supermarkets-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-theaters-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-ubahn-stops-2025-03-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-03/hamburg-points-of-interest-universities-2025-03-details.csv
+  - id: hamburg-points-of-interest-2025-04
+    metadata:
+      name: Hamburg Points Of Interest 2025 04
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/02-silver/hamburg-points-of-interest-2025-04
+      license:
+      updated: 2025-06-21
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-art-galleries-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-bars-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-beer-gardens-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-bicycle-rentals-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-bus-stops-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-cafes-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-car-sharing-stations-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-childcare-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-cinemas-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-clinics-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-community-centers-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-convenience-stores-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-coworking-spaces-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-doctors-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-fast-food-restaurants-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-fire-stations-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-fitness-centers-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-food-courts-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-grocery-stores-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-hospitals-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-ice-cream-parlours-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-kindergartens-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-libraries-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-marketplaces-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-museums-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-nightclubs-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-offices-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-parks-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-pharmacies-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-places-of-worship-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-playgrounds-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-police-stations-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-post-offices-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-pubs-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-restaurants-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-sbahn-stops-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-schools-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-sport-centers-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-supermarkets-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-theaters-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-ubahn-stops-2025-04-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-04/hamburg-points-of-interest-universities-2025-04-details.csv
+  - id: hamburg-points-of-interest-2025-05
+    metadata:
+      name: Hamburg Points Of Interest 2025 05
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/02-silver/hamburg-points-of-interest-2025-05
+      license:
+      updated: 2025-06-21
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-art-galleries-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-bars-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-beer-gardens-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-bicycle-rentals-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-bus-stops-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-cafes-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-car-sharing-stations-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-childcare-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-cinemas-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-clinics-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-community-centers-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-convenience-stores-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-coworking-spaces-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-doctors-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-fast-food-restaurants-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-fire-stations-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-fitness-centers-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-food-courts-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-grocery-stores-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-hospitals-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-ice-cream-parlours-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-kindergartens-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-libraries-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-marketplaces-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-museums-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-nightclubs-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-offices-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-parks-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-pharmacies-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-places-of-worship-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-playgrounds-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-police-stations-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-post-offices-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-pubs-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-restaurants-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-sbahn-stops-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-schools-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-sport-centers-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-supermarkets-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-theaters-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-ubahn-stops-2025-05-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-05/hamburg-points-of-interest-universities-2025-05-details.csv
+  - id: hamburg-points-of-interest-2025-06
+    metadata:
+      name: Hamburg Points Of Interest 2025 06
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/02-silver/hamburg-points-of-interest-2025-06
+      license:
+      updated: 2025-06-21
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-art-galleries-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-bars-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-beer-gardens-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-bicycle-rentals-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-bus-stops-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-cafes-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-car-sharing-stations-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-childcare-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-cinemas-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-clinics-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-community-centers-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-convenience-stores-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-coworking-spaces-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-doctors-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-fast-food-restaurants-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-fire-stations-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-fitness-centers-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-food-courts-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-grocery-stores-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-hospitals-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-ice-cream-parlours-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-kindergartens-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-libraries-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-marketplaces-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-museums-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-nightclubs-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-offices-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-parks-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-pharmacies-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-places-of-worship-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-playgrounds-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-police-stations-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-post-offices-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-pubs-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-restaurants-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-sbahn-stops-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-schools-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-sport-centers-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-supermarkets-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-theaters-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-ubahn-stops-2025-06-details.csv
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/02-silver/hamburg-points-of-interest-2025-06/hamburg-points-of-interest-universities-2025-06-details.csv
+observability:
+consumers: []
+use_cases: []
+classification: source-aligned
+ubiquitous_language: []
+tags:
+  - hamburg
+  - points-of-interest

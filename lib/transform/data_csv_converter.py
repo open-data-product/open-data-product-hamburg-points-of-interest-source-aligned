@@ -13,12 +13,15 @@ def convert_data_to_csv(source_path, results_path, clean=False, quiet=False):
 
     # Iterate over files
     for subdir, dirs, files in sorted(os.walk(f"{source_path}-{timestamp}")):
-
         # Make results path
         subdir = subdir.replace(f"{source_path}/", "")
         os.makedirs(os.path.join(results_path, subdir), exist_ok=True)
 
-        for file_name in [file_name for file_name in sorted(files) if file_name.endswith("-details.json")]:
+        for file_name in [
+            file_name
+            for file_name in sorted(files)
+            if file_name.endswith("-details.json")
+        ]:
             source_file_path = os.path.join(source_path, subdir, file_name)
             convert_file_to_csv(source_file_path, clean=clean, quiet=quiet)
 
@@ -29,20 +32,55 @@ def convert_file_to_csv(source_file_path, clean=False, quiet=False):
 
     # Check if result needs to be generated
     if clean or not os.path.exists(file_path_csv):
-
         # Load json file
         json_file = read_json_file(source_file_path)
 
         try:
             nodes = [row for row in json_file["elements"] if row["type"] == "node"]
             if len(nodes) > 0:
-                dataframe = pd.DataFrame(nodes) \
-                    .assign(name=lambda df: df["tags"].apply(lambda row: row["name"] if "name" in row else None)) \
-                    .assign(street=lambda df: df["tags"].apply(lambda row: f"{row['addr:street']} {row['addr:housenumber']}" if "addr:street" in row and "addr:housenumber" in row else None)) \
-                    .assign(zip_code=lambda df: df["tags"].apply(lambda row: row["addr:postcode"] if "addr:postcode" in row else None)) \
-                    .assign(zip_code=lambda df: df["zip_code"].astype(pd.Int64Dtype(), errors="ignore")) \
-                    .assign(city=lambda df: df["tags"].apply(lambda row: row["addr:city"] if "addr:city" in row else None)) \
-                    .drop(columns=["type", "tags", "bounds", "nodes", "geometry", "members"], errors="ignore")
+                dataframe = (
+                    pd.DataFrame(nodes)
+                    .assign(
+                        name=lambda df: df["tags"].apply(
+                            lambda row: row["name"] if "name" in row else None
+                        )
+                    )
+                    .assign(
+                        street=lambda df: df["tags"].apply(
+                            lambda row: f"{row['addr:street']} {row['addr:housenumber']}"
+                            if "addr:street" in row and "addr:housenumber" in row
+                            else None
+                        )
+                    )
+                    .assign(
+                        zip_code=lambda df: df["tags"].apply(
+                            lambda row: row["addr:postcode"]
+                            if "addr:postcode" in row
+                            else None
+                        )
+                    )
+                    .assign(
+                        zip_code=lambda df: df["zip_code"].astype(
+                            pd.Int64Dtype(), errors="ignore"
+                        )
+                    )
+                    .assign(
+                        city=lambda df: df["tags"].apply(
+                            lambda row: row["addr:city"] if "addr:city" in row else None
+                        )
+                    )
+                    .drop(
+                        columns=[
+                            "type",
+                            "tags",
+                            "bounds",
+                            "nodes",
+                            "geometry",
+                            "members",
+                        ],
+                        errors="ignore",
+                    )
+                )
 
                 # Write csv file
                 dataframe.to_csv(file_path_csv, index=False)
