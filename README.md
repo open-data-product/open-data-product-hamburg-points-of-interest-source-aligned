@@ -1,16 +1,16 @@
-[![Issues](https://img.shields.io/github/issues/open-data-product/open-data-product-hamburg-points-of-interest)](https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/issues)
 [![Crawl content](https://github.com/open-data-product/open-data-product-hamburg-points-of-interest-source-aligned/actions/workflows/crawl-content.yaml/badge.svg)](https://github.com/open-data-product/open-data-product-hamburg-points-of-interest-source-aligned/actions/workflows/crawl-content.yaml)
+[![Issues](https://img.shields.io/github/issues/open-data-product/open-data-product-hamburg-points-of-interest-source-aligned)](https://github.com/open-data-product/open-data-product-hamburg-points-of-interest-source-aligned/issues)
 
 <br />
 <p align="center">
   <a href="https://github.com/open-data-product/open-data-product-hamburg-points-of-interest">
-    <img src="logo-with-text.png" alt="Logo" height="80">
+    <img src="logo-with-text.png" alt="Logo" style="height: 80px; ">
   </a>
 
   <h1 align="center">Hamburg points of interest</h1>
 
   <p align="center">
-    Data product providing Hamburg points-of-interest data</a>
+    Data product providing Hamburg points-of-interest data
   </p>
 </p>
 
