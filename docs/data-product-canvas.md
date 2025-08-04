@@ -5,7 +5,23 @@
 
 * owner: Open Data Product
 * description: This data product provides Hamburg points-of-interest data
-* updated: 2025-06-21
+* updated: 2025-08-20
+
+## Input Ports
+
+### Hamburg Administrative Boundaries
+
+* owner: Open Data Product
+* url: https://github.com/open-data-product/open-data-product-hamburg-geodata/tree/main/data/02-silver/hamburg-administrative-boundaries
+* license: CC-BY 4.0
+* updated: 2025-08-20
+
+**Files**
+
+* [hamburg-city.geojson](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-geodata/main/data/02-silver/hamburg-administrative-boundaries/hamburg-city.geojson)
+* [hamburg-district-regions.geojson](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-geodata/main/data/02-silver/hamburg-administrative-boundaries/hamburg-district-regions.geojson)
+* [hamburg-districts.geojson](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-geodata/main/data/02-silver/hamburg-administrative-boundaries/hamburg-districts.geojson)
+* [hamburg-quarters.geojson](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-geodata/main/data/02-silver/hamburg-administrative-boundaries/hamburg-quarters.geojson)
 
 ## Output Ports
 

@@ -1,4 +1,3 @@
-import getopt
 import os
 import sys
 
@@ -14,10 +13,9 @@ from opendataproduct.document.data_product_manifest_updater import (
     update_data_product_manifest,
 )
 from opendataproduct.document.odps_canvas_generator import generate_odps_canvas
-
-from lib.extract.overpass_data_extractor import extract_overpass_data
-from lib.transform.data_copier import copy_data
-from lib.transform.data_csv_converter import convert_data_to_csv
+from opendataproduct.extract.data_extractor import extract_data
+from opendataproduct.extract.overpass_data_extractor import extract_overpass_data
+from opendataproduct.transform.poi_csv_converter import convert_data_to_csv
 
 file_path = os.path.realpath(__file__)
 script_path = os.path.dirname(file_path)
@@ -40,19 +38,30 @@ def main(clean, quiet):
     # Bronze: Integrate
     #
 
+    extract_data(
+        data_product_manifest=data_product_manifest,
+        results_path=bronze_path,
+        clean=clean,
+        quiet=quiet,
+    )
+
     extract_overpass_data(
-        source_path=bronze_path, results_path=bronze_path, clean=clean, quiet=quiet
+        data_product_manifest=data_product_manifest,
+        bounding_box_geojson_path=os.path.join(
+            bronze_path, "hamburg-administrative-boundaries", "hamburg-city.geojson"
+        ),
+        bounding_box_feature_id="0",
+        results_path=bronze_path,
+        clean=clean,
+        quiet=quiet,
     )
 
     #
     # Silver: Transform
     #
 
-    copy_data(
-        source_path=bronze_path, results_path=silver_path, clean=clean, quiet=quiet
-    )
     convert_data_to_csv(
-        source_path=os.path.join(silver_path, "hamburg-points-of-interest"),
+        source_path=bronze_path,
         results_path=silver_path,
         clean=clean,
         quiet=quiet,

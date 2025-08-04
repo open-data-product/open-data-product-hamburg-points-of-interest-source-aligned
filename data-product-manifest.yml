@@ -6,10 +6,27 @@ metadata:
   description: This data product provides Hamburg points-of-interest data
   url:
   license:
-  updated: 2025-06-21
+  updated: 2025-08-20
   schema:
 input_ports:
-transformation_steps: []
+  - id: hamburg-administrative-boundaries
+    metadata:
+      name: Hamburg Administrative Boundaries
+      owner: Open Data Product
+      description:
+      url: https://github.com/open-data-product/open-data-product-hamburg-geodata/tree/main/data/02-silver/hamburg-administrative-boundaries
+      license: CC-BY 4.0
+      updated: 2025-08-20
+      schema:
+    files:
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-geodata/main/data/02-silver/hamburg-administrative-boundaries/hamburg-city.geojson
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-geodata/main/data/02-silver/hamburg-administrative-boundaries/hamburg-district-regions.geojson
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-geodata/main/data/02-silver/hamburg-administrative-boundaries/hamburg-districts.geojson
+      - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-geodata/main/data/02-silver/hamburg-administrative-boundaries/hamburg-quarters.geojson
+transformation_steps:
+  - name: POI csv converter
+    path: https://github.com/open-data-product/open-data-product-python-lib/blob/main/opendataproduct/transform/poi_csv_converter.py
+    description: converts json files into csv files
 output_ports:
   - id: hamburg-points-of-interest-2024-06
     metadata:
