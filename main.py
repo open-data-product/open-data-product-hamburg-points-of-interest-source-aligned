@@ -62,7 +62,7 @@ def main(clean, quiet):
 
     convert_data_to_csv(
         source_path=bronze_path,
-        results_path=silver_path,
+        results_path=gold_path,
         clean=clean,
         quiet=quiet,
     )
@@ -74,7 +74,7 @@ def main(clean, quiet):
     update_data_product_manifest(
         data_product_manifest=data_product_manifest,
         config_path=script_path,
-        data_paths=[silver_path, gold_path],
+        data_paths=[gold_path],
         file_endings=(".csv"),
     )
 

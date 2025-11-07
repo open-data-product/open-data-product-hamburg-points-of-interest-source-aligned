@@ -10,5 +10,4 @@
 **/~*.xlsx
 
 /data/01-bronze
-/data/02-silver/**/*.json
-/data/02-silver/hamburg-administrative-boundaries/
+/data/02-silver
