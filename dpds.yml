@@ -1,13 +1,13 @@
 ---
 dataProductDescriptor: data-product-descriptor
 info:
-  fullyQualifiedName: urn:dpds:openlifeworlds:dataproducts:hamburg-points-of-interest:1.0
+  fullyQualifiedName: urn:dpds:opendataproduct:dataproducts:hamburg-points-of-interest:1.0
   name: Hamburg Points of Interest
   version: '1.0'
   domain: domain
   owner:
-    id: Open Lifeworlds
-    name: Open Lifeworlds
+    id: Open Data Product
+    name: Open Data Product
   id: hamburg-points-of-interest
   entityType:
   displayName: Hamburg Points of Interest

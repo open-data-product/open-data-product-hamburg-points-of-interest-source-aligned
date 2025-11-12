@@ -4,7 +4,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 31032271,Kinderbibliothek,Hühnerposten 1,20097,53.5500374,10.0086697,01106115
 55104136,Bücherhalle Eidelstedt,Alte Elbgaustraße 12,22523,53.6074682,9.9028581,03308320
 272602415,Zentralbibliothek für Wirtschaftswissenschaften,,,53.556974,9.9924733,01103108
-277305227,Universitätsbibliothek der TUHH,,,53.4609968,9.9692164,07701701
+277305227,Universitätsbibliothek der TUHH,Denickestraße 22,21073,53.4609968,9.9692164,07701701
 296163986,Bücherei im Rathaus,Bahnhofstraße 39,21629,53.4682829,9.7912693,0
 303650623,Bücherhalle Eimsbüttel,Doormannsweg 12,20259,53.5720074,9.9564014,03301306
 308910405,Bücherhalle Harburg,,,53.4566665,9.9839912,07701702
@@ -71,8 +71,6 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 588897483,Teilbibliothek Französisch und Italienisch,,,53.6050679,10.0190767,04405408
 588897514,"Teilbibliothek Spanisch, Portugiesisch und Katalanisch",,,53.6049839,10.018557,04405408
 588900851,Teilbibliothek Slavistik,,,53.6048203,10.0187942,04405408
-588904496,"Bibliothek, Deutsche Exilliteratur",,,53.5642358,9.9849849,03302312
-588913224,Homöopathische Bibliothek,,,53.5641869,9.9853843,03302312
 588936443,Zentralbibliothek Recht,,,53.5667309,9.9878916,03302312
 593560184,Teilbibliothek Anglistik und Amerikanistik,,,53.6049846,10.0188002,04405408
 593561557,Bibliothek Homo Ludens,,,53.5691424,9.9912155,03302312
@@ -91,7 +89,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 614959177,"Bibliothek, Land- und Amtsgericht Hamburg",,,53.5557238,9.9766746,01103106
 614959179,"Bibliothek, Hanseatisches Oberlandesgericht",,,53.5570103,9.9768402,01103106
 614961709,"Bibliothek, Museum für Hamburgische Geschichte",,,53.5511987,9.9734831,01103106
-614962727,"Zentrale Bibliothek, Physikalische Institute Jungiusstraße",,,53.5586314,9.9817648,01103106
+614962727,Zentrale Bibliothek des Fachbereichs Physik,,,53.5586314,9.9817648,01103106
 614963707,Hamburger Lehrerbibliothek am Landesinstitut,Felix-Dahn-Straße 3,20357,53.5708433,9.9661278,03301309
 614969148,"Bibliothek, Bernhard-Nocht-Institut für Tropenmedizin",,,53.5468419,9.9649891,01104112
 615147454,"Bibliothek, Amerikazentrum Hamburg e.V",Am Sandtorkai 48,20457,53.5431866,9.9947823,01102103
@@ -127,7 +125,6 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 706970878,Niederdeutsche Bibliothek,,,53.5513929,9.9765961,01103106
 736787961,Bücherhalle Elbvororte,Sülldorfer Kirchenweg 1a,22587,53.5635838,9.8117966,02211224
 739887143,Stadtbücherei Norderstedt-Mitte,Rathausallee 50,22846,53.7081853,9.9936151,0
-1277228459,Medienpädagogik Zentrum Hamburg e. V.,,,53.5619102,9.9637974,02202207
 1297182795,Zentralbibliothek,Hühnerposten 1,20097,53.5496446,10.0080194,01106115
 1509857677,Bücherei Halstenbek-Ort,Schulstraße 9,25469,53.6356829,9.841342,0
 1587084913,DESY Bibliothek,,,53.5767796,9.8783738,02205217
@@ -166,6 +163,8 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 9415810375,"Teilbibliothek Deutsche Sprache, Ältere deutsche Literatur, Niederdeutsch",,,53.6049086,10.0190693,04405408
 11050864830,Bücherhalle Jenfelder Au,Wilsonstraße 77,22045,53.5807329,10.1320232,05504512
 11111226272,Bücherhalle Alstertal,Heegbarg 22,22391,53.6542291,10.0934999,05511519
-12063490781,Stadtteilbücherei Veddel,Am Zollhafen 5b,,53.5233611,10.0180362,01115134
+12063490781,Stadtteilbücherei Veddel,Am Zollhafen 5b,,53.52334,10.017945,01115134
 12124305675,Bibliothek für Geisteswissenschaften,,,53.5671273,9.9855561,03302312
-12259547754,,,,53.4622073,9.96593,07710711
+12259547754,Harburger Magicbuden e.V.,,,53.4622073,9.96593,07710711
+13105282068,Fachbibliothek Design Medien Infor­mation,Finkenau 35,22081,53.5692397,10.0348888,04406415
+13175153464,Bücherei Rellingen,Appelkamp 8,,53.6520263,9.834191,0

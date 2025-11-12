@@ -44,13 +44,11 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 4491137031,Bildungszentrum Gesundheitsberufe,,,53.5505273,10.0646313,01108125
 4535300089,Integralis Institut / Intouch Massageschule,Stückenstraße 72,,53.5793663,10.0484132,04408423
 4706969731,UNS - Institut für Deutsch und Studienberatung,Hoheluftchaussee 108,,53.5844849,9.9697093,04401402
-4710729473,Heideweg-Schule,,,53.6350912,9.758374,0
+4710729473,Heideweg-Schule,,,53.6350894,9.7583845,0
 4739920766,Flachsland Zukunftsschule,Alsterdorfer Straße 534,22337,53.6183297,10.0293969,04404407
-4879843616,Stage School,Am Felde 56,22765,53.5506267,9.9332197,02204213
 5029691622,,,,53.5330926,10.1108014,01113131
 5233553012,Produktionsschule,,,53.4933378,10.2073713,06601601
 5287805584,UE - Univeristy of applied Sciences Europe (Hamburg Campus),,,53.551096,9.9345041,02204213
-5524195162,Grone Schule,,,53.5464653,10.023097,01106116
 5524200481,Grone Schule,,,53.5467076,10.0228932,01106116
 5900036537,Feine Künste,,,53.5793461,10.0426986,04408423
 6416594767,Freie Grunschule Quickborn,Feldbehnstraße 55,25451,53.7324458,9.9095045,0
@@ -78,3 +76,9 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 12717169987,ReBBZ- Bildungsabteilung,Quellmoor 24,21147,53.4794354,9.8684956,07714715
 12915169984,Schule Elfenwiese,,,53.4398662,9.9704441,07708709
 12915169985,Schule Nymphenweg,Nymphenweg 20,21077,53.4404414,9.9705568,07708709
+12994727493,Grundschule am Moor,Ernst-Moritz-Arndt-Straße 23,21629,53.4658553,9.7871393,0
+12994740015,Gymnasium Neu Wulmstorf,Ernst-Moritz-Arndt-Straße 20,21629,53.4685106,9.7876999,0
+12994740016,Oberschule Neu Wulmstorf,Ernst-Moritz-Arndt-Straße 18,21629,53.4678432,9.7885877,0
+12994740502,Grundschule An der Heide,Ernst-Moritz-Arndt-Straße 34,21629,53.4674216,9.7866243,0
+13289868571,Grone-Schule,,,53.5459136,10.0247191,01106117
+13289868572,,Hammerbrookstraße 75,,53.5459439,10.0248801,01106117

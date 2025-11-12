@@ -266,7 +266,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 9039034250,Lohbrügger Landstraße / BG Klinikum,,,53.5078842,10.1800735,06601601
 9039034251,Korachstraße / Helmuth-Hübener-Weg,,,53.5102816,10.2075353,06601601
 9039034252,Glindersweg / Bethesda-Krankenhaus,,,53.4865374,10.2343722,06602603
-9067050389,Winterlindenweg / Loki-Schmidt-Platz,,,53.6050374,10.0299856,04405408
+9067050389,Winterlindenweg / Loki-Schmidt-Platz,,,53.6049884,10.0300523,04405408
 9074431349,Gert-Marcus-Straße / Anni-Glissmann-Weg,,,53.6034274,9.9728333,04403406
 9074474335,Schöne Aussicht / Karlstraße,,,53.573976,10.0081406,04406414
 9156266852,S Iserbrook / Heidrehmen,,,53.5758186,9.8151858,02213226
@@ -284,7 +284,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 9576528225,U Langenhorn Nord / Foorthkamp,,,53.6611437,10.0172817,04413432
 9590413497,Henriette-Herz-Ring / Grachtenplatz,,,53.4828816,10.1765398,06614615
 9678572782,Fanny-Lewald-Ring,,,53.4788921,10.1691529,06614615
-9732949482,,,,53.6039972,10.0312192,04405408
+9732949482,,,,53.6040022,10.0312276,04405408
 9883713757,S+U Ohlsdorf / Im Grünen Grunde,,,53.620848,10.0308562,04411430
 9925575297,Modering / Oldesloer Straße,,,53.6372779,9.9220075,03307319
 9925580559,U Ochsenzoll / Langenhorner Chaussee,,,53.6788572,10.00067,04413432
@@ -292,7 +292,6 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 10275673228,,,,53.7126584,9.9902615,0
 10302846798,S Alte Wöhr / Rübenkamp,,,53.5973197,10.0359872,04410429
 10681533873,Baakenallee / Lola-Rogge-Platz,,,53.5377583,10.0120049,01102104
-10698228009,Veritaskai / Theodor-Yorck-Straße,,,53.4658728,9.9892196,07701702
 10733701194,U Joachim-Mähl-Straße / Paul-Sorge-Straße,,,53.6288363,9.9500198,03306318
 10749545839,,,,53.6867365,10.046057,0
 10782730571,S Kornweg / Tornberg,,,53.6324913,10.0548794,04411430
@@ -313,7 +312,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 11362399876,Jütlandring / Asklepios Klinik Nord-Ochsenzoll,,,53.6728023,10.0038633,04413432
 11362453508,Heegbarg / Alstertal-Einkaufszentrum,,,53.653995,10.09215,05511519
 11403583437,Alphonsstraße / Asklepios Klinik Wandsbek,,,53.5698799,10.0905501,05503511
-11407374731,Randersweide / Kampweg,,,53.4764143,10.1962347,06602602
+11407374731,Randersweide / Kampweg,,,53.4764866,10.1962901,06602602
 11584394225,S Hochkamp / Reichskanzlerstraße,,,53.5613946,9.8430743,02209221
 11584465922,Ernst-Bergeest-Weg / Binnenfeld,,,53.4414526,9.9586619,07708709
 11584548980,S Neuwiedenthal / Striepenweg,,,53.4737065,9.8771113,07713714
@@ -348,3 +347,4 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 12843104015,S Mittlerer Landweg / Am Gleisdreieck,,,53.4970452,10.131691,06610611
 12844080500,Mobility Hub Hamburg-Harburg / Hannoversche Str.,,,53.4563091,9.9898566,07701702
 12844093867,Hainholzweg / Strucksbarg,,,53.4498655,9.9373927,07709710
+12956748312,Gyula-Trebitsch-Platz / Kaskadenpark,,,53.5812689,10.1329393,05504512

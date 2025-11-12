@@ -6,7 +6,7 @@
 ## Info
 
 * ID: hamburg-points-of-interest
-* fully qualified name: urn:dpds:openlifeworlds:dataproducts:hamburg-points-of-interest:1.0
+* fully qualified name: urn:dpds:opendataproduct:dataproducts:hamburg-points-of-interest:1.0
 * name: Hamburg Points of Interest
 * version: 1.0
 * display name: Hamburg Points of Interest
@@ -14,8 +14,8 @@
 * domain: domain
 ### Owner
 
-* id: Open Lifeworlds
-* name: Open Lifeworlds
+* id: Open Data Product
+* name: Open Data Product
 
 ## Interface Components
 

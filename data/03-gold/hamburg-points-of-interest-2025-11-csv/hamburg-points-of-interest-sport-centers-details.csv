@@ -41,7 +41,6 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 2161700283,Führungsakademie der Bundeswehr,,,53.5785595,9.8574311,02209221
 2279188405,fitness&friends,,,53.5875229,10.0971141,05502508
 2305598074,"Wanderrudergesellschaft ""Die Wikinger"" e.V.",Veddeler Brückenstraße 3,20539,53.5297353,10.0253808,01115134
-2351357916,Sportspaß Sportcenter Billstedt,Möllner Landstraße 8,22111,53.5394192,10.1045768,01112130
 2411825282,North Gym Norderstedt,Kösliner Weg 19,22850,53.6909873,9.979402,0
 2483746953,BUDOKAN Sportcenter Hamburg,Steilshooper Straße 47,22305,53.5869472,10.0484779,04410427
 2598810566,East Sporting Club,,,53.5511943,9.9656414,01104111
@@ -75,7 +74,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 7123391606,Action-Arena,,,53.7047677,10.0074455,0
 7264281805,Mit Pfeil und Bogen,Helene-Lange-Straße 1,,53.5741541,9.9768221,03303313
 7734624663,IPA BJJ Hamburg - Inside Position Academy,,,53.587746,9.9271815,03309321
-8616242891,Schwimmhalle Neu Wulmstorf,,,53.4671175,9.7882999,0
+8616242891,Schwimmhalle Neu Wulmstorf,Ernst-Moritz-Arndt-Straße 30,21629,53.4670835,9.7882947,0
 9045753747,Boxsportzentrum Norderstedt,Oststraße 73c,22844,53.7349431,10.0216126,0
 9219948593,urban apes Hamburg West,Kieler Straße 565,22525,53.5992593,9.9163979,03309321
 9449528425,PRIME TIME fitness,Dorotheenstraße 84,22301,53.5857294,10.0066005,04405410
@@ -90,3 +89,6 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 12296191414,Hanse Gym,,,53.5928194,10.1411245,05518526
 12296259701,Crossfit Ahoi,,,53.5926304,10.1411896,05518526
 12398821312,Boulderwelt Hamburg,Beim Strohhause 17,20097,53.5540145,10.0208859,01105113
+12994727428,,,,53.4665746,9.7865224,0
+12994727464,Sporthalle am Schulzentrum,Ernst-Moritz-Arndt-Straße 18,21629,53.4675653,9.787614,0
+13266746101,Kyodo Dojo,Mendelssohnstraße 15,22761,53.5631854,9.9150026,02205216

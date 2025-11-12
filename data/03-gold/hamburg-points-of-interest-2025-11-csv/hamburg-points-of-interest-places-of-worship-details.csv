@@ -7,7 +7,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 361655043,Christus Gemeinde Barmbek Nord,Fuhlsbüttler Straße 113,22305,53.5892759,10.0449678,04410427
 367051650,Neuapostolische Kirche,Jahnstraße 38,21465,53.5132714,10.2467194,0
 367051734,Evangelisch-Freikirchliche Gemeinde,Jahnckeweg 7,21465,53.5160274,10.2500068,0
-384482272,Auferstehungskirche,Flurstraße 1,22549,53.5922094,9.8703268,02208220
+384482272,Auferstehungskirche,Flurstraße 1,22549,53.5923849,9.8701043,02208220
 419847305,Kirche Jesu Christi der Heiligen der Letzten Tage,Saarlandstraße 11,25421,53.6580297,9.7885557,0
 431933313,Kreuzkirche,,,53.4618213,9.8000689,0
 633030561,Ali Paşa Camii,Hamburger Straße 199,22083,53.5791022,10.0389512,04408421
@@ -82,5 +82,4 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 12487451261,Kirche im Upperroom,Holstenstraße 119,,53.5594592,9.9494434,02201206
 12487451263,Gebetshaus Hamburg,Holstenstraße 119,,53.5595113,9.9494183,02201206
 12824359143,ChristusGemeindeNord,,,53.7233618,10.0038571,0
-12848441737,Max-Heizmann-Pavillon,,,53.5858118,10.0488181,04410426
 12882247485,Raum der Stille,,,53.6736444,10.0038055,04413432
