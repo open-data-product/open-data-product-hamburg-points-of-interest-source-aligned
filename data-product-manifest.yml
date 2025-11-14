@@ -6,7 +6,7 @@ metadata:
   description: This data product provides Hamburg points-of-interest data
   url:
   license:
-  updated: 2025-10-27
+  updated: 2025-10-29
   schema:
 input_ports:
   - id: hamburg-administrative-boundaries
@@ -35,7 +35,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2025-10
       license:
-      updated: 2025-10-27
+      updated: 2025-10-29
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2025-10/hamburg-points-of-interest-art-galleries-details.csv

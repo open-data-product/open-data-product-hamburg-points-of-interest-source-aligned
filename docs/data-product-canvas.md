@@ -5,7 +5,7 @@
 
 * owner: Open Data Product
 * description: This data product provides Hamburg points-of-interest data
-* updated: 2025-10-27
+* updated: 2025-10-29
 
 ## Input Ports
 
@@ -33,7 +33,7 @@
 
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2025-10
-* updated: 2025-10-27
+* updated: 2025-10-29
 
 **Files**
 
