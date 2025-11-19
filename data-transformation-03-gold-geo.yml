@@ -1,0 +1,185 @@
+---
+attribute_groups:
+  - details: &details
+      - name: id
+      - name: name
+      - name: street
+      - name: zip_code
+      - name: lat
+      - name: lon
+      - { name: geojson_feature_id, geojson_lookup: [lat, lon] }
+input_ports:
+  - id: hamburg-points-of-interest-{{ current_year }}-{{ current_month }}
+    files:
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-art-galleries-details.csv
+        target_file_name: hamburg-points-of-interest-art-galleries-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-bars-details.csv
+        target_file_name: hamburg-points-of-interest-bars-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-beer-gardens-details.csv
+        target_file_name: hamburg-points-of-interest-beer-gardens-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-bicycle-rentals-details.csv
+        target_file_name: hamburg-points-of-interest-bicycle-rentals-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-bus-stops-details.csv
+        target_file_name: hamburg-points-of-interest-bus-stops-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-cafes-details.csv
+        target_file_name: hamburg-points-of-interest-cafes-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-car-sharing-stations-details.csv
+        target_file_name: hamburg-points-of-interest-car-sharing-stations-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-childcare-details.csv
+        target_file_name: hamburg-points-of-interest-childcare-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-cinemas-details.csv
+        target_file_name: hamburg-points-of-interest-cinemas-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-clinics-details.csv
+        target_file_name: hamburg-points-of-interest-clinics-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-community-centers-details.csv
+        target_file_name: hamburg-points-of-interest-community-centers-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-convenience-stores-details.csv
+        target_file_name: hamburg-points-of-interest-convenience-stores-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-coworking-spaces-details.csv
+        target_file_name: hamburg-points-of-interest-coworking-spaces-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-doctors-details.csv
+        target_file_name: hamburg-points-of-interest-doctors-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-fast-food-restaurants-details.csv
+        target_file_name: hamburg-points-of-interest-fast-food-restaurants-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-fire-stations-details.csv
+        target_file_name: hamburg-points-of-interest-fire-stations-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-fitness-centers-details.csv
+        target_file_name: hamburg-points-of-interest-fitness-centers-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-food-courts-details.csv
+        target_file_name: hamburg-points-of-interest-food-courts-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-grocery-stores-details.csv
+        target_file_name: hamburg-points-of-interest-grocery-stores-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-hospitals-details.csv
+        target_file_name: hamburg-points-of-interest-hospitals-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-ice-cream-parlours-details.csv
+        target_file_name: hamburg-points-of-interest-ice-cream-parlours-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-kindergartens-details.csv
+        target_file_name: hamburg-points-of-interest-kindergartens-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-libraries-details.csv
+        target_file_name: hamburg-points-of-interest-libraries-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-marketplaces-details.csv
+        target_file_name: hamburg-points-of-interest-marketplaces-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-museums-details.csv
+        target_file_name: hamburg-points-of-interest-museums-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-nightclubs-details.csv
+        target_file_name: hamburg-points-of-interest-nightclubs-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-offices-details.csv
+        target_file_name: hamburg-points-of-interest-offices-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-parks-details.csv
+        target_file_name: hamburg-points-of-interest-parks-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-pharmacies-details.csv
+        target_file_name: hamburg-points-of-interest-pharmacies-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-places-of-worship-details.csv
+        target_file_name: hamburg-points-of-interest-places-of-worship-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-playgrounds-details.csv
+        target_file_name: hamburg-points-of-interest-playgrounds-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-police-stations-details.csv
+        target_file_name: hamburg-points-of-interest-police-stations-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-post-offices-details.csv
+        target_file_name: hamburg-points-of-interest-post-offices-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-pubs-details.csv
+        target_file_name: hamburg-points-of-interest-pubs-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-restaurants-details.csv
+        target_file_name: hamburg-points-of-interest-restaurants-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-sbahn-stops-details.csv
+        target_file_name: hamburg-points-of-interest-sbahn-stops-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-schools-details.csv
+        target_file_name: hamburg-points-of-interest-schools-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-sport-centers-details.csv
+        target_file_name: hamburg-points-of-interest-sport-centers-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-supermarkets-details.csv
+        target_file_name: hamburg-points-of-interest-supermarkets-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-theaters-details.csv
+        target_file_name: hamburg-points-of-interest-theaters-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-tram-stops-details.csv
+        target_file_name: hamburg-points-of-interest-tram-stops-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-ubahn-stops-details.csv
+        target_file_name: hamburg-points-of-interest-ubahn-stops-details.csv
+        names: *details
+      - geojson_template_file_name: hamburg-administrative-boundaries/hamburg-quarters.geojson
+        source_file_name: hamburg-points-of-interest-universities-details.csv
+        target_file_name: hamburg-points-of-interest-universities-details.csv
+        names: *details

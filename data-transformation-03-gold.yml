@@ -1,0 +1,704 @@
+---
+attribute_groups:
+  - city: &city
+      - { name: points_of_interest, value: 1 }
+  - district: &district
+      - { name: district_id, split: { name: "geojson_feature_id", first_n: 2 }, rename: id, zfill: 2 }
+      - { name: points_of_interest, value: 1 }
+  - district-region: &district-region
+      - { name: district_region_id, split: { name: "geojson_feature_id", first_n: 4 }, rename: id, zfill: 4 }
+      - { name: points_of_interest, value: 1 }
+  - quarter: &quarter
+      - { name: quarter_id, split: { name: "geojson_feature_id", first_n: 8 }, rename: id, zfill: 8 }
+      - { name: points_of_interest, value: 1 }
+input_ports:
+  - id: hamburg-points-of-interest-{{ current_year }}-{{ current_month }}-csv
+    files:
+      - source_file_name: hamburg-points-of-interest-art-galleries-details.csv
+        target_file_name: hamburg-points-of-interest-art-galleries-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-art-galleries-details.csv
+        target_file_name: hamburg-points-of-interest-art-galleries-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-art-galleries-details.csv
+        target_file_name: hamburg-points-of-interest-art-galleries-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-art-galleries-details.csv
+        target_file_name: hamburg-points-of-interest-art-galleries-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-bars-details.csv
+        target_file_name: hamburg-points-of-interest-bars-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-bars-details.csv
+        target_file_name: hamburg-points-of-interest-bars-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-bars-details.csv
+        target_file_name: hamburg-points-of-interest-bars-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-bars-details.csv
+        target_file_name: hamburg-points-of-interest-bars-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-beer-gardens-details.csv
+        target_file_name: hamburg-points-of-interest-beer-gardens-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-beer-gardens-details.csv
+        target_file_name: hamburg-points-of-interest-beer-gardens-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-beer-gardens-details.csv
+        target_file_name: hamburg-points-of-interest-beer-gardens-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-beer-gardens-details.csv
+        target_file_name: hamburg-points-of-interest-beer-gardens-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-bicycle-rentals-details.csv
+        target_file_name: hamburg-points-of-interest-bicycle-rentals-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-bicycle-rentals-details.csv
+        target_file_name: hamburg-points-of-interest-bicycle-rentals-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-bicycle-rentals-details.csv
+        target_file_name: hamburg-points-of-interest-bicycle-rentals-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-bicycle-rentals-details.csv
+        target_file_name: hamburg-points-of-interest-bicycle-rentals-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-bus-stops-details.csv
+        target_file_name: hamburg-points-of-interest-bus-stops-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-bus-stops-details.csv
+        target_file_name: hamburg-points-of-interest-bus-stops-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-bus-stops-details.csv
+        target_file_name: hamburg-points-of-interest-bus-stops-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-bus-stops-details.csv
+        target_file_name: hamburg-points-of-interest-bus-stops-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-cafes-details.csv
+        target_file_name: hamburg-points-of-interest-cafes-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-cafes-details.csv
+        target_file_name: hamburg-points-of-interest-cafes-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-cafes-details.csv
+        target_file_name: hamburg-points-of-interest-cafes-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-cafes-details.csv
+        target_file_name: hamburg-points-of-interest-cafes-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-car-sharing-stations-details.csv
+        target_file_name: hamburg-points-of-interest-car-sharing-stations-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-car-sharing-stations-details.csv
+        target_file_name: hamburg-points-of-interest-car-sharing-stations-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-car-sharing-stations-details.csv
+        target_file_name: hamburg-points-of-interest-car-sharing-stations-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-car-sharing-stations-details.csv
+        target_file_name: hamburg-points-of-interest-car-sharing-stations-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-childcare-details.csv
+        target_file_name: hamburg-points-of-interest-childcare-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-childcare-details.csv
+        target_file_name: hamburg-points-of-interest-childcare-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-childcare-details.csv
+        target_file_name: hamburg-points-of-interest-childcare-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-childcare-details.csv
+        target_file_name: hamburg-points-of-interest-childcare-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-cinemas-details.csv
+        target_file_name: hamburg-points-of-interest-cinemas-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-cinemas-details.csv
+        target_file_name: hamburg-points-of-interest-cinemas-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-cinemas-details.csv
+        target_file_name: hamburg-points-of-interest-cinemas-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-cinemas-details.csv
+        target_file_name: hamburg-points-of-interest-cinemas-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-clinics-details.csv
+        target_file_name: hamburg-points-of-interest-clinics-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-clinics-details.csv
+        target_file_name: hamburg-points-of-interest-clinics-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-clinics-details.csv
+        target_file_name: hamburg-points-of-interest-clinics-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-clinics-details.csv
+        target_file_name: hamburg-points-of-interest-clinics-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-community-centers-details.csv
+        target_file_name: hamburg-points-of-interest-community-centers-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-community-centers-details.csv
+        target_file_name: hamburg-points-of-interest-community-centers-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-community-centers-details.csv
+        target_file_name: hamburg-points-of-interest-community-centers-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-community-centers-details.csv
+        target_file_name: hamburg-points-of-interest-community-centers-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-convenience-stores-details.csv
+        target_file_name: hamburg-points-of-interest-convenience-stores-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-convenience-stores-details.csv
+        target_file_name: hamburg-points-of-interest-convenience-stores-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-convenience-stores-details.csv
+        target_file_name: hamburg-points-of-interest-convenience-stores-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-convenience-stores-details.csv
+        target_file_name: hamburg-points-of-interest-convenience-stores-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-coworking-spaces-details.csv
+        target_file_name: hamburg-points-of-interest-coworking-spaces-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-coworking-spaces-details.csv
+        target_file_name: hamburg-points-of-interest-coworking-spaces-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-coworking-spaces-details.csv
+        target_file_name: hamburg-points-of-interest-coworking-spaces-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-coworking-spaces-details.csv
+        target_file_name: hamburg-points-of-interest-coworking-spaces-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-doctors-details.csv
+        target_file_name: hamburg-points-of-interest-doctors-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-doctors-details.csv
+        target_file_name: hamburg-points-of-interest-doctors-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-doctors-details.csv
+        target_file_name: hamburg-points-of-interest-doctors-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-doctors-details.csv
+        target_file_name: hamburg-points-of-interest-doctors-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-fast-food-restaurants-details.csv
+        target_file_name: hamburg-points-of-interest-fast-food-restaurants-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-fast-food-restaurants-details.csv
+        target_file_name: hamburg-points-of-interest-fast-food-restaurants-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-fast-food-restaurants-details.csv
+        target_file_name: hamburg-points-of-interest-fast-food-restaurants-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-fast-food-restaurants-details.csv
+        target_file_name: hamburg-points-of-interest-fast-food-restaurants-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-fire-stations-details.csv
+        target_file_name: hamburg-points-of-interest-fire-stations-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-fire-stations-details.csv
+        target_file_name: hamburg-points-of-interest-fire-stations-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-fire-stations-details.csv
+        target_file_name: hamburg-points-of-interest-fire-stations-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-fire-stations-details.csv
+        target_file_name: hamburg-points-of-interest-fire-stations-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-fitness-centers-details.csv
+        target_file_name: hamburg-points-of-interest-fitness-centers-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-fitness-centers-details.csv
+        target_file_name: hamburg-points-of-interest-fitness-centers-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-fitness-centers-details.csv
+        target_file_name: hamburg-points-of-interest-fitness-centers-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-fitness-centers-details.csv
+        target_file_name: hamburg-points-of-interest-fitness-centers-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-food-courts-details.csv
+        target_file_name: hamburg-points-of-interest-food-courts-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-food-courts-details.csv
+        target_file_name: hamburg-points-of-interest-food-courts-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-food-courts-details.csv
+        target_file_name: hamburg-points-of-interest-food-courts-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-food-courts-details.csv
+        target_file_name: hamburg-points-of-interest-food-courts-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-grocery-stores-details.csv
+        target_file_name: hamburg-points-of-interest-grocery-stores-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-grocery-stores-details.csv
+        target_file_name: hamburg-points-of-interest-grocery-stores-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-grocery-stores-details.csv
+        target_file_name: hamburg-points-of-interest-grocery-stores-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-grocery-stores-details.csv
+        target_file_name: hamburg-points-of-interest-grocery-stores-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-hospitals-details.csv
+        target_file_name: hamburg-points-of-interest-hospitals-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-hospitals-details.csv
+        target_file_name: hamburg-points-of-interest-hospitals-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-hospitals-details.csv
+        target_file_name: hamburg-points-of-interest-hospitals-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-hospitals-details.csv
+        target_file_name: hamburg-points-of-interest-hospitals-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-ice-cream-parlours-details.csv
+        target_file_name: hamburg-points-of-interest-ice-cream-parlours-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-ice-cream-parlours-details.csv
+        target_file_name: hamburg-points-of-interest-ice-cream-parlours-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-ice-cream-parlours-details.csv
+        target_file_name: hamburg-points-of-interest-ice-cream-parlours-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-ice-cream-parlours-details.csv
+        target_file_name: hamburg-points-of-interest-ice-cream-parlours-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-kindergartens-details.csv
+        target_file_name: hamburg-points-of-interest-kindergartens-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-kindergartens-details.csv
+        target_file_name: hamburg-points-of-interest-kindergartens-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-kindergartens-details.csv
+        target_file_name: hamburg-points-of-interest-kindergartens-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-kindergartens-details.csv
+        target_file_name: hamburg-points-of-interest-kindergartens-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-libraries-details.csv
+        target_file_name: hamburg-points-of-interest-libraries-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-libraries-details.csv
+        target_file_name: hamburg-points-of-interest-libraries-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-libraries-details.csv
+        target_file_name: hamburg-points-of-interest-libraries-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-libraries-details.csv
+        target_file_name: hamburg-points-of-interest-libraries-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-marketplaces-details.csv
+        target_file_name: hamburg-points-of-interest-marketplaces-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-marketplaces-details.csv
+        target_file_name: hamburg-points-of-interest-marketplaces-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-marketplaces-details.csv
+        target_file_name: hamburg-points-of-interest-marketplaces-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-marketplaces-details.csv
+        target_file_name: hamburg-points-of-interest-marketplaces-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-museums-details.csv
+        target_file_name: hamburg-points-of-interest-museums-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-museums-details.csv
+        target_file_name: hamburg-points-of-interest-museums-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-museums-details.csv
+        target_file_name: hamburg-points-of-interest-museums-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-museums-details.csv
+        target_file_name: hamburg-points-of-interest-museums-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-nightclubs-details.csv
+        target_file_name: hamburg-points-of-interest-nightclubs-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-nightclubs-details.csv
+        target_file_name: hamburg-points-of-interest-nightclubs-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-nightclubs-details.csv
+        target_file_name: hamburg-points-of-interest-nightclubs-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-nightclubs-details.csv
+        target_file_name: hamburg-points-of-interest-nightclubs-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-offices-details.csv
+        target_file_name: hamburg-points-of-interest-offices-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-offices-details.csv
+        target_file_name: hamburg-points-of-interest-offices-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-offices-details.csv
+        target_file_name: hamburg-points-of-interest-offices-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-offices-details.csv
+        target_file_name: hamburg-points-of-interest-offices-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-parks-details.csv
+        target_file_name: hamburg-points-of-interest-parks-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-parks-details.csv
+        target_file_name: hamburg-points-of-interest-parks-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-parks-details.csv
+        target_file_name: hamburg-points-of-interest-parks-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-parks-details.csv
+        target_file_name: hamburg-points-of-interest-parks-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-pharmacies-details.csv
+        target_file_name: hamburg-points-of-interest-pharmacies-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-pharmacies-details.csv
+        target_file_name: hamburg-points-of-interest-pharmacies-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-pharmacies-details.csv
+        target_file_name: hamburg-points-of-interest-pharmacies-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-pharmacies-details.csv
+        target_file_name: hamburg-points-of-interest-pharmacies-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-places-of-worship-details.csv
+        target_file_name: hamburg-points-of-interest-places-of-worship-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-places-of-worship-details.csv
+        target_file_name: hamburg-points-of-interest-places-of-worship-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-places-of-worship-details.csv
+        target_file_name: hamburg-points-of-interest-places-of-worship-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-places-of-worship-details.csv
+        target_file_name: hamburg-points-of-interest-places-of-worship-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-playgrounds-details.csv
+        target_file_name: hamburg-points-of-interest-playgrounds-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-playgrounds-details.csv
+        target_file_name: hamburg-points-of-interest-playgrounds-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-playgrounds-details.csv
+        target_file_name: hamburg-points-of-interest-playgrounds-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-playgrounds-details.csv
+        target_file_name: hamburg-points-of-interest-playgrounds-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-police-stations-details.csv
+        target_file_name: hamburg-points-of-interest-police-stations-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-police-stations-details.csv
+        target_file_name: hamburg-points-of-interest-police-stations-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-police-stations-details.csv
+        target_file_name: hamburg-points-of-interest-police-stations-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-police-stations-details.csv
+        target_file_name: hamburg-points-of-interest-police-stations-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-post-offices-details.csv
+        target_file_name: hamburg-points-of-interest-post-offices-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-post-offices-details.csv
+        target_file_name: hamburg-points-of-interest-post-offices-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-post-offices-details.csv
+        target_file_name: hamburg-points-of-interest-post-offices-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-post-offices-details.csv
+        target_file_name: hamburg-points-of-interest-post-offices-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-pubs-details.csv
+        target_file_name: hamburg-points-of-interest-pubs-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-pubs-details.csv
+        target_file_name: hamburg-points-of-interest-pubs-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-pubs-details.csv
+        target_file_name: hamburg-points-of-interest-pubs-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-pubs-details.csv
+        target_file_name: hamburg-points-of-interest-pubs-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-restaurants-details.csv
+        target_file_name: hamburg-points-of-interest-restaurants-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-restaurants-details.csv
+        target_file_name: hamburg-points-of-interest-restaurants-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-restaurants-details.csv
+        target_file_name: hamburg-points-of-interest-restaurants-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-restaurants-details.csv
+        target_file_name: hamburg-points-of-interest-restaurants-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-sbahn-stops-details.csv
+        target_file_name: hamburg-points-of-interest-sbahn-stops-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-sbahn-stops-details.csv
+        target_file_name: hamburg-points-of-interest-sbahn-stops-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-sbahn-stops-details.csv
+        target_file_name: hamburg-points-of-interest-sbahn-stops-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-sbahn-stops-details.csv
+        target_file_name: hamburg-points-of-interest-sbahn-stops-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-schools-details.csv
+        target_file_name: hamburg-points-of-interest-schools-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-schools-details.csv
+        target_file_name: hamburg-points-of-interest-schools-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-schools-details.csv
+        target_file_name: hamburg-points-of-interest-schools-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-schools-details.csv
+        target_file_name: hamburg-points-of-interest-schools-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-sport-centers-details.csv
+        target_file_name: hamburg-points-of-interest-sport-centers-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-sport-centers-details.csv
+        target_file_name: hamburg-points-of-interest-sport-centers-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-sport-centers-details.csv
+        target_file_name: hamburg-points-of-interest-sport-centers-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-sport-centers-details.csv
+        target_file_name: hamburg-points-of-interest-sport-centers-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-supermarkets-details.csv
+        target_file_name: hamburg-points-of-interest-supermarkets-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-supermarkets-details.csv
+        target_file_name: hamburg-points-of-interest-supermarkets-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-supermarkets-details.csv
+        target_file_name: hamburg-points-of-interest-supermarkets-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-supermarkets-details.csv
+        target_file_name: hamburg-points-of-interest-supermarkets-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-theaters-details.csv
+        target_file_name: hamburg-points-of-interest-theaters-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-theaters-details.csv
+        target_file_name: hamburg-points-of-interest-theaters-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-theaters-details.csv
+        target_file_name: hamburg-points-of-interest-theaters-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-theaters-details.csv
+        target_file_name: hamburg-points-of-interest-theaters-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-tram-stops-details.csv
+        target_file_name: hamburg-points-of-interest-tram-stops-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-tram-stops-details.csv
+        target_file_name: hamburg-points-of-interest-tram-stops-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-tram-stops-details.csv
+        target_file_name: hamburg-points-of-interest-tram-stops-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-tram-stops-details.csv
+        target_file_name: hamburg-points-of-interest-tram-stops-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-ubahn-stops-details.csv
+        target_file_name: hamburg-points-of-interest-ubahn-stops-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-ubahn-stops-details.csv
+        target_file_name: hamburg-points-of-interest-ubahn-stops-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-ubahn-stops-details.csv
+        target_file_name: hamburg-points-of-interest-ubahn-stops-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-ubahn-stops-details.csv
+        target_file_name: hamburg-points-of-interest-ubahn-stops-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter
+      - source_file_name: hamburg-points-of-interest-universities-details.csv
+        target_file_name: hamburg-points-of-interest-universities-city.csv
+        aggregate_by: "total"
+        names: *city
+      - source_file_name: hamburg-points-of-interest-universities-details.csv
+        target_file_name: hamburg-points-of-interest-universities-district.csv
+        aggregate_by: district_id
+        names: *district
+      - source_file_name: hamburg-points-of-interest-universities-details.csv
+        target_file_name: hamburg-points-of-interest-universities-district-region.csv
+        aggregate_by: district_region_id
+        names: *district-region
+      - source_file_name: hamburg-points-of-interest-universities-details.csv
+        target_file_name: hamburg-points-of-interest-universities-quarter.csv
+        aggregate_by: quarter_id
+        names: *quarter

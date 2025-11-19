@@ -24,8 +24,10 @@
 * fully qualified name: hamburg-administrative-boundaries
 
 ### Output Ports
-#### hamburg-points-of-interest-2025-10
-* fully qualified name: hamburg-points-of-interest-2025-10
+#### hamburg-points-of-interest-2025-10-csv
+* fully qualified name: hamburg-points-of-interest-2025-10-csv
+#### hamburg-points-of-interest-2025-10-parquet
+* fully qualified name: hamburg-points-of-interest-2025-10-parquet
 
 
 ---
