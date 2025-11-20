@@ -30,6 +30,6 @@ jobs:
         id: commit-changes
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
-          file_pattern: data/** docs/** data-product-manifest.yml
+          file_pattern: *
           commit_author: Florian Schwanz <florian.schwanz@interoberlin.de>
           commit_message: "chore(data): update data"
