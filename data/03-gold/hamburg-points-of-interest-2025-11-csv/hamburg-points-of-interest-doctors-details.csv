@@ -26,7 +26,6 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 674732082,Frauenärztin Silke Hantelmann,Langenhorner Chaussee 657,22419,53.6785776,10.0000261,04413432
 696858205,,,,53.4247331,9.7876113,0
 761255985,Dr. Arngold,Eekhoff 5,25482,53.6586793,9.742698,0
-761660596,Hausarztpraxis am Siemersplatz,Siemersplatz 3,22529,53.5993569,9.9639645,03305317
 845206191,Dr. med. Albrecht Leopold,,,53.4659525,9.9622552,07710711
 845208299,Dr. med. Genc Shala,,,53.4651922,9.9631522,07710711
 856778154,Ärztezentrum Quickborn,Ziegenweg 4,25451,53.7365164,9.9029975,0
@@ -47,10 +46,10 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 1121446548,Hammerl,,,53.6564034,10.2601964,0
 1133646744,Christoph Müller-Rahmel,,,53.6523946,10.1841989,05517525
 1284300095,Dr. Buhs,Bahnhofstraße 46-48,25451,53.7307493,9.9015965,0
-1329349578,Bewegung ist LEBEN (Orthopädische Praxis),,,53.5551657,9.9267367,02204213
+1329349578,Bewegung ist LEBEN (Orthopädische Praxis),,,53.5551912,9.9266549,02204213
 1330951188,Naturheilpraxis Ebert,,,53.5546926,10.240989,0
 1337748669,Dr. med Jörg Nowrath,Georg-Sasse-Straße 16,22949,53.6778497,10.1492711,0
-1345120455,Hausarztpraxis Dr. Axt,Holitzberg 288,22417,53.6746917,10.0260552,04413432
+1345120455,Hausarztpraxis Dr. Axt,Holitzberg 288,22417,53.6748315,10.0259412,04413432
 1416886329,,,,53.5984438,9.8487277,0
 1417506594,Julia Berger Psychiater,Heegbarg 17,22391,53.6532505,10.0916517,05511519
 1490263364,Neurologie Neuer Wall,,,53.5521038,9.9918582,01103108
@@ -140,7 +139,6 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 2984618701,Dermatologie,Martinistraße 52,20251,53.5906571,9.9723266,04402403
 2984642710,Universitäres Cancer Center Hamburg (UCCH),Martinistraße 52,20251,53.5912842,9.9776175,04402403
 3050994466,Praxis Asani,Hauptstraße 38i,22885,53.569032,10.164149,0
-3095941839,Hausarzt-Zentrum / Diabetes-Zentrum HH-Süd,,,53.4691686,9.8547218,07714715
 3134708369,gerlach+lucassen,Ahrensburger Straße 29,22041,53.5780545,10.092158,05502508
 3164499270,Medizinzentrum Hammoniabad,,,53.5694114,10.0286025,04406415
 3248392176,"Mund-, Kiefer und Gesichtschirurgie Dr. med. Joachim Blümel",,,53.681845,9.9875826,0
@@ -305,7 +303,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 3893896058,Dr. med. Marie-Elisabeth Krieg,,,53.5717723,10.0614751,05502505
 3893896059,Dr. Said,Barsbütteler Straße 8,22043,53.5706433,10.1370008,05504512
 3893896060,Arzt Dr. Preyss,Berner Heerweg 175,22159,53.6055502,10.1184899,05506514
-3893896062,Dr. Anna Segnitz,Bramfelder Chaussee 291,22177,53.6172643,10.0776569,05507515
+3893896062,Dr. Anna Segnitz,Bramfelder Chaussee 291,22177,53.61732,10.0773706,05507515
 3893896064,Augenarzt Dr. Greven und Remmecke,Dahlemer Ring 9,22045,53.5849438,10.1441353,05504512
 3893896065,Chirurg Dr. Glinka und Ohm,Berner Heerweg 173-175,22159,53.6055423,10.1186421,05506514
 3893896067,Chirurg Dr. Weber,Herthastraße 12,22179,53.6116009,10.0768497,05507515
@@ -342,7 +340,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 3897727049,Kridde,Schloßstraße 112,22041,53.5719053,10.0761294,05502507
 3897727051,Gemeinschaftspraxis für Nervenheilkunde,,,53.5719924,10.0724467,05503510
 3897833756,Lattke,Schloßstraße 44,22041,53.5715024,10.069529,05503510
-3897838457,Ostermayer / Schütze,Schloßstraße 38,22041,53.5712616,10.0684536,05503510
+3897838457,Knoop / Schütze,Schloßstraße 38,22041,53.5712616,10.0684536,05503510
 3897838458,Soldan,Schloßstraße 44,22041,53.5715245,10.0695104,05503510
 3897838459,Razai,Schloßstraße 44,22041,53.5714759,10.0695551,05503510
 3897838460,Urologisches Zentrum Wandsbek,Schloßstraße 38,22041,53.5712284,10.0684368,05503510
@@ -370,10 +368,10 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 4103059626,Lichte & Kalugina,,,53.5818788,10.0640834,04409425
 4103543017,Ärztehaus,,,53.6530233,10.2621671,0
 4134326350,MVZ Elbe West,Rugenbarg 20,22549,53.5748433,9.8472668,02209221
-4144366156,Dr. Vosghanian-Pekajeky,,,53.4613428,9.9822718,07701702
+4144366156,Dr. Vosghanian-Pekajeky,Moorstraße 2,21073,53.4566581,9.9859736,07701702
 4168183875,Augenzentrum Harburg,,,53.4653011,9.9888134,07701702
 4168183877,Dr. Silvia Darida,Moorstraße 4,21073,53.4567656,9.9864555,07701702
-4168183879,Linse Phoenix - Optik Hallmann,Moorstraße 4,21073,53.4567349,9.9862493,07701702
+4168183879,Hallmann Filiale Linse Phoenix,Moorstraße 4,21073,53.4567349,9.9862493,07701702
 4168200194,Radiologische Allianz,Moorstraße 6,21073,53.4568907,9.9872308,07701702
 4200053205,Klaus Togler,,,53.584589,10.0414823,04408421
 4208552589,Dr. med. Joachim Rathjens,Friedrichstraße 1,25469,53.6343883,9.8401025,0
@@ -405,11 +403,11 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 4535036166,Augenärzte Tange Herkel Ashayer,Heegbarg 21,22391,53.653369,10.0913032,05511519
 4535036167,Kinder- und Jugendmediziner Dr. Drunkenmölle,Heegbarg 9,22391,53.6531952,10.0920654,05511519
 4548596578,Nierenzentrum Reinbek,Am Ladenzentrum 8,21465,53.510618,10.2358449,0
-4548669815,Dr. med. Jörg Müller-Scholtz,Langelohstraße 151,22549,53.5724665,9.8461336,02209221
+4548669815,Dr. med. Jörg Müller-Scholtz,,,53.5724665,9.8461336,02209221
 4549763015,M.D. Abdullah Roon,,,53.5577668,10.05104,01108122
 4608334149,Hausarztpraxis Barmbek,,,53.5932017,10.05025,04410426
 4633636865,Arztpraxis Dr. Ebert,,,53.6078431,10.137705,05518526
-4643432146,Poliklinik Veddel 1,,,53.5232604,10.0177008,01115134
+4643432146,Poliklinik Veddel 1,,,53.5232142,10.0175707,01115134
 4647180446,Dr.med Bettina Rippel,,,53.6689682,10.2540273,0
 4669700267,Hausarztpraxis Maas/Raut/van der Kamp,Weidenallee 1,20357,53.5655157,9.9653332,03301310
 4703491038,Allgemeinarzt,,,53.4062146,10.1760133,06606607
@@ -419,7 +417,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 4814017922,Haut- und Venenpraxis Winterhude,Winterhuder Marktplatz 7,22299,53.5945264,10.0007418,04405409
 4829088832,Radiologie Walddörfer,Farmsener Landstraße 193,,53.6505193,10.1624251,05517525
 4854233187,Augentagesklinik,,,53.6485122,10.1634423,05517525
-4875903509,Dr.Magener,,,53.6635151,10.2541094,0
+4875903509,Dr.Magener,,,53.6634378,10.2540623,0
 4896344986,"Dres. Ruemmler, Drieschner. Maaß u Hutteger",,,53.6898925,9.9828252,0
 4964205230,Praxis Hix/Andresen,Holthusenstraße 36,22359,53.6466251,10.1685187,05517525
 4987749350,Dermatologie in Ottensen,Bahrenfelder Straße 242,,53.5566536,9.9284821,02204211
@@ -434,6 +432,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 5185320721,Lungenpraxis Norderstedt,Ulzburger Straße 12,22850,53.684207,9.998359,0
 5219843101,Diabetespraxis Barmbek,Wohldorfer Straße 1,22081,53.5774177,10.0391133,04408423
 5247494310,HNO Bergedorf am City-Center,,,53.489632,10.2077851,06602602
+5248120755,Dr. Thalmann,Moorstraße 4,21073,53.4566798,9.9862619,07701702
 5248120758,HNO-Praxis Phoenixcenter,Hannoversche Straße 86,21079,53.4569823,9.988083,07701702
 5323676447,Dr. med. Jens W. Stadtmüller,Möllner Landstraße 29,22111,53.5395499,10.1067105,01112130
 5323676448,Dr. med. Werner Frank,Möllner Landstraße 29,22111,53.539538,10.1067025,01112130
@@ -452,7 +451,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 5588294233,Gemeinschaftspraxis Knudsen & Finger,Schifferstraße 17,21629,53.4664529,9.7991495,0
 5589201005,Hausärztliche Gemeinschaftspraxis Flurkamp,Flurkamp 11,,53.5723708,9.8634834,02209221
 5616985413,Orthopäden im Alstertal,Heegbarg 8,22391,53.6531931,10.0933122,05511519
-5625129721,Prof. Dr. Kleta,Duvenstedter Damm 47,22397,53.7074299,10.1092182,05514522
+5625129721,Dr. Kleta,Duvenstedter Damm 47,22397,53.7074299,10.1092182,05514522
 5626557021,Hausärztin Fuhlsbüttel,Flughafenstraße 75,22415,53.6403483,10.0181814,04413432
 5643470580,Gynäkologische Praxis Dr. Jens Nissen,Rübekamp 25,25421,53.6604147,9.7927339,0
 5646713560,Rehaaktiv Barsbüttel Praxis für Physiotherapie,Am AKKU 9,22885,53.5666985,10.1647568,0
@@ -512,6 +511,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 6320707753,Arzu Allzadeh & Ghalia Thaher,,,53.4720464,9.8529075,07714715
 6323148885,Substitutionsambulanz Altona,,,53.559274,9.9494559,02201206
 6330990998,"Heinze, Malessa, Mänz-Siebje",Krüsistraße 15,22305,53.5877125,10.0456585,04410427
+6331000430,"Grützmacher, ten Hoff",Krüsistraße 15,22305,53.5877341,10.0456462,04410427
 6343084298,Dr. med. Dietmar Nixdorf,Erdkampsweg 27,22335,53.6278889,10.0243245,04412431
 6343084299,Dr. med. Nicole Hoenike,Erdkampsweg 27,22335,53.6278388,10.0243265,04412431
 6420519116,Praxis Dr. med. Christoph Dittrich,Tibarg 32b,22459,53.6196083,9.9518005,03306318
@@ -567,7 +567,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 7084672046,Osteopathie Langenhorn,,,53.6496393,10.0132079,04413432
 7084672047,Renate Gizewski,,,53.64968,10.0131555,04413432
 7090370501,Gemeinschaftspraxis Meyer,Käkenflur 14 b,22419,53.6718584,10.0000678,04413432
-7098417812,Praxis Dr. Huchtemann,,,53.5885657,9.9920027,04402404
+7098417812,Praxis Dr. Huchtemann,,,53.5886449,9.9919692,04402404
 7120723121,Hausärzte im Elbe,Osdorfer Landstraße 137,22609,53.5714657,9.8608956,02209221
 7125083885,Visiorad GbR MRT,,,53.6624786,9.7962421,0
 7190120574,Urologie in der HafenCity,Shanghaiallee 17,20457,53.5423738,10.0032627,01102104
@@ -603,7 +603,6 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 7649438800,Norbert Eckhardt,,,53.4710068,9.8251422,07714715
 7649438810,Erwin R. Ottahal,,,53.4714558,9.8259026,07714715
 7649774861,Hanseatisches Zentrum für Arbeitsmedizin,,,53.5452585,10.025759,01106117
-7696168734,SPORTHOPAEDIC HAMBURG,Vogt-Wells-Straße 8-10,22529,53.5998284,9.9621755,03305317
 7833276730,PHV-Dialysezentrum Hamburg-Sinstorf,,,53.4245396,9.9792879,07707708
 7836449386,Frauenarztpraxis Loeck,Blankeneser Bahnhofstraße 5,22587,53.5591776,9.8115582,02211223
 7836595989,G&S Gesundheit und Sicherheit für Betriebe,,,53.5939319,9.995081,04405409
@@ -616,7 +615,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 7878957475,Aswin Khuankhunsathid,,,53.6475371,10.0155106,04413432
 7922220879,Dr. med. Gerhard Schmidt,,,53.4095782,9.9919513,0
 7990002826,HNO Schnelsen,Wählingsallee 6,22459,53.631863,9.920266,03307319
-7997399717,Strahlentherapie Bergedorf,,,53.4792893,10.2052188,06602603
+7997399717,Strahlentherapie Bergedorf,Am Schilfpark 20,21029,53.4792893,10.2052188,06602603
 8000485090,Georg und Valentina Kon,,,53.6212544,10.0821219,05507515
 8019229781,Internisten am Klosterstern - Dr. med. Felix Thuneke und Dr. med. Simone Henne,Oderfelder Straße 6,,53.5826836,9.9889107,03303314
 8042533735,Orthopädie Osterstraße,Osterstraße 59-61,20259,53.5749966,9.9562583,03301306
@@ -675,7 +674,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 8952093049,Hausarztpraxis Am Freibad,,,53.7316833,9.8995036,0
 8956296220,Dr. St. Wessel & Olaf Eggers,,,53.5645538,9.8167786,02211223
 8976048082,Philip Maass;Dr. Michael Meyer,,,53.5155043,9.9936767,01116137
-8984200493,AlstertalPraxis Dr. med. Hanna Heidemann,Stübeheide 155,22337,53.6334213,10.0538371,04411430
+8984200493,Dr. med. Jürgen Rehder,Stübeheide 155,22337,53.6334213,10.0538371,04411430
 8984200507,Dr. med. Marianne Kamps,Kornweg 2,22337,53.634645,10.0513592,04411430
 8988636877,"Dr. Marcus Wolf, Dr. Regina Lemke-Wolf",,,53.5761182,9.949815,03301303
 8992223157,Kinderärzte im Friesenweg,Friesenweg 2,22763,53.5595573,9.9098387,02207219
@@ -697,7 +696,6 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 9202729886,"Kieferchirurg, Mundchirurg, Gesichtschirurg Dr. Flinzberg, Dr. Lénard",Kritenbarg 7,22391,53.6525367,10.0908163,05511519
 9223583538,Dr. med. Dörthe Hunte,Veringstraße 43,,53.5144991,9.9870076,01116137
 9223583539,Dr. med. Tugrul Karaman,Veringstraße 43,,53.5145157,9.9870067,01116137
-9226639253,"Albrecht Römhild (Kinder- und Jugendheilkunde, Allergologie)",Mariannenruh-Platz 1,22765,53.5618289,9.9389933,02203210
 9238063657,Lungenpraxis Hamburg,Neuer Pferdemarkt 12,20359,53.5592741,9.9645025,02202207
 9274484051,Radiologische Allianz Schäferkampsallee,Schäferkampsallee 5-7,20357,53.5676949,9.9689918,03301309
 9348768708,Dr. med. Reinhard Schütze,Ochsenzoller Straße 217,22848,53.6820371,9.9962977,0
@@ -738,7 +736,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 10032558177,Dr. Kerstin Schulze,,,53.681828,9.9922874,0
 10047757013,Hausarztpraxis Ohechaussee,,,53.6816799,9.9966264,0
 10049289908,Dr. Dubiel & Dr. Meyborg und Kollegen,,,53.550823,9.9964641,01101101
-10063141360,Praxisklinik für Ästhetisch-Plastische und Handchirurgie,Harburger Ring 8–10,21073,53.4592781,9.9847361,07701702
+10063141360,Praxisklinik für Ästhetisch-Plastische und Handchirurgie in Hamburg-Harburg,Harburger Ring 8–10,21073,53.4592781,9.9847361,07701702
 10068274972,Augenärzte Sophienstraße,Sophienstraße 7,21465,53.5087787,10.2524777,0
 10068274991,Praxis für Podologie,Sophienstraße 7,21465,53.5087187,10.2527439,0
 10084981238,Praxis für Kinder- und Jugendlichenpsychotherapie,Alsterdorfer Markt 6,22297,53.612424,10.0250234,04404407
@@ -866,13 +864,13 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 11755931253,Radiologie am Fleet,,,53.550316,9.9857471,01103107
 11787051669,Dr. C. Kiffmeyer,Kriegerdankweg 31,,53.6321819,9.9137844,03307319
 11792409148,Arne Elsen,Bramfelder Chaussee 238;240;242,22177,53.6128849,10.075685,05507515
-11799669501,Artus Medical Orthopädie und Unfallchirurgie,Papenhuder Straße 8,22087,53.5643494,10.0207961,04407416
+11799669501,Orthopädische Praxis Najeb Bahia,Papenhuder Straße 8,22087,53.5643494,10.0207961,04407416
 11801428722,Dr.med. Cordula Sohst-Brennenstuhl,,,53.5586246,9.9135484,02204212
 11832705508,Lungenpraxis am Tibarg,Tibarg 32a,22459,53.6197263,9.95264,03306318
 11835299912,Prof.Dr.med. Neslin Oguzhan Akkoca,Veringstraße 43,,53.5145108,9.9869725,01116137
 11835510850,A. Böhner,Erlenkamp 12,,53.5677705,10.0208979,04406415
 11838798899,Hausarztpraxis Devrim Thormählen,,,53.5145853,9.9874016,01116137
-11877125769,Hautarztpraxis Mittelweg Dr. med. Sabine Harder,Mittelweg 123,20148,53.571671,9.9950386,03302312
+11877125769,Hautarztpraxis Mittelweg Dr. med. Sabine Harder,,20148,53.571671,9.9950386,03302312
 11911610896,Hausarztpraxis Norderstedt,Erlengang 2-10,22844,53.7277394,9.996692,0
 11930609853,KJP Elbinsel,,,53.5161581,9.9859667,01116137
 11930614479,Praxis für systemische Eltern-Kleinkindtherapie,,,53.5161495,9.9860035,01116137
@@ -899,7 +897,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 12065884560,Dr. med. John Markworth,Schäferkampsallee 30,,53.569073,9.9673928,03301309
 12075299475,neuropsychiatrie ottensen,,,53.552744,9.9336061,02204213
 12089199819,Dr Daniela Kasche,,,53.5621685,9.8178598,02211223
-12090823501,"Gemeinschaftspraxis;Innere Medizin, Onkologie, Hämatologie, Lungen- Bronchialheilkunde, Coloskopie",,,53.5519907,9.9370728,02201203
+12090823501,"Gemeinschaftspraxis;Innere Medizin, Onkologie / Hämatologie, Lungen- Bronchialheilkunde, Coloskopie",,,53.5519907,9.9370728,02201203
 12090824846,"Nervenärztliche Praxisgemeinschaft;Dr. P. Winkelmann, Dr., Dr. L. Kohlbrecher",,,53.5521212,9.9371633,02201203
 12090836190,Dr. Maria Friedrichs,,,53.55208,9.9371361,02201203
 12090839248,Stephan Koch,,,53.5520227,9.9372729,02201203
@@ -947,7 +945,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 12249230913,Cutaneum,,,53.6288639,10.0229256,04412431
 12249230914,Praxis Sehstärke,,,53.6289028,10.0229499,04412431
 12249230920,Dr. Gesine Groth,Erdkampsweg 49,22335,53.6291585,10.0227559,04412431
-12296322857,Urologie im Alstertal,Heegbarg 14,22391,53.6538028,10.092836,05511519
+12296322857,Praxis - Urologen im Alstertal,Heegbarg 14,22391,53.6538028,10.092836,05511519
 12329545627,Dr.med. Christina Siemen,Neuhöfer Straße 23,,53.5103288,9.9855527,01116137
 12332999616,Kinderärzte Barmbek,Wohldorfer Straße 44,,53.5773615,10.0453177,04408422
 12382547820,Praxis für Atteste/Impfzentrum,Hoheluftchaussee 56,,53.5810377,9.9736085,04401401
@@ -987,7 +985,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 12823799777,Wolfgang Kratzke,,,53.5640078,9.8145553,02211223
 12826341580,Privatpraxis Dr.med. R. Döbber,Blankeneser Landstraße 2a,,53.5634304,9.8121905,02211224
 12828890678,ENDOC Praxis für Endokrinologie und Andrologie,Erik-Blumenfeld-Platz 2a,,53.5637752,9.8132276,02211223
-12828895316,AugenCentrum Hamburg West,Erik-Blumenfeld-Platz 27,,53.56365,9.8126632,02211223
+12828895316,AugenCentrum Hamburg West,,,53.56365,9.8126632,02211223
 12828900816,HNO Blankenese,Erik-Blumenfeld-Platz 27,,53.5635789,9.8126594,02211223
 12829045327,Praxisgemeinschaft Radiologie Blankeneser,Sülldorfer Kirchenweg 2a,,53.5642037,9.8132616,02211223
 12829058139,Praxis für Pränataldiagnostik Hamburg  DEGUM II,Sülldorfer Kirchenweg 2a,,53.5642624,9.8132998,02211223
@@ -1032,34 +1030,3 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 12897770429,Praxis Singbartl,,,53.4720483,9.8531188,07714715
 12897770430,MVZ Neuropsychiatrie,,,53.4720129,9.8529077,07714715
 12919218489,Dr. Michael Löffert,Jarrestraße 44b,22303,53.5849338,10.025759,04405411
-12943671301,Kinder- und Jugendarztpraxis St. Pauli,Bernstorffstraße 174,22767,53.5597957,9.9597703,01104110
-12961542022,Hausarztpraxis Rissen,,,53.582455,9.7573304,02214227
-12961580970,Dr. med. Stefanie Kanehl,,,53.5824986,9.7568719,02214227
-12961597822,Schurbohm Orthoreha,,,53.5818192,9.7581142,02214227
-12961599408,Dr. med. Hafis Sina,,,53.581786,9.7593808,02214227
-12962192560,NeuroPraxis am Diakonieklinikum Hamburg,Hohe Weide 17 b,20259,53.5710793,9.9647944,03301308
-12987841662,Dr. D. Hajnis und Dr. N. Bastian,,,53.4569022,9.9872842,07701702
-12990047000,MVZ Prof. Dr. A. Niendorf,,,53.552069,9.9426627,02201204
-12990050510,Tünda Wasmann,,,53.5514771,9.9402474,02201203
-12996404048,Béatrice Rossbach,,,53.5511695,9.9381029,02201203
-12996427097,Dr. R.&M. Humbert,,,53.5511821,9.9379646,02201203
-12996471437,Dipl. Psych. Birte Tietjen,,,53.55113,9.9386381,02201203
-12996480190,"Hausarztpraxis Altona, Dr. Chr. Beyer",,,53.5503791,9.9372868,02201203
-12999936541,Dorothee Mörle,,,53.5887911,9.9920582,04402404
-13002711299,Dr.med. Karl Dansard,,,53.588731,9.991971,04402404
-13012275785,"PAZ Hamburg, Pädriatisches Ambulanzzentrum",Sülldorfer Kirchenweg 2a,,53.564293,9.8132827,02211223
-13013432763,Gemeinschaftspraxis Ewaldsweg,Ewaldsweg 20,,53.5523724,10.0670395,01108125
-13075694853,K. Wytrykust-Wozniakowski,,,53.5712676,10.0685185,05503510
-13082793707,Schuhmacher,,,53.4710276,9.8310913,07714715
-13119015561,,,,53.7288906,10.2745932,0
-13144791144,,,,53.559752,9.959807,01104110
-13144793552,Dr.med. Jan Olivier,,,53.5597399,9.9597703,01104110
-13144810518,,,,53.559734,9.9597103,01104110
-13144825997,Frauenärztinnen St.Pauli,,,53.5597402,9.9598009,01104110
-13146465562,Hausärztliche Praxis Dr. Holger Butting,Bahrenfelder Chaussee 36,,53.5652465,9.9138831,02205216
-13147929835,Jonathan Martin,Schenefelder Platz 6,22869,53.5975393,9.8489503,0
-13198156422,Darmzentrum Hamburg,,,53.5696592,10.0288463,04406415
-13198161415,HNO Facharztzentrum Mundsburg,,,53.5695865,10.0286395,04406415
-13198161831,,,,53.569638,10.028749,04406415
-13230317701,MVZ Praxis im Chilehaus,Fischertwiete 2,20095,53.5482764,10.0014976,01101101
-13252460102,Hausärzte Friesenweg,,,53.5595979,9.9099155,02207219

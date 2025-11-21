@@ -1,6 +1,6 @@
 id,name,street,zip_code,lat,lon,geojson_feature_id
-247765304,Puppenmuseum Falkenstein & Galerie Elke Dröscher,Grotiusweg 79,22587,53.565983,9.7640317,02211223
-265761266,Dialoghaus Hamburg,Alter Wandrahm 4,20457,53.546213,10.0016843,01102103
+247765304,Puppenmuseum Falkenstein & Galarie Elke Dröscher,Grotiusweg 79,22587,53.565983,9.7640317,02211223
+265761266,Dialog im Dunkeln,Alter Wandrahm 4,20457,53.546213,10.0016843,01102103
 274954444,Gedenkstätte Bullenhuser Damm,Bullenhuser Damm 92,20539,53.5420468,10.0475484,01114132
 277296724,Deutsches Zollmuseum,Alter Wandrahm 15-16,20457,53.5459413,9.9980125,01102103
 282661908,Bunkermuseum Hamburg,Wichernsweg 16,20537,53.5530163,10.0634403,01108125
@@ -55,6 +55,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 6216325968,Sammlung Falckenberg,Wilstorfer Straße 71,21073,53.4550922,9.9875595,07701702
 6271709994,Dieter Roth Museum,,,53.579381,9.989471,03303314
 6695848618,St. Nikolai Museum,,,53.5476626,9.9912032,01101102
+7699025086,Retro Spiele Club Hamburg,Horner Landstraße 171,22111,53.5503231,10.0789049,01111128
 8617329283,Heimatmuseum Bargteheide,Hamburger Straße 3,22941,53.7278733,10.2588193,0
 8728264043,Röhrenradio-Museum,Hinterbrack 6,21635,53.5454201,9.7619564,0
 9226906937,Loki und Helmut Schmidt Wohnhaus,,,53.6672351,10.0132293,04413432
@@ -67,10 +68,7 @@ id,name,street,zip_code,lat,lon,geojson_feature_id
 11742284297,Ausstellung am Turmbunker,,,53.5866024,10.044828,04410427
 11828710029,Gipsabguss-Sammlung der Universität Hamburg,Grindelallee 34,,53.565686,9.9833114,03302312
 12165859968,Historische Hafenbahn,,,53.5269589,10.0000499,01117138
-12179084415,Botschaft der Wildtiere,Lucy-Borchardt-Straße 2,20457,53.5382149,10.0180926,01102104
+12179084415,Botschaft der Wildtiere,Lucy-Borchardt-Straße 2,20457,53.538216,10.0180857,01102104
 12212213719,Port des Lumières,Platz am 10. Längengrad 1,20457,53.5410056,9.9992997,01102103
 12422518179,Paradox,Alter Wall 22,,53.5504644,9.9904541,01101102
 12883611612,KL!CK Kindermuseum,,,53.5826463,9.852832,02209221
-12966189615,Rickmer Rickmers,,20459,53.5445554,9.9730676,01103105
-13041286663,KomponistenQuartier Hamburg,Peterstraße 29-39,20355,53.551331,9.9768724,01103106
-13072018532,Retro Spiele Club Hamburg,Fuhlsbüttler Straße 490,22309,53.6079345,10.0394081,04411430

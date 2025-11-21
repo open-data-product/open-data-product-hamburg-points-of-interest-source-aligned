@@ -40,8 +40,6 @@ from opendataproduct.extract.overpass_data_extractor import extract_overpass_dat
 from opendataproduct.transform.data_aggregator import aggregate_data
 from opendataproduct.transform.poi_csv_converter import convert_data_to_csv
 
-from lib.quarter_assigner import assign_quarter
-
 file_path = os.path.realpath(__file__)
 script_path = os.path.dirname(file_path)
 

@@ -18,8 +18,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: hamburg-points-of-interest-2025-10-csv
-      fullyQualifiedName: hamburg-points-of-interest-2025-10-csv
+      id: hamburg-points-of-interest-2025-11-csv
+      fullyQualifiedName: hamburg-points-of-interest-2025-11-csv
       entityType:
       name: ''
       version:
@@ -31,8 +31,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: hamburg-points-of-interest-2025-10-parquet
-      fullyQualifiedName: hamburg-points-of-interest-2025-10-parquet
+      id: hamburg-points-of-interest-2025-11-parquet
+      fullyQualifiedName: hamburg-points-of-interest-2025-11-parquet
       entityType:
       name: ''
       version:
