@@ -10,6 +10,7 @@
 # ///
 
 import os
+import shutil
 import sys
 from datetime import datetime
 
@@ -48,6 +49,9 @@ script_path = os.path.dirname(file_path)
 @click.option("--clean", "-c", default=False, is_flag=True, help="Regenerate results.")
 @click.option("--quiet", "-q", default=False, is_flag=True, help="Do not log outputs.")
 def main(clean, quiet):
+    current_year = datetime.now().strftime("%Y")
+    current_month = datetime.now().strftime("%m")
+
     data_path = os.path.join(script_path, "data")
     bronze_path = os.path.join(data_path, "01-bronze")
     silver_path = os.path.join(data_path, "02-silver")
@@ -60,23 +64,23 @@ def main(clean, quiet):
     data_product_manifest = load_data_product_manifest(
         config_path=script_path,
         context={
-            "current_year": datetime.now().strftime("%Y"),
-            "current_month": datetime.now().strftime("%m"),
+            "current_year": current_year,
+            "current_month": current_month,
         },
     )
     data_transformation_gold_geo = load_data_transformation_gold(
         config_path=script_path,
         context={
-            "current_year": datetime.now().strftime("%Y"),
-            "current_month": datetime.now().strftime("%m"),
+            "current_year": current_year,
+            "current_month": current_month,
         },
         file_name="data-transformation-03-gold-geo.yml",
     )
     data_transformation_gold = load_data_transformation_gold(
         config_path=script_path,
         context={
-            "current_year": datetime.now().strftime("%Y"),
-            "current_month": datetime.now().strftime("%m"),
+            "current_year": current_year,
+            "current_month": current_month,
         },
     )
     odps = load_odps(config_path=script_path)
@@ -100,6 +104,8 @@ def main(clean, quiet):
         ),
         bounding_box_feature_id="0",
         results_path=bronze_path,
+        year=current_year,
+        month=current_month,
         clean=clean,
         quiet=quiet,
     )
@@ -111,6 +117,8 @@ def main(clean, quiet):
     convert_data_to_csv(
         source_path=bronze_path,
         results_path=silver_path,
+        year=current_year,
+        month=current_month,
         clean=clean,
         quiet=quiet,
     )
@@ -134,6 +142,29 @@ def main(clean, quiet):
         results_path=gold_path,
         clean=clean,
         quiet=quiet,
+    )
+
+    # Copy raw data of uncountable amenities
+    results_json_path = os.path.join(
+        gold_path,
+        f"hamburg-points-of-interest-{datetime.now().strftime("%Y")}-{datetime.now().strftime("%m")}-json",
+    )
+    os.makedirs(results_json_path, exist_ok=True)
+    shutil.copy(
+        os.path.join(
+            bronze_path,
+            f"hamburg-points-of-interest-{current_year}-{current_month}",
+            "hamburg-points-of-interest-forests-details.json",
+        ),
+        results_json_path,
+    )
+    shutil.copy(
+        os.path.join(
+            bronze_path,
+            f"hamburg-points-of-interest-{current_year}-{current_month}",
+            "hamburg-points-of-interest-parks-details.json",
+        ),
+        results_json_path,
     )
 
     #
