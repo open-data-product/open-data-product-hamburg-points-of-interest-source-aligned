@@ -41,6 +41,32 @@ interfaceComponents:
       componentGroup:
       tags:
       externalDocs:
+    - promises:
+      expectations:
+      obligations:
+      id: hamburg-points-of-interest-2025-12-csv
+      fullyQualifiedName: hamburg-points-of-interest-2025-12-csv
+      entityType:
+      name: ''
+      version:
+      displayName:
+      description:
+      componentGroup:
+      tags:
+      externalDocs:
+    - promises:
+      expectations:
+      obligations:
+      id: hamburg-points-of-interest-2025-12-parquet
+      fullyQualifiedName: hamburg-points-of-interest-2025-12-parquet
+      entityType:
+      name: ''
+      version:
+      displayName:
+      description:
+      componentGroup:
+      tags:
+      externalDocs:
   inputPorts:
     - promises:
       expectations:

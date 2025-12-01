@@ -1,0 +1,158 @@
+id,name,street,zip_code,lat,lon,geojson_feature_id
+21634136,Stadtbibliothek,,,53.5106531,10.2504808,0
+25149456,Bücherhalle Barmbek,Poppenhusenstraße 12,22305,53.5862316,10.044504,04410427
+31032271,Kinderbibliothek,Hühnerposten 1,20097,53.5500374,10.0086697,01106115
+55104136,Bücherhalle Eidelstedt,Alte Elbgaustraße 12,22523,53.6074682,9.9028581,03308320
+272602415,Zentralbibliothek für Wirtschaftswissenschaften,,,53.556974,9.9924733,01103108
+277305227,Universitätsbibliothek der TUHH,Denickestraße 22,21073,53.4609968,9.9692164,07701701
+296163986,Bücherei im Rathaus,Bahnhofstraße 39,21629,53.4682829,9.7912693,0
+303650623,Bücherhalle Eimsbüttel,Doormannsweg 12,20259,53.5720074,9.9564014,03301306
+308910405,Bücherhalle Harburg,,,53.4566665,9.9839912,07701702
+351573914,Bücherhalle Altona,Ottenser Hauptstraße 10,22765,53.5530092,9.9316935,02204213
+364123372,Fachbibliothek Technik Wirtschaft Information 1,,,53.5566027,10.0220998,01105113
+364123447,Fachbibliothek Technik und Informatik,Berliner Tor 5,20099,53.5572326,10.0230931,01105113
+369992222,Bücherhalle Dehnhaide,Wohldorfer Straße 30,22081,53.5770179,10.0429318,04408422
+369995603,Bücherhalle Billstedt,Möllner Landstraße 31,22111,53.5393206,10.1071805,01112130
+370003104,Bücherhalle Finkenwerder,Ostfrieslandstraße 5,21129,53.5322648,9.8790514,01120141
+370043992,Bücherhalle Fuhlsbüttel,Ratsmühlendamm 23,22335,53.6260845,10.025542,04411430
+370049974,Bücherhalle Langenhorn,Langenhorner Markt 1-18,22415,53.6500886,10.013538,04413432
+370050228,Bücherhalle Lokstedt,Kollaustraße 1,,53.6002342,9.9631099,03305317
+370050991,Bücherhalle Mümmelmannsberg,Feiningerstraße 8,22115,53.5290185,10.1483755,01112130
+370051310,Bücherhalle Neuallermöhe,Fleetplatz 2 -4,21035,53.4891103,10.1579181,06614615
+370056679,Bücherhalle Schnelsen,Wählingsallee 19,22459,53.6313618,9.9179285,03307319
+370058957,Bücherhalle Steilshoop,Gropiusring 43a,22309,53.6141732,10.0575086,05508516
+370063355,Bücherhalle Volksdorf,Eulenkrugstraße 55,22359,53.6480101,10.168954,05517525
+370066927,Bücherhalle Wilhelmsburg,Vogelhüttendeich 45,21107,53.5179353,9.9862547,01116137
+370068083,Bücherhalle Winterhude,Winterhuder Marktplatz 6,22299,53.5942716,10.0010504,04405409
+391527466,Stadtbücherei Quickborn,Bahnhofstraße 100,25451,53.7311844,9.904409,0
+427596942,Bücherei Großhansdorf,,,53.6475346,10.2775241,0
+456737337,Nordkirchenbibliothek,,,53.5479644,9.936762,02201203
+472570241,Stadtbücherei Bargteheide,Am Markt 4,22941,53.7279724,10.2612815,0
+487371926,Bücherhalle Holstenstraße,Norderreihe 5-7,,53.5569269,9.9524011,02201206
+487402486,Bücherhalle Bramfeld,Herthastraße 18,22179,53.6111365,10.0787088,05507515
+487428207,Bücherhalle Horn,Am Gojenboom 46,22111,53.5540136,10.0816381,01111128
+493172859,Bücherhalle Wandsbek,Wandsbeker Allee 64,,53.5743781,10.0696038,05502507
+512099065,Bibliothek des Fachbereichs Chemie,Martin-Luther-King-Platz 6,20146,53.5681071,9.9787317,03302311
+554976608,"Universitätsbibliothek, Helmut-Schmidt-Universität, Universität der Bundeswehr Hamburg",Holstenhofweg 85,22043,53.5693635,10.1095971,05504512
+554995243,"Bibliothek, Instituts für Friedensforschung und Sicherheitspolitik an der Universität Hamburg",,,53.5697607,9.9758346,03302311
+555001168,Bibliothek des Fachbereichs Informatik,,,53.5991542,9.9322696,03309321
+555016398,Bibliohek in der Hochschule der Bildenden Künste,,,53.5671836,10.0315422,04406415
+583495258,Parlamentsbibliothek,,,53.5502232,9.9927728,01101102
+583498425,"Bücherei, Behörde für Inneres Hamburg, Amt A",Johanniswall 4,20095,53.5489216,10.0045177,01101101
+583498784,"Hamburger Kunsthalle, Bibliothek",,,53.5553461,10.0028498,01101101
+583501365,UNESCO-Institut für Lebenslanges Lernen,,,53.5683323,9.9912045,03302312
+583510581,Commerzbibliothek,Adolphsplatz 1,20457,53.5500579,9.9909581,01101102
+584880329,Mediothek und Dokumentationsstelle,,,53.5517582,10.0165556,01105114
+584884162,Musikbibliothek,Hühnerposten 1,20097,53.5495233,10.0078955,01106115
+585008249,Gerd Bucerius Bibliothek,,,53.5511055,10.0096119,01105114
+587629284,Bibliothek des Evangelischen Missionswerks in Deutschland,,,53.5509231,10.0313751,01107119
+587629285,Archiv Aktiv,Normannenweg 17-21,20537,53.5509438,10.0314283,01107119
+587668104,Gerichtsbibliothek,,,53.557558,10.0220781,01105113
+587668544,"Bibliothek, Forschungsstelle für Zeitgeschichte in Hamburg",,,53.5696343,9.9755662,03302311
+587668665,"Bibliothek, Institut für die Geschichte der deutschen Juden",,,53.5696253,9.9760951,03302311
+587670000,"Bibliothek, Institut für Finno-Ugristik / Uralistik",,20144,53.5726958,9.977242,03303313
+587673450,"Asien-Afrika-Institut der Universität Hamburg, Bibliothek",,,53.5624438,9.9889343,03302312
+587683755,Fachbibliothek Wirtschaftswissenschaften,Von-Melle-Park 5,20146,53.5654157,9.9847877,03302312
+587683756,Sozialwissenschaftliche Bibliothek,,,53.5674212,9.9823785,03302312
+587683757,"Bibliothek, Humanbiologie",,,53.5678371,9.9829142,03302312
+588375124,Bibliothek - Mathematik und Geschichte der Naturwissenschaften,,20146,53.5684295,9.9738294,03302311
+588375125,"Bibliothek, Geologisch-Paläontologisches Institut und Museum",,20146,53.5679728,9.9740443,03302311
+588375127,Bibliotheks- und Informationsservice,,20146,53.5676602,9.9752031,03302311
+588375129,"Bibliothek, Institut für Geographie",,20146,53.5680986,9.973966,03302311
+588375131,"Bibliothek, Geographische Gesellschaft",,20146,53.5682011,9.9739009,03302311
+588375133,"Bibliothek, Institut für Ausländisches und Internationales Finanz- und Steuerwesen der Universität Hamburg",,20146,53.5690682,9.9776762,03302311
+588375135,"Bibliothek, Fachbereich Evangelische Theologie",,20146,53.5692624,9.9778851,03302311
+588375137,"Bibliothek, Biozentrum Grindel und Zoologisches Museum",,20146,53.5675992,9.9792451,03302311
+588375143,Bibliothek des Mineralogisch-Petrographischen Instituts,,,53.5665323,9.9825283,03302312
+588424405,Bibliothek des Helms-Museums,,,53.459036,9.9773439,07701701
+588432269,Bibliothek / Medienzentrum Asklepios Medical School,,,53.5586311,10.01982,01105113
+588936443,Zentralbibliothek Recht,,,53.5667309,9.9878916,03302312
+593561557,Bibliothek Homo Ludens,,,53.5691424,9.9912155,03302312
+594750101,GIGA Informationszentrum - Fachbibliothek Asien,Rothenbaumchaussee 32,20148,53.5652101,9.9897232,03302312
+594755176,"Bibliothek, Hamburger Institut für Sozialforschung",Mittelweg 36,20148,53.5692024,9.9947238,03302312
+594761028,Hans-Bredow-Institut für Medienforschung,Heimhuder Straße 21,20148,53.5650681,9.9922174,03302312
+594769212,"Bibliothek, Max-Planck-Institut für ausländisches und internationales Privatrecht",,,53.5627859,9.9947759,03302312
+594770828,Bibliothek des MARKK,,,53.5683215,9.9892787,03302312
+595645245,Hamburger Bibliothek für Universitätsgeschichte,,,53.5630937,9.9884234,03302312
+595655628,"Bibliothek, Institut für Deutsche Gebärdensprache und Kommunikation Gehörloser",,,53.5575295,9.984574,01103108
+595656654,"Genealogische Gesellschaft Hamburg e.V., Bibliothek und Archiv",,,53.5728365,9.9961049,03302312
+596471091,"Psychotherapie und analytische Kinder- und Jugendlichenpsychotherapie, Bibliothek",,,53.5816007,9.9780763,04401401
+596477449,GIGA Informationszentrum - Fachbibliothek,Neuer Jungfernstieg 21,20354,53.5573245,9.9926369,01103108
+596481152,"Bibliothek , Musikwissenschaftliches Institut",,,53.5612562,9.9940888,03302312
+614923627,"Bibliothek, Justizbehörde Hamburg",,,53.5568144,9.985224,01103108
+614959177,"Bibliothek, Land- und Amtsgericht Hamburg",,,53.5557238,9.9766746,01103106
+614959179,"Bibliothek, Hanseatisches Oberlandesgericht",,,53.5570103,9.9768402,01103106
+614961709,"Bibliothek, Museum für Hamburgische Geschichte",,,53.5511987,9.9734831,01103106
+614962727,Zentrale Bibliothek des Fachbereichs Physik,,,53.5586314,9.9817648,01103106
+614963707,Hamburger Lehrerbibliothek am Landesinstitut,Felix-Dahn-Straße 3,20357,53.5708433,9.9661278,03301309
+614969148,"Bibliothek, Bernhard-Nocht-Institut für Tropenmedizin",,,53.5468419,9.9649891,01104112
+615147454,"Bibliothek, Amerikazentrum Hamburg e.V",Am Sandtorkai 48,20457,53.5431866,9.9947823,01102103
+615149412,Hamburg Port Authority Bibliothek,Neuer Wandrahm 4,20457,53.5449315,9.9954396,01102103
+615155955,"Bibliothek, Statistisches Amt für Hamburg und Schleswig-Holstein",Steckelhörn 12,20457,53.5456244,9.9929453,01101102
+615332893,Bücherei der Behörde für Wirtschaft und Innovation,,,53.5505293,9.9835122,01103107
+615517375,"Bibliothek, Mennoniten-Gemeinde zu Hamburg und Altona",,,53.5672699,9.9483945,02203209
+615915070,"Bibliothek, Altonaer Museum, Museum für Kunst- und Kulturgeschichte",,,53.5490229,9.934301,02204214
+615930361,Biozentrum Klein Flottbek und Botanischer Garten,,,53.5599806,9.8597402,02209221
+615932363,"Bibliothek, Missionsakademie an der Universität Hamburg",,,53.5567028,9.8384354,02210222
+615934800,Bibliothek,Windmühlenweg 27,22607,53.5676626,9.871006,02206218
+616091396,"Christianeum, Lehrerbibliothek",,,53.5580256,9.8735576,02207219
+616091690,"Fachinformationsstelle Bibliothek, Führungsakademie der Bundeswehr",Manteuffelstraße 20,22587,53.5636385,9.8324864,02210222
+616092096,"Bibliothek, Kuratorium für Forschung im Küsteningenieurwesen",,,53.583312,9.7368603,02214227
+616094359,TÜV NORD Service GmbH,,,53.5736021,9.9377378,03309321
+616094519,"Ärztliche Bibliothek, Asklepios Westklinikum Hamburg",,,53.5825718,9.7769366,02214227
+616581617,"Hauptbibliothek, Gelehrtenschule des Johanneums",Maria-Louisen-Straße 114,22301,53.5899799,10.0064378,04405410
+616583295,"Fachbücherei, Fachbereich Polizei",,,53.6023602,10.0007191,04405408
+616584759,Fachbibliothek,,,53.6060108,10.0364127,04410429
+616738300,Mediothek,,,53.6148684,10.1200203,05506514
+616742326,"Fachbibliothek Design, Hochschulinformations- und Bibliotheksservice",,,53.5650865,10.0228556,04407416
+616749857,Zentrale Bibliothek Behörden Hamburger Straße,Hamburger Straße 41,22083,53.573903,10.0323824,04408420
+616754548,"Bibliothek und Dokumentationsstelle, Landesarbeitsgericht und Arbeitsgericht Hamburg",Osterbekstraße 96,22083,53.5842031,10.0327451,04408419
+616965947,"Bibliothek, Museum für Bergedorf und die Vierlande",,,53.4896258,10.2125513,06602602
+616966380,Thünen-Instituts,,,53.5048163,10.2016199,06601601
+616966804,Fachbibliothek Life Sciences,,,53.4936778,10.1995371,06601601
+616967383,Bibliothek KZ-Gedenkstätte Neuengamme,Jean-Dolidier-Weg 75,21039,53.4284145,10.2275928,06605606
+616967647,Philatelistische Bibliothek Hamburg e.V.,Basedowstraße 12,20537,53.5438867,10.0395344,01106118
+616968880,"Bibliothek, Staatsarchiv der Freien und Hansestadt Hamburg",,,53.5754241,10.0686062,05502507
+616968968,"Bibliothek, Verein für Hamburgische Geschichte",Kattunbleiche 19,22041,53.5753164,10.0686655,05502507
+616978357,,Wagnerstraße 60,,53.5713846,10.0388386,04408422
+652980318,Sportfreunde der Sperrtechnik e.V.,Eschelsweg 4,22767,53.5498627,9.9464799,02201203
+706970878,Niederdeutsche Bibliothek,,,53.5513929,9.9765961,01103106
+736787961,Bücherhalle Elbvororte,Sülldorfer Kirchenweg 1a,22587,53.5635838,9.8117966,02211224
+739887143,Stadtbücherei Norderstedt-Mitte,Rathausallee 50,22846,53.7081853,9.9936151,0
+1297182795,Zentralbibliothek,Hühnerposten 1,20097,53.5496446,10.0080194,01106115
+1509857677,Bücherei Halstenbek-Ort,Schulstraße 9,25469,53.6356829,9.841342,0
+1587084913,DESY Bibliothek,,,53.5767796,9.8783738,02205217
+1587115898,Physikalische Institute Bahrenfeld / Theoretische Physik,,,53.576807,9.8768984,02205217
+1592757405,DESY / HASYLAB,Notkestraße 85,22607,53.5789857,9.882808,02205217
+1639033849,Stadtbücherei Glinde,Markt 2,21509,53.5409346,10.2140746,0
+1660846827,Archiv der Sozialen Bewegungen,,,53.5620634,9.9614723,02202207
+1660983172,Bücherhalle Bergedorf,,,53.4872747,10.2090516,06602602
+1665807670,Bücherei Havighorst,,,53.5242919,10.1680838,0
+1924197061,Hoeb4U,Hühnerposten 1,20097,53.5497207,10.0083508,01106115
+2003302346,VHS-Oststeinbek,,,53.5418125,10.164767,0
+2054164916,Bücherei Maschen,Schulstraße 55,21220,53.3971848,10.0416244,0
+2112826390,Offenes Archiv,Jean-Dolidier-Weg 75,21039,53.4292839,10.2312134,06605606
+2159145885,Öffentliche Bücherei der Kirchengemeinde Philippus und Rimbert,Manshardtstraße 105a,22119,53.5589176,10.1042425,01111129
+2209673615,Bibliothek im Museum der Arbeit,Wiesendamm 3,22305,53.5858622,10.0458651,04410427
+2252552026,Egenbüttler Bücherschrank,,,53.6462862,9.8489097,0
+2355885510,Hamburgisches Architekturarchiv,,,53.5455117,10.0014338,01102103
+2597534206,Kultur- & Geschichtskontor,Reetwerder 17,21029,53.4910571,10.2098747,06602602
+3177603461,DENKtRÄUME – hamburger frauen*bibliothek,Grindelallee 43,20146,53.5661152,9.9807006,03302311
+3510949622,Ärztliche Zentralbibliothek im UKE,,,53.5918063,9.9725632,04402403
+4084610353,Norderstedter Bücherei - Stadtteilbücherei Glashütte,Mittelstraße 62,22851,53.6875544,10.0395574,0
+4103700930,Bibliothek für Kulturgeschichte und Kulturkunde,,,53.5633153,9.9872705,03302312
+4124644642,Bücherei Halstenbek-Krupunder,Bickbargen 109,25469,53.6209067,9.8633985,0
+4336202090,HCU-Bibliothek,,,53.5404425,10.0047018,01102104
+6483353553,Bibliothek TK,,,53.5913258,10.0568967,04410426
+6505667681,Theologische Bibliothek,,,53.5575674,9.9843414,01103108
+6843737967,Stadtbücherei Ahrensburg,Manfred-Samusch-Straße 3,22926,53.6738596,10.2362602,0
+7101450589,Stiftung Centralbibliothek für Blinde,Georgsplatz 1,20099,53.5536697,10.0035839,01101101
+8087592006,Gemeindbücherei Vahrendorf,,,53.4357515,9.907036,0
+8149785116,Bücherhalle,,,53.5880883,9.8491557,02209221
+11050864830,Bücherhalle Jenfelder Au,Wilsonstraße 77,22045,53.5807329,10.1320232,05504512
+11111226272,Bücherhalle Alstertal,Heegbarg 22,22391,53.6542291,10.0934999,05511519
+12063490781,Stadtteilbücherei Veddel,Am Zollhafen 5b,,53.52334,10.017945,01115134
+12124305675,Bibliothek für Geisteswissenschaften,,,53.5671273,9.9855561,03302312
+12259547754,Harburger Magicbuden e.V.,,,53.4622073,9.96593,07710711
+13105282068,Fachbibliothek Design Medien Infor­mation,Finkenau 35,22081,53.5692397,10.0348888,04406415
+13175153464,Bücherei Rellingen,Appelkamp 8,,53.6520263,9.834191,0
