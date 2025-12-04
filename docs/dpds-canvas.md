@@ -6,7 +6,7 @@
 ## Info
 
 * ID: hamburg-points-of-interest
-* fully qualified name: urn:dpds:opendataproduct:dataproducts:hamburg-points-of-interest:1.0
+* fully qualified name: urn:dpds:openlifeworlds:dataproducts:hamburg-points-of-interest:1.0
 * name: Hamburg Points of Interest
 * version: 1.0
 * display name: Hamburg Points of Interest
@@ -14,14 +14,14 @@
 * domain: domain
 ### Owner
 
-* id: Open Data product
-* name: Open Data product
+* id: Open Lifeworlds
+* name: Open Lifeworlds
 
 ## Interface Components
 
 ### Input Ports
-#### hamburg-administrative-boundaries
-* fully qualified name: hamburg-administrative-boundaries
+#### hamburg-geodata
+* fully qualified name: hamburg-geodata
 
 ### Output Ports
 #### hamburg-points-of-interest-2025-11-csv

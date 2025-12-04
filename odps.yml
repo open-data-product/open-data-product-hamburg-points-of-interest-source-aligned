@@ -13,7 +13,7 @@ product:
     categories:
       - timeseries
     description: This data product provides Hamburg points-of-interest data
-    logoURL: https://raw.githubusercontent.com/open-data-product/open-data-product-berlin-lor-population-source-aligned/refs/heads/main/logo-with-text.png
+    logoURL: https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/refs/heads/main/logo-with-text.png
     productSeries: Hamburg Timeseries Series
     standards: []
     tags:

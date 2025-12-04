@@ -1,13 +1,13 @@
 ---
 dataProductDescriptor: data-product-descriptor
 info:
-  fullyQualifiedName: urn:dpds:opendataproduct:dataproducts:hamburg-points-of-interest:1.0
+  fullyQualifiedName: urn:dpds:openlifeworlds:dataproducts:hamburg-points-of-interest:1.0
   name: Hamburg Points of Interest
   version: '1.0'
   domain: domain
   owner:
-    id: Open Data product
-    name: Open Data product
+    id: Open Lifeworlds
+    name: Open Lifeworlds
   id: hamburg-points-of-interest
   entityType:
   displayName: Hamburg Points of Interest
@@ -45,8 +45,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: hamburg-administrative-boundaries
-      fullyQualifiedName: hamburg-administrative-boundaries
+      id: hamburg-geodata
+      fullyQualifiedName: hamburg-geodata
       entityType:
       name: ''
       version:
