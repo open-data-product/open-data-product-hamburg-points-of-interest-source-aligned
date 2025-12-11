@@ -172,7 +172,7 @@ def main(clean, quiet):
     #
 
     create_jupyter_notebook_for_csv(
-        data_product_manifest=data_product_manifest,
+        data_product_manifest=data_product_manifest_without_context,
         results_path=script_path,
         data_path=gold_path,
         clean=True,
@@ -180,26 +180,26 @@ def main(clean, quiet):
     )
 
     update_data_product_manifest(
-        data_product_manifest=data_product_manifest,
+        data_product_manifest=data_product_manifest_without_context,
         config_path=script_path,
         data_paths=[gold_path],
         file_endings=(".csv", ".parquet"),
     )
 
     update_odps(
-        data_product_manifest=data_product_manifest,
+        data_product_manifest=data_product_manifest_without_context,
         odps=odps,
         config_path=script_path,
     )
 
     update_dpds(
-        data_product_manifest=data_product_manifest,
+        data_product_manifest=data_product_manifest_without_context,
         dpds=dpds,
         config_path=script_path,
     )
 
     generate_data_product_canvas(
-        data_product_manifest=data_product_manifest,
+        data_product_manifest=data_product_manifest_without_context,
         docs_path=docs_path,
     )
 
