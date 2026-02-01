@@ -1,0 +1,27 @@
+id,name,street,zip_code,lat,lon,geojson_feature_id
+103734459,Freiwillige Feuerwehr Delingsdorf,Schulstraße 3,22941,53.7075254,10.2528785,0
+534817666,Freiwillige Feuerwehr Tangstedt,,,53.6766466,9.8479638,0
+534889839,Freiwillige Feuerwehr Meckelfeld,Rampe 14,21217,53.4204166,10.0188024,0
+784008746,Freiwillige Feuerwehr Kröppelshagen-Fahrendorf,Schulweg 1,21529,53.4858166,10.3167593,0
+1357946422,Freiwillige Feuerwehr Willinghusen,,,53.5622546,10.2080484,0
+1393759143,Freiwillige Feuerwehr Billstedt-Horn,,,53.5566959,10.1018735,01111129
+1431267820,Freiwillige Feuerwehr Ohe,Hoibeken 6,21465,53.5459503,10.2821981,0
+1454502540,Freiwillige Feuerwehr Klein Hansdorf / Timmerhorn,,,53.7155629,10.2139317,0
+1657200418,Freiwillige Feuerwehr Vahrendorf-Sottorf,Harburger Straße 39,21224,53.4294937,9.9026771,0
+1665807694,Freiwillige Feuerwehr Boberg,,,53.514816,10.1600726,06601601
+2113896834,Freiwillige Feuerwehr Beckedorf-Metzendorf,Wittenberger Weg 12,21218,53.4112123,9.9615477,0
+2113927947,Freiwillige Feuerwehr Hörsten,,,53.4125579,10.0655155,0
+2135247122,Freiwillige Feuerwehr Estebrügge,Estebrügger Straße 117,21635,53.5104394,9.730394,0
+2135257720,Freiwillige Feuerwehr Moorende,Moorende 49a,21635,53.5094181,9.7316904,0
+2146415729,Freiwillige Feuerwehr Ahrensburg,,,53.6422391,10.2183552,0
+2170750917,Freiwillige Feuerwehr Oststeinbek,Stormarnstraße 2,22113,53.5402602,10.1693215,0
+2327573513,Freiwillige Feuerwehr Schönningstedt,Oher Straße 18,21465,53.5314391,10.260456,0
+2506502771,Freiwillige Feuerwehr Bargteheide,,,53.7315168,10.2610099,0
+4575065887,Ortsfeuerwehr Glüsingen,Wennern 8,21217,53.4070188,10.0153281,0
+5520263853,Freiwillige Feuerwehr Berliner Tor,Bergmannring 6,22119,53.5570124,10.1020515,01111129
+6531666993,Werkfeuerwehr Mercedes-Benz,,,53.4723768,9.9241982,07710711
+7414798633,Freiwillige Feuerwehr Stellau,Am Spritzenhaus 2,22885,53.5893782,10.2388357,0
+7581339088,Freiwillige Feuerwehr Ellerhoop,Hurst-Green-Platz 1,25373,53.7304306,9.7826412,0
+11239842871,Freiwillige Feuerwehr Börnsen,,,53.4774054,10.2856524,0
+11239855373,Freiwillige Feuerwehr Wohltorf,,,53.5152275,10.2924113,0
+11239890325,Freiwillige Feuerwehr Aumühle,,,53.525194,10.3090835,0
