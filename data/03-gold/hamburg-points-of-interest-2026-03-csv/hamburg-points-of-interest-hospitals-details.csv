@@ -1,0 +1,4 @@
+id,name,street,zip_code,lat,lon,geojson_feature_id
+6430148010,Park-Klinik Blankenese,Sülldorfer Kirchenweg 1,22587,53.5636861,9.8120599,02211224
+10011642817,Die Facharztklinik Hamburg,Martinistraße 78,20251,53.5883283,9.9727691,04402403
+12826356316,LipoClinic Dr. Heck,Sülldorfer Kirchenweg 1b,,53.563668,9.811799,02211224
