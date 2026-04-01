@@ -5,7 +5,7 @@
 
 * owner: Open Data Product
 * description: This data product provides Hamburg points-of-interest data
-* updated: 2026-03-01
+* updated: 2026-04-01
 
 ## Input Ports
 
@@ -23,7 +23,7 @@
 name: Hamburg Points Of Interest 2025 11 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2025-11-csv
-* updated: 2026-03-01
+* updated: 2026-04-01
 
 **Files**
 
@@ -243,7 +243,7 @@ name: Hamburg Points Of Interest 2025 11 Csv
 name: Hamburg Points Of Interest 2025 11 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2025-11-parquet
-* updated: 2026-03-01
+* updated: 2026-04-01
 
 **Files**
 
@@ -463,7 +463,7 @@ name: Hamburg Points Of Interest 2025 11 Parquet
 name: Hamburg Points Of Interest 2025 12 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2025-12-csv
-* updated: 2026-03-01
+* updated: 2026-04-01
 
 **Files**
 
@@ -683,7 +683,7 @@ name: Hamburg Points Of Interest 2025 12 Csv
 name: Hamburg Points Of Interest 2025 12 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2025-12-parquet
-* updated: 2026-03-01
+* updated: 2026-04-01
 
 **Files**
 
@@ -903,7 +903,7 @@ name: Hamburg Points Of Interest 2025 12 Parquet
 name: Hamburg Points Of Interest 2026 01 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-01-csv
-* updated: 2026-03-01
+* updated: 2026-04-01
 
 **Files**
 
@@ -1048,7 +1048,7 @@ name: Hamburg Points Of Interest 2026 01 Csv
 name: Hamburg Points Of Interest 2026 01 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-01-parquet
-* updated: 2026-03-01
+* updated: 2026-04-01
 
 **Files**
 
@@ -1193,7 +1193,7 @@ name: Hamburg Points Of Interest 2026 01 Parquet
 name: Hamburg Points Of Interest 2026 02 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-02-csv
-* updated: 2026-03-01
+* updated: 2026-04-01
 
 **Files**
 
@@ -1393,7 +1393,7 @@ name: Hamburg Points Of Interest 2026 02 Csv
 name: Hamburg Points Of Interest 2026 02 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-02-parquet
-* updated: 2026-03-01
+* updated: 2026-04-01
 
 **Files**
 
@@ -1593,7 +1593,7 @@ name: Hamburg Points Of Interest 2026 02 Parquet
 name: Hamburg Points Of Interest 2026 03 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-03-csv
-* updated: 2026-03-01
+* updated: 2026-04-01
 
 **Files**
 
@@ -1768,7 +1768,7 @@ name: Hamburg Points Of Interest 2026 03 Csv
 name: Hamburg Points Of Interest 2026 03 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-03-parquet
-* updated: 2026-03-01
+* updated: 2026-04-01
 
 **Files**
 
@@ -1937,6 +1937,176 @@ name: Hamburg Points Of Interest 2026 03 Parquet
 * [hamburg-points-of-interest-universities-district-region.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-03-parquet/hamburg-points-of-interest-universities-district-region.parquet)
 * [hamburg-points-of-interest-universities-district.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-03-parquet/hamburg-points-of-interest-universities-district.parquet)
 * [hamburg-points-of-interest-universities-quarter.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-03-parquet/hamburg-points-of-interest-universities-quarter.parquet)
+
+
+### hamburg-points-of-interest-2026-04-csv
+name: Hamburg Points Of Interest 2026 04 Csv
+* owner: Open Data Product
+* url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-04-csv
+* updated: 2026-04-01
+
+**Files**
+
+* [hamburg-points-of-interest-bars-city.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-bars-city.csv)
+* [hamburg-points-of-interest-bars-details.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-bars-details.csv)
+* [hamburg-points-of-interest-bars-district-region.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-bars-district-region.csv)
+* [hamburg-points-of-interest-bars-district.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-bars-district.csv)
+* [hamburg-points-of-interest-bars-quarter.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-bars-quarter.csv)
+* [hamburg-points-of-interest-bicycle-rentals-city.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-bicycle-rentals-city.csv)
+* [hamburg-points-of-interest-bicycle-rentals-details.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-bicycle-rentals-details.csv)
+* [hamburg-points-of-interest-bicycle-rentals-district-region.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-bicycle-rentals-district-region.csv)
+* [hamburg-points-of-interest-bicycle-rentals-district.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-bicycle-rentals-district.csv)
+* [hamburg-points-of-interest-bicycle-rentals-quarter.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-bicycle-rentals-quarter.csv)
+* [hamburg-points-of-interest-cafes-city.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-cafes-city.csv)
+* [hamburg-points-of-interest-cafes-details.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-cafes-details.csv)
+* [hamburg-points-of-interest-cafes-district-region.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-cafes-district-region.csv)
+* [hamburg-points-of-interest-cafes-district.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-cafes-district.csv)
+* [hamburg-points-of-interest-cafes-quarter.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-cafes-quarter.csv)
+* [hamburg-points-of-interest-childcare-city.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-childcare-city.csv)
+* [hamburg-points-of-interest-childcare-details.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-childcare-details.csv)
+* [hamburg-points-of-interest-childcare-district-region.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-childcare-district-region.csv)
+* [hamburg-points-of-interest-childcare-district.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-childcare-district.csv)
+* [hamburg-points-of-interest-childcare-quarter.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-childcare-quarter.csv)
+* [hamburg-points-of-interest-coworking-spaces-city.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-coworking-spaces-city.csv)
+* [hamburg-points-of-interest-coworking-spaces-details.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-coworking-spaces-details.csv)
+* [hamburg-points-of-interest-coworking-spaces-district-region.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-coworking-spaces-district-region.csv)
+* [hamburg-points-of-interest-coworking-spaces-district.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-coworking-spaces-district.csv)
+* [hamburg-points-of-interest-coworking-spaces-quarter.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-coworking-spaces-quarter.csv)
+* [hamburg-points-of-interest-hospitals-city.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-hospitals-city.csv)
+* [hamburg-points-of-interest-hospitals-details.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-hospitals-details.csv)
+* [hamburg-points-of-interest-hospitals-district-region.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-hospitals-district-region.csv)
+* [hamburg-points-of-interest-hospitals-district.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-hospitals-district.csv)
+* [hamburg-points-of-interest-hospitals-quarter.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-hospitals-quarter.csv)
+* [hamburg-points-of-interest-ice-cream-parlours-city.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-ice-cream-parlours-city.csv)
+* [hamburg-points-of-interest-ice-cream-parlours-details.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-ice-cream-parlours-details.csv)
+* [hamburg-points-of-interest-ice-cream-parlours-district-region.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-ice-cream-parlours-district-region.csv)
+* [hamburg-points-of-interest-ice-cream-parlours-district.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-ice-cream-parlours-district.csv)
+* [hamburg-points-of-interest-ice-cream-parlours-quarter.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-ice-cream-parlours-quarter.csv)
+* [hamburg-points-of-interest-libraries-city.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-libraries-city.csv)
+* [hamburg-points-of-interest-libraries-details.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-libraries-details.csv)
+* [hamburg-points-of-interest-libraries-district-region.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-libraries-district-region.csv)
+* [hamburg-points-of-interest-libraries-district.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-libraries-district.csv)
+* [hamburg-points-of-interest-libraries-quarter.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-libraries-quarter.csv)
+* [hamburg-points-of-interest-museums-city.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-museums-city.csv)
+* [hamburg-points-of-interest-museums-details.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-museums-details.csv)
+* [hamburg-points-of-interest-museums-district-region.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-museums-district-region.csv)
+* [hamburg-points-of-interest-museums-district.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-museums-district.csv)
+* [hamburg-points-of-interest-museums-quarter.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-museums-quarter.csv)
+* [hamburg-points-of-interest-offices-city.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-offices-city.csv)
+* [hamburg-points-of-interest-offices-details.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-offices-details.csv)
+* [hamburg-points-of-interest-offices-district-region.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-offices-district-region.csv)
+* [hamburg-points-of-interest-offices-district.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-offices-district.csv)
+* [hamburg-points-of-interest-offices-quarter.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-offices-quarter.csv)
+* [hamburg-points-of-interest-restaurants-city.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-restaurants-city.csv)
+* [hamburg-points-of-interest-restaurants-details.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-restaurants-details.csv)
+* [hamburg-points-of-interest-restaurants-district-region.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-restaurants-district-region.csv)
+* [hamburg-points-of-interest-restaurants-district.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-restaurants-district.csv)
+* [hamburg-points-of-interest-restaurants-quarter.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-restaurants-quarter.csv)
+* [hamburg-points-of-interest-sbahn-stops-city.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-sbahn-stops-city.csv)
+* [hamburg-points-of-interest-sbahn-stops-details.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-sbahn-stops-details.csv)
+* [hamburg-points-of-interest-sbahn-stops-district-region.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-sbahn-stops-district-region.csv)
+* [hamburg-points-of-interest-sbahn-stops-district.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-sbahn-stops-district.csv)
+* [hamburg-points-of-interest-sbahn-stops-quarter.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-sbahn-stops-quarter.csv)
+* [hamburg-points-of-interest-supermarkets-city.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-supermarkets-city.csv)
+* [hamburg-points-of-interest-supermarkets-details.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-supermarkets-details.csv)
+* [hamburg-points-of-interest-supermarkets-district-region.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-supermarkets-district-region.csv)
+* [hamburg-points-of-interest-supermarkets-district.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-supermarkets-district.csv)
+* [hamburg-points-of-interest-supermarkets-quarter.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-supermarkets-quarter.csv)
+* [hamburg-points-of-interest-ubahn-stops-city.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-ubahn-stops-city.csv)
+* [hamburg-points-of-interest-ubahn-stops-details.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-ubahn-stops-details.csv)
+* [hamburg-points-of-interest-ubahn-stops-district-region.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-ubahn-stops-district-region.csv)
+* [hamburg-points-of-interest-ubahn-stops-district.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-ubahn-stops-district.csv)
+* [hamburg-points-of-interest-ubahn-stops-quarter.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-ubahn-stops-quarter.csv)
+* [hamburg-points-of-interest-universities-city.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-universities-city.csv)
+* [hamburg-points-of-interest-universities-details.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-universities-details.csv)
+* [hamburg-points-of-interest-universities-district-region.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-universities-district-region.csv)
+* [hamburg-points-of-interest-universities-district.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-universities-district.csv)
+* [hamburg-points-of-interest-universities-quarter.csv](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-universities-quarter.csv)
+
+
+### hamburg-points-of-interest-2026-04-parquet
+name: Hamburg Points Of Interest 2026 04 Parquet
+* owner: Open Data Product
+* url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet
+* updated: 2026-04-01
+
+**Files**
+
+* [hamburg-points-of-interest-bars-city.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-bars-city.parquet)
+* [hamburg-points-of-interest-bars-details.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-bars-details.parquet)
+* [hamburg-points-of-interest-bars-district-region.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-bars-district-region.parquet)
+* [hamburg-points-of-interest-bars-district.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-bars-district.parquet)
+* [hamburg-points-of-interest-bars-quarter.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-bars-quarter.parquet)
+* [hamburg-points-of-interest-bicycle-rentals-city.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-bicycle-rentals-city.parquet)
+* [hamburg-points-of-interest-bicycle-rentals-details.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-bicycle-rentals-details.parquet)
+* [hamburg-points-of-interest-bicycle-rentals-district-region.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-bicycle-rentals-district-region.parquet)
+* [hamburg-points-of-interest-bicycle-rentals-district.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-bicycle-rentals-district.parquet)
+* [hamburg-points-of-interest-bicycle-rentals-quarter.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-bicycle-rentals-quarter.parquet)
+* [hamburg-points-of-interest-cafes-city.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-cafes-city.parquet)
+* [hamburg-points-of-interest-cafes-details.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-cafes-details.parquet)
+* [hamburg-points-of-interest-cafes-district-region.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-cafes-district-region.parquet)
+* [hamburg-points-of-interest-cafes-district.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-cafes-district.parquet)
+* [hamburg-points-of-interest-cafes-quarter.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-cafes-quarter.parquet)
+* [hamburg-points-of-interest-childcare-city.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-childcare-city.parquet)
+* [hamburg-points-of-interest-childcare-details.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-childcare-details.parquet)
+* [hamburg-points-of-interest-childcare-district-region.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-childcare-district-region.parquet)
+* [hamburg-points-of-interest-childcare-district.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-childcare-district.parquet)
+* [hamburg-points-of-interest-childcare-quarter.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-childcare-quarter.parquet)
+* [hamburg-points-of-interest-coworking-spaces-city.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-coworking-spaces-city.parquet)
+* [hamburg-points-of-interest-coworking-spaces-details.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-coworking-spaces-details.parquet)
+* [hamburg-points-of-interest-coworking-spaces-district-region.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-coworking-spaces-district-region.parquet)
+* [hamburg-points-of-interest-coworking-spaces-district.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-coworking-spaces-district.parquet)
+* [hamburg-points-of-interest-coworking-spaces-quarter.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-coworking-spaces-quarter.parquet)
+* [hamburg-points-of-interest-hospitals-city.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-hospitals-city.parquet)
+* [hamburg-points-of-interest-hospitals-details.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-hospitals-details.parquet)
+* [hamburg-points-of-interest-hospitals-district-region.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-hospitals-district-region.parquet)
+* [hamburg-points-of-interest-hospitals-district.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-hospitals-district.parquet)
+* [hamburg-points-of-interest-hospitals-quarter.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-hospitals-quarter.parquet)
+* [hamburg-points-of-interest-ice-cream-parlours-city.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-ice-cream-parlours-city.parquet)
+* [hamburg-points-of-interest-ice-cream-parlours-details.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-ice-cream-parlours-details.parquet)
+* [hamburg-points-of-interest-ice-cream-parlours-district-region.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-ice-cream-parlours-district-region.parquet)
+* [hamburg-points-of-interest-ice-cream-parlours-district.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-ice-cream-parlours-district.parquet)
+* [hamburg-points-of-interest-ice-cream-parlours-quarter.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-ice-cream-parlours-quarter.parquet)
+* [hamburg-points-of-interest-libraries-city.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-libraries-city.parquet)
+* [hamburg-points-of-interest-libraries-details.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-libraries-details.parquet)
+* [hamburg-points-of-interest-libraries-district-region.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-libraries-district-region.parquet)
+* [hamburg-points-of-interest-libraries-district.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-libraries-district.parquet)
+* [hamburg-points-of-interest-libraries-quarter.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-libraries-quarter.parquet)
+* [hamburg-points-of-interest-museums-city.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-museums-city.parquet)
+* [hamburg-points-of-interest-museums-details.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-museums-details.parquet)
+* [hamburg-points-of-interest-museums-district-region.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-museums-district-region.parquet)
+* [hamburg-points-of-interest-museums-district.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-museums-district.parquet)
+* [hamburg-points-of-interest-museums-quarter.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-museums-quarter.parquet)
+* [hamburg-points-of-interest-offices-city.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-offices-city.parquet)
+* [hamburg-points-of-interest-offices-details.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-offices-details.parquet)
+* [hamburg-points-of-interest-offices-district-region.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-offices-district-region.parquet)
+* [hamburg-points-of-interest-offices-district.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-offices-district.parquet)
+* [hamburg-points-of-interest-offices-quarter.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-offices-quarter.parquet)
+* [hamburg-points-of-interest-restaurants-city.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-restaurants-city.parquet)
+* [hamburg-points-of-interest-restaurants-details.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-restaurants-details.parquet)
+* [hamburg-points-of-interest-restaurants-district-region.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-restaurants-district-region.parquet)
+* [hamburg-points-of-interest-restaurants-district.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-restaurants-district.parquet)
+* [hamburg-points-of-interest-restaurants-quarter.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-restaurants-quarter.parquet)
+* [hamburg-points-of-interest-sbahn-stops-city.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-sbahn-stops-city.parquet)
+* [hamburg-points-of-interest-sbahn-stops-details.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-sbahn-stops-details.parquet)
+* [hamburg-points-of-interest-sbahn-stops-district-region.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-sbahn-stops-district-region.parquet)
+* [hamburg-points-of-interest-sbahn-stops-district.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-sbahn-stops-district.parquet)
+* [hamburg-points-of-interest-sbahn-stops-quarter.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-sbahn-stops-quarter.parquet)
+* [hamburg-points-of-interest-supermarkets-city.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-supermarkets-city.parquet)
+* [hamburg-points-of-interest-supermarkets-details.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-supermarkets-details.parquet)
+* [hamburg-points-of-interest-supermarkets-district-region.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-supermarkets-district-region.parquet)
+* [hamburg-points-of-interest-supermarkets-district.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-supermarkets-district.parquet)
+* [hamburg-points-of-interest-supermarkets-quarter.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-supermarkets-quarter.parquet)
+* [hamburg-points-of-interest-ubahn-stops-city.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-ubahn-stops-city.parquet)
+* [hamburg-points-of-interest-ubahn-stops-details.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-ubahn-stops-details.parquet)
+* [hamburg-points-of-interest-ubahn-stops-district-region.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-ubahn-stops-district-region.parquet)
+* [hamburg-points-of-interest-ubahn-stops-district.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-ubahn-stops-district.parquet)
+* [hamburg-points-of-interest-ubahn-stops-quarter.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-ubahn-stops-quarter.parquet)
+* [hamburg-points-of-interest-universities-city.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-universities-city.parquet)
+* [hamburg-points-of-interest-universities-details.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-universities-details.parquet)
+* [hamburg-points-of-interest-universities-district-region.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-universities-district-region.parquet)
+* [hamburg-points-of-interest-universities-district.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-universities-district.parquet)
+* [hamburg-points-of-interest-universities-quarter.parquet](https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-universities-quarter.parquet)
 
 
 ## Classification

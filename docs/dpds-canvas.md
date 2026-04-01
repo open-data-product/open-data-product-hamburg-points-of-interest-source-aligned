@@ -44,6 +44,10 @@
 * fully qualified name: hamburg-points-of-interest-2026-03-csv
 #### hamburg-points-of-interest-2026-03-parquet
 * fully qualified name: hamburg-points-of-interest-2026-03-parquet
+#### hamburg-points-of-interest-2026-04-csv
+* fully qualified name: hamburg-points-of-interest-2026-04-csv
+#### hamburg-points-of-interest-2026-04-parquet
+* fully qualified name: hamburg-points-of-interest-2026-04-parquet
 
 
 ---
