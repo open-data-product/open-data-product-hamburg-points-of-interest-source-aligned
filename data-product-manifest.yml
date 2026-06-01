@@ -6,7 +6,7 @@ metadata:
   description: This data product provides Hamburg points-of-interest data
   url:
   license:
-  updated: 2026-05-01
+  updated: 2026-06-01
   schema:
 input_ports:
   - id: hamburg-geodata
@@ -23,7 +23,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2025-11-csv
       license:
-      updated: 2026-05-01
+      updated: 2026-06-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2025-11-csv/hamburg-points-of-interest-art-galleries-city.csv
@@ -243,7 +243,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2025-11-parquet
       license:
-      updated: 2026-05-01
+      updated: 2026-06-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2025-11-parquet/hamburg-points-of-interest-art-galleries-city.parquet
@@ -463,7 +463,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2025-12-csv
       license:
-      updated: 2026-05-01
+      updated: 2026-06-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2025-12-csv/hamburg-points-of-interest-art-galleries-city.csv
@@ -683,7 +683,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2025-12-parquet
       license:
-      updated: 2026-05-01
+      updated: 2026-06-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2025-12-parquet/hamburg-points-of-interest-art-galleries-city.parquet
@@ -903,7 +903,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-01-csv
       license:
-      updated: 2026-05-01
+      updated: 2026-06-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-01-csv/hamburg-points-of-interest-beer-gardens-city.csv
@@ -1048,7 +1048,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-01-parquet
       license:
-      updated: 2026-05-01
+      updated: 2026-06-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-01-parquet/hamburg-points-of-interest-beer-gardens-city.parquet
@@ -1193,7 +1193,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-02-csv
       license:
-      updated: 2026-05-01
+      updated: 2026-06-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-02-csv/hamburg-points-of-interest-bars-city.csv
@@ -1393,7 +1393,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-02-parquet
       license:
-      updated: 2026-05-01
+      updated: 2026-06-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-02-parquet/hamburg-points-of-interest-bars-city.parquet
@@ -1593,7 +1593,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-03-csv
       license:
-      updated: 2026-05-01
+      updated: 2026-06-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-03-csv/hamburg-points-of-interest-art-galleries-city.csv
@@ -1768,7 +1768,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-03-parquet
       license:
-      updated: 2026-05-01
+      updated: 2026-06-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-03-parquet/hamburg-points-of-interest-art-galleries-city.parquet
@@ -1943,7 +1943,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-04-csv
       license:
-      updated: 2026-05-01
+      updated: 2026-06-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-csv/hamburg-points-of-interest-bars-city.csv
@@ -2028,7 +2028,7 @@ output_ports:
       description:
       url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet
       license:
-      updated: 2026-05-01
+      updated: 2026-06-01
       schema:
     files:
       - https://raw.githubusercontent.com/open-data-product/open-data-product-hamburg-points-of-interest/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet/hamburg-points-of-interest-bars-city.parquet
