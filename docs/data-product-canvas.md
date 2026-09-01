@@ -5,7 +5,7 @@
 
 * owner: Open Data Product
 * description: This data product provides Hamburg points-of-interest data
-* updated: 2026-08-01
+* updated: 2026-09-01
 
 ## Input Ports
 
@@ -20,10 +20,10 @@
 ## Output Ports
 
 ### hamburg-points-of-interest-2025-11-csv
-name: Hamburg Points Of Interest 2025 11 Csv
+* name: Hamburg Points Of Interest 2025 11 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2025-11-csv
-* updated: 2026-08-01
+* updated: 2026-09-01
 
 **Files**
 
@@ -240,10 +240,10 @@ name: Hamburg Points Of Interest 2025 11 Csv
 
 
 ### hamburg-points-of-interest-2025-11-parquet
-name: Hamburg Points Of Interest 2025 11 Parquet
+* name: Hamburg Points Of Interest 2025 11 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2025-11-parquet
-* updated: 2026-08-01
+* updated: 2026-09-01
 
 **Files**
 
@@ -460,10 +460,10 @@ name: Hamburg Points Of Interest 2025 11 Parquet
 
 
 ### hamburg-points-of-interest-2025-12-csv
-name: Hamburg Points Of Interest 2025 12 Csv
+* name: Hamburg Points Of Interest 2025 12 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2025-12-csv
-* updated: 2026-08-01
+* updated: 2026-09-01
 
 **Files**
 
@@ -680,10 +680,10 @@ name: Hamburg Points Of Interest 2025 12 Csv
 
 
 ### hamburg-points-of-interest-2025-12-parquet
-name: Hamburg Points Of Interest 2025 12 Parquet
+* name: Hamburg Points Of Interest 2025 12 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2025-12-parquet
-* updated: 2026-08-01
+* updated: 2026-09-01
 
 **Files**
 
@@ -900,10 +900,10 @@ name: Hamburg Points Of Interest 2025 12 Parquet
 
 
 ### hamburg-points-of-interest-2026-01-csv
-name: Hamburg Points Of Interest 2026 01 Csv
+* name: Hamburg Points Of Interest 2026 01 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-01-csv
-* updated: 2026-08-01
+* updated: 2026-09-01
 
 **Files**
 
@@ -1045,10 +1045,10 @@ name: Hamburg Points Of Interest 2026 01 Csv
 
 
 ### hamburg-points-of-interest-2026-01-parquet
-name: Hamburg Points Of Interest 2026 01 Parquet
+* name: Hamburg Points Of Interest 2026 01 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-01-parquet
-* updated: 2026-08-01
+* updated: 2026-09-01
 
 **Files**
 
@@ -1190,10 +1190,10 @@ name: Hamburg Points Of Interest 2026 01 Parquet
 
 
 ### hamburg-points-of-interest-2026-02-csv
-name: Hamburg Points Of Interest 2026 02 Csv
+* name: Hamburg Points Of Interest 2026 02 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-02-csv
-* updated: 2026-08-01
+* updated: 2026-09-01
 
 **Files**
 
@@ -1390,10 +1390,10 @@ name: Hamburg Points Of Interest 2026 02 Csv
 
 
 ### hamburg-points-of-interest-2026-02-parquet
-name: Hamburg Points Of Interest 2026 02 Parquet
+* name: Hamburg Points Of Interest 2026 02 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-02-parquet
-* updated: 2026-08-01
+* updated: 2026-09-01
 
 **Files**
 
@@ -1590,10 +1590,10 @@ name: Hamburg Points Of Interest 2026 02 Parquet
 
 
 ### hamburg-points-of-interest-2026-03-csv
-name: Hamburg Points Of Interest 2026 03 Csv
+* name: Hamburg Points Of Interest 2026 03 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-03-csv
-* updated: 2026-08-01
+* updated: 2026-09-01
 
 **Files**
 
@@ -1765,10 +1765,10 @@ name: Hamburg Points Of Interest 2026 03 Csv
 
 
 ### hamburg-points-of-interest-2026-03-parquet
-name: Hamburg Points Of Interest 2026 03 Parquet
+* name: Hamburg Points Of Interest 2026 03 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-03-parquet
-* updated: 2026-08-01
+* updated: 2026-09-01
 
 **Files**
 
@@ -1940,10 +1940,10 @@ name: Hamburg Points Of Interest 2026 03 Parquet
 
 
 ### hamburg-points-of-interest-2026-04-csv
-name: Hamburg Points Of Interest 2026 04 Csv
+* name: Hamburg Points Of Interest 2026 04 Csv
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-04-csv
-* updated: 2026-08-01
+* updated: 2026-09-01
 
 **Files**
 
@@ -2025,10 +2025,10 @@ name: Hamburg Points Of Interest 2026 04 Csv
 
 
 ### hamburg-points-of-interest-2026-04-parquet
-name: Hamburg Points Of Interest 2026 04 Parquet
+* name: Hamburg Points Of Interest 2026 04 Parquet
 * owner: Open Data Product
 * url: https://github.com/open-data-product/open-data-product-hamburg-points-of-interest/tree/main/data/03-gold/hamburg-points-of-interest-2026-04-parquet
-* updated: 2026-08-01
+* updated: 2026-09-01
 
 **Files**
 
